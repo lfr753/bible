@@ -1,0 +1,4121 @@
+{
+  "book_id": "NAM",
+  "title": "Nahum",
+  "chapters": {
+    "1": {
+      "1": {
+        "words": [
+          {
+            "text": "מַשָּׂ֖א",
+            "lemma": "מַשָּׂא",
+            "strong": "H48532",
+            "x-morph": "He,Ncmsc",
+            "x-id": "34pFA"
+          },
+          {
+            "text": "נִֽינְוֵ֑ה",
+            "lemma": "נִינְוֵה",
+            "strong": "H52100",
+            "x-morph": "He,Np",
+            "x-id": "349fs"
+          },
+          {
+            "text": "סֵ֧פֶר",
+            "lemma": "סֵפֶר",
+            "strong": "H56121",
+            "x-morph": "He,Ncmsc",
+            "x-id": "34oQY"
+          },
+          {
+            "text": "חֲז֛וֹן",
+            "lemma": "חָזוֹן",
+            "strong": "H23770",
+            "x-morph": "He,Ncmsc",
+            "x-id": "346AD"
+          },
+          {
+            "text": "נַח֖וּם",
+            "lemma": "נַחוּם",
+            "strong": "H51510",
+            "x-morph": "He,Np",
+            "x-id": "34zpX"
+          },
+          {
+            "text": "הָ⁠אֶלְקֹשִֽׁי",
+            "lemma": "אֶלְקֹשִׁי",
+            "strong": "d:H05120",
+            "x-morph": "He,Td:Ngmsa",
+            "x-id": "347S9"
+          }
+        ]
+      },
+      "2": {
+        "words": [
+          {
+            "text": "אֵ֣ל",
+            "lemma": "אֵל",
+            "strong": "H04100",
+            "x-morph": "He,Ncmsa",
+            "x-id": "343Hp"
+          },
+          {
+            "text": "קַנּ֤וֹא",
+            "lemma": "קַנּוֹא",
+            "strong": "H70720",
+            "x-morph": "He,Aamsa",
+            "x-id": "34CXP"
+          },
+          {
+            "text": "וְ⁠נֹקֵם֙",
+            "lemma": "נָקַם",
+            "strong": "c:H53580",
+            "x-morph": "He,C:Vqrmsa",
+            "x-id": "34bqP"
+          },
+          {
+            "text": "יְהוָ֔ה",
+            "lemma": "יְהֹוָה",
+            "strong": "H30680",
+            "x-morph": "He,Np",
+            "x-id": "349sD"
+          },
+          {
+            "text": "נֹקֵ֥ם",
+            "lemma": "נָקַם",
+            "strong": "H53580",
+            "x-morph": "He,Vqrmsa",
+            "x-id": "34fps"
+          },
+          {
+            "text": "יְהוָ֖ה",
+            "lemma": "יְהֹוָה",
+            "strong": "H30680",
+            "x-morph": "He,Np",
+            "x-id": "34cCw"
+          },
+          {
+            "text": "וּ⁠בַ֣עַל",
+            "lemma": "בַּעַל",
+            "strong": "c:H11670",
+            "x-morph": "He,C:Ncmsc",
+            "x-id": "34Xcs"
+          },
+          {
+            "text": "חֵמָ֑ה",
+            "lemma": "חֵמָה",
+            "strong": "H25340",
+            "x-morph": "He,Ncfsa",
+            "x-id": "34GIO"
+          },
+          {
+            "text": "נֹקֵ֤ם",
+            "lemma": "נָקַם",
+            "strong": "H53580",
+            "x-morph": "He,Vqrmsa",
+            "x-id": "34UPQ"
+          },
+          {
+            "text": "יְהוָה֙",
+            "lemma": "יְהֹוָה",
+            "strong": "H30680",
+            "x-morph": "He,Np",
+            "x-id": "34V4k"
+          },
+          {
+            "text": "לְ⁠צָרָ֔י⁠ו",
+            "lemma": "צַר",
+            "strong": "l:H68623",
+            "x-morph": "He,R:Ncmpc:Sp3ms",
+            "x-id": "34iB7"
+          },
+          {
+            "text": "וְ⁠נוֹטֵ֥ר",
+            "lemma": "נָטַר",
+            "strong": "c:H52010",
+            "x-morph": "He,C:Vqrmsa",
+            "x-id": "34HgD"
+          },
+          {
+            "text": "ה֖וּא",
+            "lemma": "הוּא",
+            "strong": "H19310",
+            "x-morph": "He,Pp3ms",
+            "x-id": "34DzN"
+          },
+          {
+            "text": "לְ⁠אֹיְבָֽי⁠ו",
+            "lemma": "אֹיֵב",
+            "strong": "l:H03410",
+            "x-morph": "He,R:Vqrmpc:Sp3ms",
+            "x-id": "34JsQ"
+          }
+        ]
+      },
+      "3": {
+        "words": [
+          {
+            "text": "יְהֹוָ֗ה",
+            "lemma": "יְהֹוָה",
+            "strong": "H30680",
+            "x-morph": "He,Np",
+            "x-id": "34tWq"
+          },
+          {
+            "text": "אֶ֤רֶךְ",
+            "lemma": "אָרֵךְ",
+            "strong": "H07500",
+            "x-morph": "He,Aamsc",
+            "x-id": "340TW"
+          },
+          {
+            "text": "אַפַּ֨יִם֙",
+            "lemma": "אַף",
+            "strong": "H06390",
+            "x-morph": "He,Ncmda",
+            "x-id": "34RP6"
+          },
+          {
+            "text": "ו⁠גדול",
+            "lemma": "גָּדוֹל",
+            "strong": "c:H14191",
+            "x-morph": "He,C:Aamsc",
+            "x-id": "34YHp"
+          },
+          {
+            "text": "כֹּ֔חַ",
+            "lemma": "כֹּחַ",
+            "strong": "H35812",
+            "x-morph": "He,Ncmsa",
+            "x-id": "34MgD"
+          },
+          {
+            "text": "וְ⁠נַקֵּ֖ה",
+            "lemma": "נָקָה",
+            "strong": "c:H53520",
+            "x-morph": "He,C:Vpa",
+            "x-id": "34V0f"
+          },
+          {
+            "text": "לֹ֣א",
+            "lemma": "לֹא",
+            "strong": "H38080",
+            "x-morph": "He,Tn",
+            "x-id": "34iv9"
+          },
+          {
+            "text": "יְנַקֶּ֑ה",
+            "lemma": "נָקָה",
+            "strong": "H53520",
+            "x-morph": "He,Vpi3ms",
+            "x-id": "34BAp"
+          },
+          {
+            "text": "יְהוָ֗ה",
+            "lemma": "יְהֹוָה",
+            "strong": "H30680",
+            "x-morph": "He,Np",
+            "x-id": "349Lk"
+          },
+          {
+            "text": "בְּ⁠סוּפָ֤ה",
+            "lemma": "סוּפָה",
+            "strong": "b:H54921",
+            "x-morph": "He,R:Ncfsa",
+            "x-id": "34yvQ"
+          },
+          {
+            "text": "וּ⁠בִ⁠שְׂעָרָה֙",
+            "lemma": "שְׂעָרָה",
+            "strong": "c:b:H81830",
+            "x-morph": "He,C:R:Ncfsa",
+            "x-id": "349G1"
+          },
+          {
+            "text": "דַּרְכּ֔⁠וֹ",
+            "lemma": "דֶּרֶךְ",
+            "strong": "H18700",
+            "x-morph": "He,Ncbsc:Sp3ms",
+            "x-id": "34DIv"
+          },
+          {
+            "text": "וְ⁠עָנָ֖ן",
+            "lemma": "עָנָן",
+            "strong": "c:H60510",
+            "x-morph": "He,C:Ncmsa",
+            "x-id": "34d8L"
+          },
+          {
+            "text": "אֲבַ֥ק",
+            "lemma": "אָבָק",
+            "strong": "H00800",
+            "x-morph": "He,Ncmsc",
+            "x-id": "34mOt"
+          },
+          {
+            "text": "רַגְלָֽי⁠ו",
+            "lemma": "רֶגֶל",
+            "strong": "H72720",
+            "x-morph": "He,Ncfdc:Sp3ms",
+            "x-id": "34lC5"
+          }
+        ],
+        "apparatus": {
+          "words": [
+            {
+              "w": "וּ⁠גְדָל",
+              "id": "344hu",
+              "lemma": "גָּדַל",
+              "strong": "c:H14310",
+              "morph": "He,C:Vqq3ms"
+            }
+          ],
+          "ancient": [],
+          "critical": [
+            "Q:1-3,+1,5-15",
+            "K"
+          ]
+        }
+      },
+      "4": {
+        "words": [
+          {
+            "text": "גּוֹעֵ֤ר",
+            "lemma": "גָּעַר",
+            "strong": "H16050",
+            "x-morph": "He,Vqrmsa",
+            "x-id": "34i6C"
+          },
+          {
+            "text": "בַּ⁠יָּם֙",
+            "lemma": "יָם",
+            "strong": "b:H32200",
+            "x-morph": "He,Rd:Ncmsa",
+            "x-id": "34NDT"
+          },
+          {
+            "text": "וַֽ⁠יַּבְּשֵׁ֔⁠הוּ",
+            "lemma": "יָבֵשׁ",
+            "strong": "c:H30010",
+            "x-morph": "He,C:Vpw3ms:Sp3ms",
+            "x-id": "34qgC"
+          },
+          {
+            "text": "וְ⁠כָל",
+            "lemma": "כֹּל",
+            "strong": "c:H36050",
+            "x-morph": "He,C:Ncmsc",
+            "x-id": "34sr1"
+          },
+          {
+            "text": "הַ⁠נְּהָר֖וֹת",
+            "lemma": "נָהָר",
+            "strong": "d:H51040",
+            "x-morph": "He,Td:Ncmpa",
+            "x-id": "34wtl"
+          },
+          {
+            "text": "הֶֽחֱרִ֑יב",
+            "lemma": "חָרַב",
+            "strong": "H27171",
+            "x-morph": "He,Vhp3ms",
+            "x-id": "34aRT"
+          },
+          {
+            "text": "אֻמְלַ֤ל",
+            "lemma": "אָמַל",
+            "strong": "H05350",
+            "x-morph": "He,VKp3ms",
+            "x-id": "34hge"
+          },
+          {
+            "text": "בָּשָׁן֙",
+            "lemma": "בָּשָׁן",
+            "strong": "H13160",
+            "x-morph": "He,Np",
+            "x-id": "340Sn"
+          },
+          {
+            "text": "וְ⁠כַרְמֶ֔ל",
+            "lemma": "כַּרְמֶל",
+            "strong": "c:H37600",
+            "x-morph": "He,C:Np",
+            "x-id": "34DIm"
+          },
+          {
+            "text": "וּ⁠פֶ֥רַח",
+            "lemma": "פֶּרַח",
+            "strong": "c:H65250",
+            "x-morph": "He,C:Ncmsc",
+            "x-id": "34fbD"
+          },
+          {
+            "text": "לְבָנ֖וֹן",
+            "lemma": "לְבָנוֹן",
+            "strong": "H38440",
+            "x-morph": "He,Np",
+            "x-id": "3428g"
+          },
+          {
+            "text": "אֻמְלָֽל",
+            "lemma": "אָמַל",
+            "strong": "H05350",
+            "x-morph": "He,VKp3ms",
+            "x-id": "34Tq0"
+          }
+        ]
+      },
+      "5": {
+        "words": [
+          {
+            "text": "הָרִים֙",
+            "lemma": "הַר",
+            "strong": "H20220",
+            "x-morph": "He,Ncmpa",
+            "x-id": "34jkJ"
+          },
+          {
+            "text": "רָעֲשׁ֣וּ",
+            "lemma": "רָעַשׁ",
+            "strong": "H74930",
+            "x-morph": "He,Vqp3cp",
+            "x-id": "34iL3"
+          },
+          {
+            "text": "מִמֶּ֔⁠נּוּ",
+            "lemma": "מִן",
+            "strong": "H44801",
+            "x-morph": "He,R:Sp3ms",
+            "x-id": "34peS"
+          },
+          {
+            "text": "וְ⁠הַ⁠גְּבָע֖וֹת",
+            "lemma": "גִּבְעָה",
+            "strong": "c:d:H13890",
+            "x-morph": "He,C:Td:Ncfpa",
+            "x-id": "34EKk"
+          },
+          {
+            "text": "הִתְמֹגָ֑גוּ",
+            "lemma": "מוּג",
+            "strong": "H41270",
+            "x-morph": "He,Vrp3cp",
+            "x-id": "34ssI"
+          },
+          {
+            "text": "וַ⁠תִּשָּׂ֤א",
+            "lemma": "נָשָׂא",
+            "strong": "c:H53750",
+            "x-morph": "He,C:Vqw3fs",
+            "x-id": "34NbC"
+          },
+          {
+            "text": "הָ⁠אָ֨רֶץ֙",
+            "lemma": "אֶרֶץ",
+            "strong": "d:H07760",
+            "x-morph": "He,Td:Ncbsa",
+            "x-id": "34uPI"
+          },
+          {
+            "text": "מִ⁠פָּנָ֔י⁠ו",
+            "lemma": "פָּנִים",
+            "strong": "m:H64400",
+            "x-morph": "He,R:Ncbpc:Sp3ms",
+            "x-id": "34zUn"
+          },
+          {
+            "text": "וְ⁠תֵבֵ֖ל",
+            "lemma": "תֵּבֵל",
+            "strong": "c:H83980",
+            "x-morph": "He,C:Ncfsa",
+            "x-id": "34PJM"
+          },
+          {
+            "text": "וְ⁠כָל",
+            "lemma": "כֹּל",
+            "strong": "c:H36050",
+            "x-morph": "He,C:Ncmsc",
+            "x-id": "346d1"
+          },
+          {
+            "text": "יֹ֥שְׁבֵי",
+            "lemma": "יָשַׁב",
+            "strong": "H34270",
+            "x-morph": "He,Vqrmpc",
+            "x-id": "34ui7"
+          }
+        ]
+      },
+      "6": {
+        "words": [
+          {
+            "text": "לִ⁠פְנֵ֤י",
+            "lemma": "פָּנִים",
+            "strong": "l:H64400",
+            "x-morph": "He,R:Ncbpc",
+            "x-id": "346je"
+          },
+          {
+            "text": "זַעְמ⁠וֹ֙",
+            "lemma": "זַעַם",
+            "strong": "H21950",
+            "x-morph": "He,Ncmsc:Sp3ms",
+            "x-id": "34ANE"
+          },
+          {
+            "text": "מִ֣י",
+            "lemma": "מִי",
+            "strong": "H43100",
+            "x-morph": "He,Ti",
+            "x-id": "34fgY"
+          },
+          {
+            "text": "יַֽעֲמ֔וֹד",
+            "lemma": "עָמַד",
+            "strong": "H59750",
+            "x-morph": "He,Vqi3ms",
+            "x-id": "34ED3"
+          },
+          {
+            "text": "וּ⁠מִ֥י",
+            "lemma": "מִי",
+            "strong": "c:H43100",
+            "x-morph": "He,C:Ti",
+            "x-id": "340Ig"
+          },
+          {
+            "text": "יָק֖וּם",
+            "lemma": "קוּם",
+            "strong": "H69652",
+            "x-morph": "He,Vqi3ms",
+            "x-id": "34Au6"
+          },
+          {
+            "text": "בַּ⁠חֲר֣וֹן",
+            "lemma": "חָרוֹן",
+            "strong": "b:H27400",
+            "x-morph": "He,R:Ncmsc",
+            "x-id": "340v0"
+          },
+          {
+            "text": "אַפּ֑⁠וֹ",
+            "lemma": "אַף",
+            "strong": "H06390",
+            "x-morph": "He,Ncmsc:Sp3ms",
+            "x-id": "34puN"
+          },
+          {
+            "text": "חֲמָת⁠וֹ֙",
+            "lemma": "חֵמָה",
+            "strong": "H25340",
+            "x-morph": "He,Ncfsc:Sp3ms",
+            "x-id": "34vj1"
+          },
+          {
+            "text": "נִתְּכָ֣ה",
+            "lemma": "נָתַךְ",
+            "strong": "H54130",
+            "x-morph": "He,VNp3fs",
+            "x-id": "348pP"
+          },
+          {
+            "text": "כָ⁠אֵ֔שׁ",
+            "lemma": "אֵשׁ",
+            "strong": "k:H07840",
+            "x-morph": "He,Rd:Ncbsa",
+            "x-id": "340Hw"
+          },
+          {
+            "text": "וְ⁠הַ⁠צֻּרִ֖ים",
+            "lemma": "צוּר",
+            "strong": "c:d:H66970",
+            "x-morph": "He,C:Td:Ncmpa",
+            "x-id": "34QX5"
+          },
+          {
+            "text": "נִתְּצ֥וּ",
+            "lemma": "נָתַץ",
+            "strong": "H54220",
+            "x-morph": "He,VNp3cp",
+            "x-id": "34k6s"
+          },
+          {
+            "text": "מִמֶּֽ⁠נּוּ",
+            "lemma": "מִן",
+            "strong": "H44801",
+            "x-morph": "He,R:Sp3ms",
+            "x-id": "3478l"
+          }
+        ]
+      },
+      "7": {
+        "words": [
+          {
+            "text": "ט֣וֹב",
+            "lemma": "טוֹב",
+            "strong": "H28961",
+            "x-morph": "He,Aamsa",
+            "x-id": "34FgA"
+          },
+          {
+            "text": "יְהוָ֔ה",
+            "lemma": "יְהֹוָה",
+            "strong": "H30680",
+            "x-morph": "He,Np",
+            "x-id": "345dD"
+          },
+          {
+            "text": "לְ⁠מָע֖וֹז",
+            "lemma": "מָעוֹז",
+            "strong": "l:H45810",
+            "x-morph": "He,R:Ncmsa",
+            "x-id": "34h0D"
+          },
+          {
+            "text": "בְּ⁠י֣וֹם",
+            "lemma": "יוֹם",
+            "strong": "b:H31170",
+            "x-morph": "He,R:Ncmsc",
+            "x-id": "341W4"
+          },
+          {
+            "text": "צָרָ֑ה",
+            "lemma": "צָרָה",
+            "strong": "H68692",
+            "x-morph": "He,Ncfsa",
+            "x-id": "34FCh"
+          },
+          {
+            "text": "וְ⁠יֹדֵ֖עַ",
+            "lemma": "יָדַע",
+            "strong": "c:H30450",
+            "x-morph": "He,C:Vqrmsa",
+            "x-id": "34Ddw"
+          },
+          {
+            "text": "חֹ֥סֵי",
+            "lemma": "חָסָה",
+            "strong": "H26200",
+            "x-morph": "He,Vqrmpc",
+            "x-id": "34JND"
+          }
+        ]
+      },
+      "8": {
+        "words": [
+          {
+            "text": "וּ⁠בְ⁠שֶׁ֣טֶף",
+            "lemma": "שֶׁטֶף",
+            "strong": "c:b:H78580",
+            "x-morph": "He,C:R:Ncmsa",
+            "x-id": "34IMC"
+          },
+          {
+            "text": "עֹבֵ֔ר",
+            "lemma": "עָבַר",
+            "strong": "H56741",
+            "x-morph": "He,Vqrmsa",
+            "x-id": "34I1J"
+          },
+          {
+            "text": "כָּלָ֖ה",
+            "lemma": "כָּלָה",
+            "strong": "H36170",
+            "x-morph": "He,Ncfsa",
+            "x-id": "34V5t"
+          },
+          {
+            "text": "יַעֲשֶׂ֣ה",
+            "lemma": "עָשָׂה",
+            "strong": "H62131",
+            "x-morph": "He,Vqi3ms",
+            "x-id": "34Boq"
+          },
+          {
+            "text": "מְקוֹמָ֑⁠הּ",
+            "lemma": "מָקוֹם",
+            "strong": "H47250",
+            "x-morph": "He,Ncmsc:Sp3fs",
+            "x-id": "34SI9"
+          },
+          {
+            "text": "וְ⁠אֹיְבָ֖י⁠ו",
+            "lemma": "אֹיֵב",
+            "strong": "c:H03410",
+            "x-morph": "He,C:Vqrmpc:Sp3ms",
+            "x-id": "34Nd7"
+          },
+          {
+            "text": "יְרַדֶּף",
+            "lemma": "רָדַף",
+            "strong": "H72910",
+            "x-morph": "He,Vpi3ms",
+            "x-id": "34wlb"
+          },
+          {
+            "text": "חֹֽשֶׁךְ",
+            "lemma": "חֹשֶׁךְ",
+            "strong": "H28220",
+            "x-morph": "He,Ncmsa",
+            "x-id": "34VEw"
+          }
+        ]
+      },
+      "9": {
+        "words": [
+          {
+            "text": "מַה",
+            "lemma": "מָה",
+            "strong": "H41000",
+            "x-morph": "He,Ti",
+            "x-id": "34Oj8"
+          },
+          {
+            "text": "תְּחַשְּׁבוּ⁠ן֙",
+            "lemma": "חָשַׁב",
+            "strong": "H28030",
+            "x-morph": "He,Vpi2mp:Sn",
+            "x-id": "34YgQ"
+          },
+          {
+            "text": "אֶל",
+            "lemma": "אֵל",
+            "strong": "H04130",
+            "x-morph": "He,R",
+            "x-id": "34B17"
+          },
+          {
+            "text": "יְהוָ֔ה",
+            "lemma": "יְהֹוָה",
+            "strong": "H30680",
+            "x-morph": "He,Np",
+            "x-id": "34z1X"
+          },
+          {
+            "text": "כָּלָ֖ה",
+            "lemma": "כָּלָה",
+            "strong": "H36170",
+            "x-morph": "He,Ncfsa",
+            "x-id": "344kV"
+          },
+          {
+            "text": "ה֣וּא",
+            "lemma": "הוּא",
+            "strong": "H19310",
+            "x-morph": "He,Pp3ms",
+            "x-id": "34Hji"
+          },
+          {
+            "text": "עֹשֶׂ֑ה",
+            "lemma": "עָשָׂה",
+            "strong": "H62131",
+            "x-morph": "He,Vqrmsa",
+            "x-id": "34pAv"
+          },
+          {
+            "text": "לֹֽא",
+            "lemma": "לֹא",
+            "strong": "H38080",
+            "x-morph": "He,Tn",
+            "x-id": "34fjR"
+          },
+          {
+            "text": "תָק֥וּם",
+            "lemma": "קוּם",
+            "strong": "H69652",
+            "x-morph": "He,Vqi3fs",
+            "x-id": "341nR"
+          },
+          {
+            "text": "פַּעֲמַ֖יִם",
+            "lemma": "פַּעַם",
+            "strong": "H64710",
+            "x-morph": "He,Ncfda",
+            "x-id": "34F7L"
+          },
+          {
+            "text": "צָרָֽה",
+            "lemma": "צָרָה",
+            "strong": "H68692",
+            "x-morph": "He,Ncfsa",
+            "x-id": "34UtV"
+          }
+        ]
+      },
+      "10": {
+        "words": [
+          {
+            "text": "כִּ֚י",
+            "lemma": "כִּי",
+            "strong": "H35881",
+            "x-morph": "He,C",
+            "x-id": "34zlJ"
+          },
+          {
+            "text": "עַד",
+            "lemma": "עַד",
+            "strong": "H57040",
+            "x-morph": "He,R",
+            "x-id": "34j8u"
+          },
+          {
+            "text": "סִירִ֣ים",
+            "lemma": "סִיר",
+            "strong": "H55182",
+            "x-morph": "He,Ncfpa",
+            "x-id": "34lII"
+          },
+          {
+            "text": "סְבֻכִ֔ים",
+            "lemma": "סָבַךְ",
+            "strong": "H54400",
+            "x-morph": "He,Vqsmpa",
+            "x-id": "34EBF"
+          },
+          {
+            "text": "וּ⁠כְ⁠סָבְאָ֖⁠ם",
+            "lemma": "סֹבֶא",
+            "strong": "c:k:H54350",
+            "x-morph": "He,C:R:Ncmsc:Sp3mp",
+            "x-id": "34K4l"
+          },
+          {
+            "text": "סְבוּאִ֑ים",
+            "lemma": "סָבָא",
+            "strong": "H54331",
+            "x-morph": "He,Vqsmpa",
+            "x-id": "34v4m"
+          },
+          {
+            "text": "אֻ֨כְּל֔וּ",
+            "lemma": "אָכַל",
+            "strong": "H03980",
+            "x-morph": "He,VQp3cp",
+            "x-id": "34e9P"
+          },
+          {
+            "text": "כְּ⁠קַ֥שׁ",
+            "lemma": "קַשׁ",
+            "strong": "k:H71790",
+            "x-morph": "He,R:Ncmsa",
+            "x-id": "34W5r"
+          },
+          {
+            "text": "יָבֵ֖שׁ",
+            "lemma": "יָבֵשׁ",
+            "strong": "H30020",
+            "x-morph": "He,Aamsa",
+            "x-id": "34v2e"
+          },
+          {
+            "text": "מָלֵֽא",
+            "lemma": "מָלֵא",
+            "strong": "H43920",
+            "x-morph": "He,Aamsa",
+            "x-id": "34rwU"
+          }
+        ]
+      },
+      "11": {
+        "words": [
+          {
+            "text": "מִמֵּ֣⁠ךְ",
+            "lemma": "מִן",
+            "strong": "H44801",
+            "x-morph": "He,R:Sp2fs",
+            "x-id": "34Ddv"
+          },
+          {
+            "text": "יָצָ֔א",
+            "lemma": "יָצָא",
+            "strong": "H33180",
+            "x-morph": "He,Vqp3ms",
+            "x-id": "341bA"
+          },
+          {
+            "text": "חֹשֵׁ֥ב",
+            "lemma": "חָשַׁב",
+            "strong": "H28030",
+            "x-morph": "He,Vqrmsa",
+            "x-id": "34CTP"
+          },
+          {
+            "text": "עַל",
+            "lemma": "עַל",
+            "strong": "H59211",
+            "x-morph": "He,R",
+            "x-id": "34JaE"
+          },
+          {
+            "text": "יְהוָ֖ה",
+            "lemma": "יְהֹוָה",
+            "strong": "H30680",
+            "x-morph": "He,Np",
+            "x-id": "34TMT"
+          },
+          {
+            "text": "רָעָ֑ה",
+            "lemma": "רַע",
+            "strong": "H74513",
+            "x-morph": "He,Ncfsa",
+            "x-id": "34z66"
+          },
+          {
+            "text": "יֹעֵ֖ץ",
+            "lemma": "יָעַץ",
+            "strong": "H32890",
+            "x-morph": "He,Vqrmsc",
+            "x-id": "34dal"
+          },
+          {
+            "text": "בְּלִיָּֽעַל",
+            "lemma": "בְּלִיַּעַל",
+            "strong": "H11000",
+            "x-morph": "He,Ncmsa",
+            "x-id": "348ge"
+          }
+        ]
+      },
+      "12": {
+        "words": [
+          {
+            "text": "כֹּ֣ה",
+            "lemma": "כֹּה",
+            "strong": "H35410",
+            "x-morph": "He,D",
+            "x-id": "341ft"
+          },
+          {
+            "text": "אָמַ֣ר",
+            "lemma": "אָמַר",
+            "strong": "H05590",
+            "x-morph": "He,Vqp3ms",
+            "x-id": "345ZB"
+          },
+          {
+            "text": "יְהוָ֗ה",
+            "lemma": "יְהֹוָה",
+            "strong": "H30680",
+            "x-morph": "He,Np",
+            "x-id": "343I1"
+          },
+          {
+            "text": "אִם",
+            "lemma": "אִם",
+            "strong": "H05181",
+            "x-morph": "He,C",
+            "x-id": "34Z72"
+          },
+          {
+            "text": "שְׁלֵמִים֙",
+            "lemma": "שָׁלֵם",
+            "strong": "H80030",
+            "x-morph": "He,Aampa",
+            "x-id": "34ufF"
+          },
+          {
+            "text": "וְ⁠כֵ֣ן",
+            "lemma": "כֵּן",
+            "strong": "c:H36513",
+            "x-morph": "He,C:Tm",
+            "x-id": "349SG"
+          },
+          {
+            "text": "רַבִּ֔ים",
+            "lemma": "רַב",
+            "strong": "H72271",
+            "x-morph": "He,Aampa",
+            "x-id": "34JG1"
+          },
+          {
+            "text": "וְ⁠כֵ֥ן",
+            "lemma": "כֵּן",
+            "strong": "c:H36513",
+            "x-morph": "He,C:Tm",
+            "x-id": "34zTu"
+          },
+          {
+            "text": "נָגֹ֖זּוּ",
+            "lemma": "גָּזַז",
+            "strong": "H14940",
+            "x-morph": "He,VNp3cp",
+            "x-id": "349Ov"
+          },
+          {
+            "text": "וְ⁠עָבָ֑ר",
+            "lemma": "עָבַר",
+            "strong": "c:H56741",
+            "x-morph": "He,C:Vqp3ms",
+            "x-id": "34E2T"
+          },
+          {
+            "text": "וְ⁠עִ֨נִּתִ֔⁠ךְ",
+            "lemma": "עָנָה",
+            "strong": "c:H60312",
+            "x-morph": "He,C:Vpp1cs:Sp2fs",
+            "x-id": "34CZn"
+          },
+          {
+            "text": "לֹ֥א",
+            "lemma": "לֹא",
+            "strong": "H38080",
+            "x-morph": "He,Tn",
+            "x-id": "34uXQ"
+          },
+          {
+            "text": "אֲעַנֵּ֖⁠ךְ",
+            "lemma": "עָנָה",
+            "strong": "H60312",
+            "x-morph": "He,Vpi1cs:Sp2fs",
+            "x-id": "3447F"
+          },
+          {
+            "text": "עֽוֹד",
+            "lemma": "עוֹד",
+            "strong": "H57500",
+            "x-morph": "He,D",
+            "x-id": "34s8Z"
+          }
+        ]
+      },
+      "13": {
+        "words": [
+          {
+            "text": "וְ⁠עַתָּ֕ה",
+            "lemma": "עַתָּה",
+            "strong": "c:H62580",
+            "x-morph": "He,C:D",
+            "x-id": "34lbh"
+          },
+          {
+            "text": "אֶשְׁבֹּ֥ר",
+            "lemma": "שָׁבַר",
+            "strong": "H76650",
+            "x-morph": "He,Vqi1cs",
+            "x-id": "34YAa"
+          },
+          {
+            "text": "מֹטֵ֖⁠הוּ",
+            "lemma": "מוֹט",
+            "strong": "H41320",
+            "x-morph": "He,Ncmsc:Sp3ms",
+            "x-id": "344dn"
+          },
+          {
+            "text": "מֵֽ⁠עָלָ֑יִ⁠ךְ",
+            "lemma": "עַל",
+            "strong": "m:H59211",
+            "x-morph": "He,R:R:Sp2fs",
+            "x-id": "34e4s"
+          },
+          {
+            "text": "וּ⁠מוֹסְרֹתַ֖יִ⁠ךְ",
+            "lemma": "מוֹסֵר",
+            "strong": "c:H41470",
+            "x-morph": "He,C:Ncbpc:Sp2fs",
+            "x-id": "342Hf"
+          },
+          {
+            "text": "אֲנַתֵּֽק",
+            "lemma": "נָתַק",
+            "strong": "H54230",
+            "x-morph": "He,Vpi1cs",
+            "x-id": "34JYH"
+          }
+        ]
+      },
+      "14": {
+        "words": [
+          {
+            "text": "וְ⁠צִוָּ֤ה",
+            "lemma": "צָוָה",
+            "strong": "c:H66800",
+            "x-morph": "He,C:Vpp3ms",
+            "x-id": "34pjk"
+          },
+          {
+            "text": "עָלֶ֨י⁠ךָ֙",
+            "lemma": "עַל",
+            "strong": "H59211",
+            "x-morph": "He,R:Sp2ms",
+            "x-id": "34HfI"
+          },
+          {
+            "text": "יְהוָ֔ה",
+            "lemma": "יְהֹוָה",
+            "strong": "H30680",
+            "x-morph": "He,Np",
+            "x-id": "34zef"
+          },
+          {
+            "text": "לֹֽא",
+            "lemma": "לֹא",
+            "strong": "H38080",
+            "x-morph": "He,Tn",
+            "x-id": "34OWd"
+          },
+          {
+            "text": "יִזָּרַ֥ע",
+            "lemma": "זָרַע",
+            "strong": "H22320",
+            "x-morph": "He,VNi3ms",
+            "x-id": "34gh8"
+          },
+          {
+            "text": "מִ⁠שִּׁמְ⁠ךָ֖",
+            "lemma": "שֵׁם",
+            "strong": "m:H80340",
+            "x-morph": "He,R:Ncmsc:Sp2ms",
+            "x-id": "345iw"
+          },
+          {
+            "text": "ע֑וֹד",
+            "lemma": "עוֹד",
+            "strong": "H57500",
+            "x-morph": "He,D",
+            "x-id": "34kLc"
+          },
+          {
+            "text": "מִ⁠בֵּ֨ית",
+            "lemma": "בַּיִת",
+            "strong": "m:H10042",
+            "x-morph": "He,R:Ncmsc",
+            "x-id": "34JMY"
+          },
+          {
+            "text": "אֱלֹהֶ֜י⁠ךָ",
+            "lemma": "אֱלֹהִים",
+            "strong": "H04300",
+            "x-morph": "He,Ncmpc:Sp2ms",
+            "x-id": "34tea"
+          },
+          {
+            "text": "אַכְרִ֨ית",
+            "lemma": "כָּרַת",
+            "strong": "H37720",
+            "x-morph": "He,Vhi1cs",
+            "x-id": "34q0z"
+          },
+          {
+            "text": "פֶּ֧סֶל",
+            "lemma": "פֶּסֶל",
+            "strong": "H64590",
+            "x-morph": "He,Ncmsa",
+            "x-id": "34Gcz"
+          },
+          {
+            "text": "וּ⁠מַסֵּכָ֛ה",
+            "lemma": "מַסֵּכָה",
+            "strong": "c:H45411",
+            "x-morph": "He,C:Ncfsa",
+            "x-id": "34itb"
+          },
+          {
+            "text": "אָשִׂ֥ים",
+            "lemma": "שׂוּם",
+            "strong": "H77601",
+            "x-morph": "He,Vqi1cs",
+            "x-id": "34yUU"
+          },
+          {
+            "text": "קִבְרֶ֖⁠ךָ",
+            "lemma": "קֶבֶר",
+            "strong": "H69130",
+            "x-morph": "He,Ncmsc:Sp2ms",
+            "x-id": "340cC"
+          },
+          {
+            "text": "כִּ֥י",
+            "lemma": "כִּי",
+            "strong": "H35881",
+            "x-morph": "He,C",
+            "x-id": "34oeA"
+          },
+          {
+            "text": "קַלּֽוֹתָ",
+            "lemma": "קָלַל",
+            "strong": "H70430",
+            "x-morph": "He,Vqp2ms",
+            "x-id": "34q7e"
+          }
+        ]
+      }
+    },
+    "2": {
+      "1": {
+        "words": [
+          {
+            "text": "הִנֵּ֨ה",
+            "lemma": "הִנֵּה",
+            "strong": "H20090",
+            "x-morph": "He,Tm",
+            "x-id": "34Imr"
+          },
+          {
+            "text": "עַל",
+            "lemma": "עַל",
+            "strong": "H59211",
+            "x-morph": "He,R",
+            "x-id": "34DKZ"
+          },
+          {
+            "text": "הֶ⁠הָרִ֜ים",
+            "lemma": "הַר",
+            "strong": "d:H20220",
+            "x-morph": "He,Td:Ncmpa",
+            "x-id": "34uOC"
+          },
+          {
+            "text": "רַגְלֵ֤י",
+            "lemma": "רֶגֶל",
+            "strong": "H72720",
+            "x-morph": "He,Ncfdc",
+            "x-id": "34tIL"
+          },
+          {
+            "text": "מְבַשֵּׂר֙",
+            "lemma": "בָּשַׂר",
+            "strong": "H13190",
+            "x-morph": "He,Vprmsa",
+            "x-id": "343f1"
+          },
+          {
+            "text": "מַשְׁמִ֣יעַ",
+            "lemma": "שָׁמַע",
+            "strong": "H80850",
+            "x-morph": "He,Vhrmsa",
+            "x-id": "34yIW"
+          },
+          {
+            "text": "שָׁל֔וֹם",
+            "lemma": "שָׁלוֹם",
+            "strong": "H79650",
+            "x-morph": "He,Ncmsa",
+            "x-id": "348d8"
+          },
+          {
+            "text": "חָגִּ֧י",
+            "lemma": "חָגַג",
+            "strong": "H22870",
+            "x-morph": "He,Vqv2fs",
+            "x-id": "34F9G"
+          },
+          {
+            "text": "יְהוּדָ֛ה",
+            "lemma": "יְהוּדָה",
+            "strong": "H30630",
+            "x-morph": "He,Np",
+            "x-id": "34vbF"
+          },
+          {
+            "text": "חַגַּ֖יִ⁠ךְ",
+            "lemma": "חַג",
+            "strong": "H22820",
+            "x-morph": "He,Ncmpc:Sp2fs",
+            "x-id": "34giR"
+          },
+          {
+            "text": "שַׁלְּמִ֣י",
+            "lemma": "שָׁלַם",
+            "strong": "H79991",
+            "x-morph": "He,Vpv2fs",
+            "x-id": "34Aar"
+          },
+          {
+            "text": "נְדָרָ֑יִ⁠ךְ",
+            "lemma": "נֶדֶר",
+            "strong": "H50880",
+            "x-morph": "He,Ncmpc:Sp2fs",
+            "x-id": "34Qp1"
+          },
+          {
+            "text": "כִּי֩",
+            "lemma": "כִּי",
+            "strong": "H35881",
+            "x-morph": "He,C",
+            "x-id": "34q0y"
+          },
+          {
+            "text": "לֹ֨א",
+            "lemma": "לֹא",
+            "strong": "H38080",
+            "x-morph": "He,Tn",
+            "x-id": "34Obs"
+          },
+          {
+            "text": "יוֹסִ֥יף",
+            "lemma": "יָסַף",
+            "strong": "H32540",
+            "x-morph": "He,Vhi3ms",
+            "x-id": "34j58"
+          },
+          {
+            "text": "ע֛וֹד",
+            "lemma": "עוֹד",
+            "strong": "H57500",
+            "x-morph": "He,D",
+            "x-id": "34zJR"
+          },
+          {
+            "text": "לַֽ⁠עֲבָר",
+            "lemma": "עָבַר",
+            "strong": "l:H56741",
+            "x-morph": "He,R:Vqc",
+            "x-id": "34Qpv"
+          },
+          {
+            "text": "בְּלִיַּ֖עַל",
+            "lemma": "בְּלִיַּעַל",
+            "strong": "H11000",
+            "x-morph": "He,Ncmsa",
+            "x-id": "343Fp"
+          },
+          {
+            "text": "כֻּלֹּ֥⁠ה",
+            "lemma": "כֹּל",
+            "strong": "H36050",
+            "x-morph": "He,Ncmsc:Sp3fs",
+            "x-id": "34WKa"
+          },
+          {
+            "text": "נִכְרָֽת",
+            "lemma": "כָּרַת",
+            "strong": "H37720",
+            "x-morph": "He,VNp3ms",
+            "x-id": "340eZ"
+          }
+        ],
+        "apparatus": {
+          "words": [
+            {
+              "w": "ל⁠עבור",
+              "id": "34jtd",
+              "lemma": "עָבַר",
+              "strong": "l:H56741",
+              "morph": "He,R:Vqa"
+            }
+          ],
+          "ancient": [],
+          "critical": [
+            "Q",
+            "K:1-17,+1,19-21"
+          ]
+        }
+      },
+      "2": {
+        "words": [
+          {
+            "text": "עָלָ֥ה",
+            "lemma": "עָלָה",
+            "strong": "H59270",
+            "x-morph": "He,Vqp3ms",
+            "x-id": "34pD2"
+          },
+          {
+            "text": "מֵפִ֛יץ",
+            "lemma": "פּוּץ",
+            "strong": "H63272",
+            "x-morph": "He,Vhrmsa",
+            "x-id": "34RE3"
+          },
+          {
+            "text": "עַל",
+            "lemma": "עַל",
+            "strong": "H59211",
+            "x-morph": "He,R",
+            "x-id": "34ooj"
+          },
+          {
+            "text": "פָּנַ֖יִ⁠ךְ",
+            "lemma": "פָּנִים",
+            "strong": "H64400",
+            "x-morph": "He,Ncbpc:Sp2fs",
+            "x-id": "34L0i"
+          },
+          {
+            "text": "נָצ֣וֹר",
+            "lemma": "נָצַר",
+            "strong": "H53410",
+            "x-morph": "He,Vqa",
+            "x-id": "34yTq"
+          },
+          {
+            "text": "מְצֻרָ֑ה",
+            "lemma": "מְצוּרָה",
+            "strong": "H46940",
+            "x-morph": "He,Ncfsa",
+            "x-id": "34Fim"
+          },
+          {
+            "text": "צַפֵּה",
+            "lemma": "צָפָה",
+            "strong": "H68220",
+            "x-morph": "He,Vpv2ms",
+            "x-id": "342QK"
+          },
+          {
+            "text": "דֶ֨רֶךְ֙",
+            "lemma": "דֶּרֶךְ",
+            "strong": "H18700",
+            "x-morph": "He,Ncbsa",
+            "x-id": "346CX"
+          },
+          {
+            "text": "חַזֵּ֣ק",
+            "lemma": "חָזַק",
+            "strong": "H23880",
+            "x-morph": "He,Vpv2ms",
+            "x-id": "34XnD"
+          },
+          {
+            "text": "מָתְנַ֔יִם",
+            "lemma": "מֹתֶן",
+            "strong": "H49750",
+            "x-morph": "He,Ncmda",
+            "x-id": "34SgN"
+          },
+          {
+            "text": "אַמֵּ֥ץ",
+            "lemma": "אָמַץ",
+            "strong": "H05530",
+            "x-morph": "He,Vpv2ms",
+            "x-id": "34BVv"
+          },
+          {
+            "text": "כֹּ֖חַ",
+            "lemma": "כֹּחַ",
+            "strong": "H35812",
+            "x-morph": "He,Ncmsa",
+            "x-id": "34Fuu"
+          },
+          {
+            "text": "מְאֹֽד",
+            "lemma": "מְאֹד",
+            "strong": "H39660",
+            "x-morph": "He,D",
+            "x-id": "34YxI"
+          }
+        ]
+      },
+      "3": {
+        "words": [
+          {
+            "text": "כִּ֣י",
+            "lemma": "כִּי",
+            "strong": "H35881",
+            "x-morph": "He,C",
+            "x-id": "343JT"
+          },
+          {
+            "text": "שָׁ֤ב",
+            "lemma": "שׁוּב",
+            "strong": "H77250",
+            "x-morph": "He,Vqp3ms",
+            "x-id": "34sil"
+          },
+          {
+            "text": "יְהוָה֙",
+            "lemma": "יְהֹוָה",
+            "strong": "H30680",
+            "x-morph": "He,Np",
+            "x-id": "34jkS"
+          },
+          {
+            "text": "אֶת",
+            "lemma": "אֵת",
+            "strong": "H08530",
+            "x-morph": "He,To",
+            "x-id": "34dSi"
+          },
+          {
+            "text": "גְּא֣וֹן",
+            "lemma": "גָּאוֹן",
+            "strong": "H13470",
+            "x-morph": "He,Ncmsc",
+            "x-id": "347km"
+          },
+          {
+            "text": "יַעֲקֹ֔ב",
+            "lemma": "יַעֲקֹב",
+            "strong": "H32900",
+            "x-morph": "He,Np",
+            "x-id": "34QLR"
+          },
+          {
+            "text": "כִּ⁠גְא֖וֹן",
+            "lemma": "גָּאוֹן",
+            "strong": "k:H13470",
+            "x-morph": "He,R:Ncmsc",
+            "x-id": "34iLS"
+          },
+          {
+            "text": "יִשְׂרָאֵ֑ל",
+            "lemma": "יִשְׂרָאֵל",
+            "strong": "H34780",
+            "x-morph": "He,Np",
+            "x-id": "34mU4"
+          },
+          {
+            "text": "כִּ֤י",
+            "lemma": "כִּי",
+            "strong": "H35881",
+            "x-morph": "He,C",
+            "x-id": "34K7O"
+          },
+          {
+            "text": "בְקָקוּ⁠ם֙",
+            "lemma": "בָּקַק",
+            "strong": "H12382",
+            "x-morph": "He,Vqp3cp:Sp3mp",
+            "x-id": "34nCi"
+          },
+          {
+            "text": "בֹּֽקְקִ֔ים",
+            "lemma": "בָּקַק",
+            "strong": "H12382",
+            "x-morph": "He,Vqrmpa",
+            "x-id": "34R0f"
+          },
+          {
+            "text": "וּ⁠זְמֹרֵי⁠הֶ֖ם",
+            "lemma": "זְמוֹרָה",
+            "strong": "c:H21560",
+            "x-morph": "He,C:Ncfpc:Sp3mp",
+            "x-id": "34SAd"
+          },
+          {
+            "text": "שִׁחֵֽתוּ",
+            "lemma": "שָׁחַת",
+            "strong": "H78430",
+            "x-morph": "He,Vpp3cp",
+            "x-id": "34m03"
+          }
+        ]
+      },
+      "4": {
+        "words": [
+          {
+            "text": "מָגֵ֨ן",
+            "lemma": "מָגֵן",
+            "strong": "H40430",
+            "x-morph": "He,Ncbsc",
+            "x-id": "34TyU"
+          },
+          {
+            "text": "גִּבֹּרֵ֜י⁠הוּ",
+            "lemma": "גִּבּוֹר",
+            "strong": "H13680",
+            "x-morph": "He,Aampc:Sp3ms",
+            "x-id": "344sl"
+          },
+          {
+            "text": "מְאָדָּ֗ם",
+            "lemma": "אָדַם",
+            "strong": "H01190",
+            "x-morph": "He,VPsmsa",
+            "x-id": "34k6I"
+          },
+          {
+            "text": "אַנְשֵׁי",
+            "lemma": "אִישׁ",
+            "strong": "H03760",
+            "x-morph": "He,Ncmpc",
+            "x-id": "340wo"
+          },
+          {
+            "text": "חַ֨יִל֙",
+            "lemma": "חַיִל",
+            "strong": "H24280",
+            "x-morph": "He,Ncmsa",
+            "x-id": "34p1N"
+          },
+          {
+            "text": "מְתֻלָּעִ֔ים",
+            "lemma": "תָּלַע",
+            "strong": "H85290",
+            "x-morph": "He,VPsmpa",
+            "x-id": "34JdJ"
+          },
+          {
+            "text": "בְּ⁠אֵשׁ",
+            "lemma": "אֵשׁ",
+            "strong": "b:H07840",
+            "x-morph": "He,R:Ncbsc",
+            "x-id": "34ncq"
+          },
+          {
+            "text": "פְּלָד֥וֹת",
+            "lemma": "פְּלָדָה",
+            "strong": "H63930",
+            "x-morph": "He,Ncfpa",
+            "x-id": "34EpE"
+          },
+          {
+            "text": "הָ⁠רֶ֖כֶב",
+            "lemma": "רֶכֶב",
+            "strong": "d:H73930",
+            "x-morph": "He,Td:Ncmsa",
+            "x-id": "34tha"
+          },
+          {
+            "text": "בְּ⁠י֣וֹם",
+            "lemma": "יוֹם",
+            "strong": "b:H31170",
+            "x-morph": "He,R:Ncmsc",
+            "x-id": "34jAS"
+          },
+          {
+            "text": "הֲכִינ֑⁠וֹ",
+            "lemma": "כּוּן",
+            "strong": "H35591",
+            "x-morph": "He,Vhc:Sp3ms",
+            "x-id": "34f4Q"
+          },
+          {
+            "text": "וְ⁠הַ⁠בְּרֹשִׁ֖ים",
+            "lemma": "בְּרוֹשׁ",
+            "strong": "c:d:H12650",
+            "x-morph": "He,C:Td:Ncmpa",
+            "x-id": "34GMB"
+          },
+          {
+            "text": "הָרְעָֽלוּ",
+            "lemma": "רָעַל",
+            "strong": "H74770",
+            "x-morph": "He,VHp3cp",
+            "x-id": "34kdb"
+          }
+        ]
+      },
+      "5": {
+        "words": [
+          {
+            "text": "בַּֽ⁠חוּצוֹת֙",
+            "lemma": "חוּץ",
+            "strong": "b:H23510",
+            "x-morph": "He,Rd:Ncmpa",
+            "x-id": "34pZw"
+          },
+          {
+            "text": "יִתְהוֹלְל֣וּ",
+            "lemma": "הָלַל",
+            "strong": "H19842",
+            "x-morph": "He,Vri3mp",
+            "x-id": "344B4"
+          },
+          {
+            "text": "הָ⁠רֶ֔כֶב",
+            "lemma": "רֶכֶב",
+            "strong": "d:H73930",
+            "x-morph": "He,Td:Ncmsa",
+            "x-id": "34eT5"
+          },
+          {
+            "text": "יִֽשְׁתַּקְשְׁק֖וּ⁠ן",
+            "lemma": "שָׁקַק",
+            "strong": "H82640",
+            "x-morph": "He,Vfi3mp:Sn",
+            "x-id": "34LJb"
+          },
+          {
+            "text": "בָּ⁠רְחֹב֑וֹת",
+            "lemma": "רְחֹב",
+            "strong": "b:H73390",
+            "x-morph": "He,Rd:Ncfpa",
+            "x-id": "34Ok5"
+          },
+          {
+            "text": "מַרְאֵי⁠הֶן֙",
+            "lemma": "מַרְאֶה",
+            "strong": "H47580",
+            "x-morph": "He,Ncmsc:Sp3fp",
+            "x-id": "34rhy"
+          },
+          {
+            "text": "כַּ⁠לַּפִּידִ֔ם",
+            "lemma": "לַפִּיד",
+            "strong": "k:H39400",
+            "x-morph": "He,Rd:Ncmpa",
+            "x-id": "34N2T"
+          },
+          {
+            "text": "כַּ⁠בְּרָקִ֖ים",
+            "lemma": "בָּרָק",
+            "strong": "k:H13002",
+            "x-morph": "He,Rd:Ncmpa",
+            "x-id": "3418Y"
+          },
+          {
+            "text": "יְרוֹצֵֽצוּ",
+            "lemma": "רוּץ",
+            "strong": "H73230",
+            "x-morph": "He,Voi3mp",
+            "x-id": "34kPL"
+          }
+        ]
+      },
+      "6": {
+        "words": [
+          {
+            "text": "יִזְכֹּר֙",
+            "lemma": "זָכַר",
+            "strong": "H21420",
+            "x-morph": "He,Vqi3ms",
+            "x-id": "341dI"
+          },
+          {
+            "text": "אַדִּירָ֔י⁠ו",
+            "lemma": "אַדִּיר",
+            "strong": "H01170",
+            "x-morph": "He,Aampc:Sp3ms",
+            "x-id": "34SbJ"
+          },
+          {
+            "text": "יִכָּשְׁל֖וּ",
+            "lemma": "כָּשַׁל",
+            "strong": "H37820",
+            "x-morph": "He,VNi3mp",
+            "x-id": "34cdJ"
+          },
+          {
+            "text": "ב⁠הלכות⁠ם",
+            "lemma": "הָלַךְ",
+            "strong": "b:H19800",
+            "x-morph": "He,R:Vqrfpc:Sp3mp",
+            "x-id": "34pt7"
+          },
+          {
+            "text": "יְמַֽהֲרוּ֙",
+            "lemma": "מָהַר",
+            "strong": "H41161",
+            "x-morph": "He,Vpi3mp",
+            "x-id": "34u8l"
+          },
+          {
+            "text": "חֽוֹמָתָ֔⁠הּ",
+            "lemma": "חוֹמָה",
+            "strong": "H23460",
+            "x-morph": "He,Ncfsc:Sp3fs",
+            "x-id": "345FF"
+          },
+          {
+            "text": "וְ⁠הֻכַ֖ן",
+            "lemma": "כּוּן",
+            "strong": "c:H35591",
+            "x-morph": "He,C:VHp3ms",
+            "x-id": "34Sgy"
+          },
+          {
+            "text": "הַ⁠סֹּכֵֽךְ",
+            "lemma": "סָכַךְ",
+            "strong": "d:H55264",
+            "x-morph": "He,Td:Ncmsa",
+            "x-id": "34mlH"
+          }
+        ],
+        "apparatus": {
+          "words": [
+            {
+              "w": "בַּ⁠הֲלִֽיכָתָ֑⁠ם",
+              "id": "34NbH",
+              "lemma": "הֲלִיכָה",
+              "strong": "b:H19790",
+              "morph": "He,R:Ncfsc:Sp3mp"
+            }
+          ],
+          "ancient": [],
+          "critical": [
+            "Q:1-3,+1,5-8",
+            "K"
+          ]
+        }
+      },
+      "7": {
+        "words": [
+          {
+            "text": "שַׁעֲרֵ֥י",
+            "lemma": "שַׁעַר",
+            "strong": "H81790",
+            "x-morph": "He,Ncmpc",
+            "x-id": "34bVx"
+          },
+          {
+            "text": "הַ⁠נְּהָר֖וֹת",
+            "lemma": "נָהָר",
+            "strong": "d:H51040",
+            "x-morph": "He,Td:Ncmpa",
+            "x-id": "34TPc"
+          },
+          {
+            "text": "נִפְתָּ֑חוּ",
+            "lemma": "פָּתַח",
+            "strong": "H66051",
+            "x-morph": "He,VNp3cp",
+            "x-id": "34f5r"
+          },
+          {
+            "text": "וְ⁠הַֽ⁠הֵיכָ֖ל",
+            "lemma": "הֵיכָל",
+            "strong": "c:d:H19640",
+            "x-morph": "He,C:Td:Ncmsa",
+            "x-id": "34tb9"
+          },
+          {
+            "text": "נָמֽוֹג",
+            "lemma": "מוּג",
+            "strong": "H41270",
+            "x-morph": "He,VNp3ms",
+            "x-id": "34l2x"
+          }
+        ]
+      },
+      "8": {
+        "words": [
+          {
+            "text": "וְ⁠הֻצַּ֖ב",
+            "lemma": "נָצַב",
+            "strong": "c:H53240",
+            "x-morph": "He,C:VHp3ms",
+            "x-id": "34ixV"
+          },
+          {
+            "text": "גֻּלְּתָ֣ה",
+            "lemma": "גָּלָה",
+            "strong": "H15400",
+            "x-morph": "He,VPp3fs",
+            "x-id": "349US"
+          },
+          {
+            "text": "הֹֽעֲלָ֑תָה",
+            "lemma": "עָלָה",
+            "strong": "H59270",
+            "x-morph": "He,VHp3fs",
+            "x-id": "34qzm"
+          },
+          {
+            "text": "וְ⁠אַמְהֹתֶ֗י⁠הָ",
+            "lemma": "אָמָה",
+            "strong": "c:H05190",
+            "x-morph": "He,C:Ncfpc:Sp3fs",
+            "x-id": "34Khs"
+          },
+          {
+            "text": "מְנַֽהֲגוֹת֙",
+            "lemma": "נָהַג",
+            "strong": "H50902",
+            "x-morph": "He,Vprfpa",
+            "x-id": "34hFB"
+          },
+          {
+            "text": "כְּ⁠ק֣וֹל",
+            "lemma": "קוֹל",
+            "strong": "k:H69631",
+            "x-morph": "He,R:Ncmsc",
+            "x-id": "34PQe"
+          },
+          {
+            "text": "יוֹנִ֔ים",
+            "lemma": "יוֹנָה",
+            "strong": "H31230",
+            "x-morph": "He,Ncfpa",
+            "x-id": "34xrh"
+          },
+          {
+            "text": "מְתֹפְפֹ֖ת",
+            "lemma": "תָּפַף",
+            "strong": "H86080",
+            "x-morph": "He,Vmrfpa",
+            "x-id": "346Do"
+          },
+          {
+            "text": "עַל",
+            "lemma": "עַל",
+            "strong": "H59211",
+            "x-morph": "He,R",
+            "x-id": "34abY"
+          },
+          {
+            "text": "לִבְבֵ⁠הֶֽן",
+            "lemma": "לֵבָב",
+            "strong": "H38240",
+            "x-morph": "He,Ncmpc:Sp3fp",
+            "x-id": "34UAs"
+          }
+        ]
+      },
+      "9": {
+        "words": [
+          {
+            "text": "וְ⁠נִינְוֵ֥ה",
+            "lemma": "נִינְוֵה",
+            "strong": "c:H52100",
+            "x-morph": "He,C:Np",
+            "x-id": "34YV2"
+          },
+          {
+            "text": "כִ⁠בְרֵֽכַת",
+            "lemma": "בְּרֵכָה",
+            "strong": "k:H12950",
+            "x-morph": "He,R:Ncfsc",
+            "x-id": "34HKX"
+          },
+          {
+            "text": "מַ֖יִם",
+            "lemma": "מַיִם",
+            "strong": "H43250",
+            "x-morph": "He,Ncmpa",
+            "x-id": "34fX5"
+          },
+          {
+            "text": "מִ֣⁠ימֵי",
+            "lemma": "יוֹם",
+            "strong": "m:H31170",
+            "x-morph": "He,R:Ncmpc",
+            "x-id": "34Zop"
+          },
+          {
+            "text": "הִ֑יא",
+            "lemma": "הוּא",
+            "strong": "H19310",
+            "x-morph": "He,Pp3fs",
+            "x-id": "34Svw"
+          },
+          {
+            "text": "וְ⁠הֵ֣מָּה",
+            "lemma": "הֵם",
+            "strong": "c:H19920",
+            "x-morph": "He,C:Pp3mp",
+            "x-id": "34Kj3"
+          },
+          {
+            "text": "נָסִ֔ים",
+            "lemma": "נוּס",
+            "strong": "H51270",
+            "x-morph": "He,Vqrmpa",
+            "x-id": "34mCH"
+          },
+          {
+            "text": "עִמְד֥וּ",
+            "lemma": "עָמַד",
+            "strong": "H59750",
+            "x-morph": "He,Vqv2mp",
+            "x-id": "34eTW"
+          },
+          {
+            "text": "עֲמֹ֖דוּ",
+            "lemma": "עָמַד",
+            "strong": "H59750",
+            "x-morph": "He,Vqv2mp",
+            "x-id": "34l00"
+          },
+          {
+            "text": "וְ⁠אֵ֥ין",
+            "lemma": "אַיִן",
+            "strong": "c:H03690",
+            "x-morph": "He,C:Tn",
+            "x-id": "342RW"
+          },
+          {
+            "text": "מַפְנֶֽה",
+            "lemma": "פָּנָה",
+            "strong": "H64370",
+            "x-morph": "He,Vhrmsa",
+            "x-id": "34pHo"
+          }
+        ]
+      },
+      "10": {
+        "words": [
+          {
+            "text": "בֹּ֥זּוּ",
+            "lemma": "בָּזַז",
+            "strong": "H09620",
+            "x-morph": "He,Vqv2mp",
+            "x-id": "34FdA"
+          },
+          {
+            "text": "כֶ֖סֶף",
+            "lemma": "כֶּסֶף",
+            "strong": "H37010",
+            "x-morph": "He,Ncmsa",
+            "x-id": "34WiT"
+          },
+          {
+            "text": "בֹּ֣זּוּ",
+            "lemma": "בָּזַז",
+            "strong": "H09620",
+            "x-morph": "He,Vqv2mp",
+            "x-id": "34gv3"
+          },
+          {
+            "text": "זָהָ֑ב",
+            "lemma": "זָהָב",
+            "strong": "H20910",
+            "x-morph": "He,Ncmsa",
+            "x-id": "346We"
+          },
+          {
+            "text": "וְ⁠אֵ֥ין",
+            "lemma": "אַיִן",
+            "strong": "c:H03690",
+            "x-morph": "He,C:Tn",
+            "x-id": "34MPJ"
+          },
+          {
+            "text": "קֵ֨צֶה֙",
+            "lemma": "קָצֶה",
+            "strong": "H70972",
+            "x-morph": "He,Ncbsa",
+            "x-id": "340iG"
+          },
+          {
+            "text": "לַ⁠תְּכוּנָ֔ה",
+            "lemma": "תְּכוּנָה",
+            "strong": "l:H84980",
+            "x-morph": "He,Rd:Ncfsa",
+            "x-id": "34Pa4"
+          },
+          {
+            "text": "כָּבֹ֕ד",
+            "lemma": "כָּבוֹד",
+            "strong": "H35190",
+            "x-morph": "He,Ncbsa",
+            "x-id": "34A4B"
+          },
+          {
+            "text": "מִ⁠כֹּ֖ל",
+            "lemma": "כֹּל",
+            "strong": "m:H36050",
+            "x-morph": "He,R:Ncmsc",
+            "x-id": "34ffS"
+          },
+          {
+            "text": "כְּלִ֥י",
+            "lemma": "כְּלִי",
+            "strong": "H36270",
+            "x-morph": "He,Ncmsc",
+            "x-id": "34Bvo"
+          },
+          {
+            "text": "חֶמְדָּֽה",
+            "lemma": "חֶמְדָּה",
+            "strong": "H25321",
+            "x-morph": "He,Ncfsa",
+            "x-id": "34h7o"
+          }
+        ]
+      },
+      "11": {
+        "words": [
+          {
+            "text": "בּוּקָ֥ה",
+            "lemma": "בּוּקָה",
+            "strong": "H09500",
+            "x-morph": "He,Ncfsa",
+            "x-id": "34h3h"
+          },
+          {
+            "text": "וּ⁠מְבוּקָ֖ה",
+            "lemma": "מְבוּקָה",
+            "strong": "c:H40030",
+            "x-morph": "He,C:Ncfsa",
+            "x-id": "344tN"
+          },
+          {
+            "text": "וּ⁠מְבֻלָּקָ֑ה",
+            "lemma": "בָּלַק",
+            "strong": "c:H11100",
+            "x-morph": "He,C:VPsfsa",
+            "x-id": "34mFe"
+          },
+          {
+            "text": "וְ⁠לֵ֨ב",
+            "lemma": "לֵב",
+            "strong": "c:H38201",
+            "x-morph": "He,C:Ncmsa",
+            "x-id": "34th2"
+          },
+          {
+            "text": "נָמֵ֜ס",
+            "lemma": "מָסַס",
+            "strong": "H45490",
+            "x-morph": "He,VNp3ms",
+            "x-id": "340zZ"
+          },
+          {
+            "text": "וּ⁠פִ֣ק",
+            "lemma": "פִּיק",
+            "strong": "c:H63750",
+            "x-morph": "He,C:Ncmsc",
+            "x-id": "34JFu"
+          },
+          {
+            "text": "בִּרְכַּ֗יִם",
+            "lemma": "בֶּרֶךְ",
+            "strong": "H12900",
+            "x-morph": "He,Ncfda",
+            "x-id": "34PHk"
+          },
+          {
+            "text": "וְ⁠חַלְחָלָה֙",
+            "lemma": "חַלְחָלָה",
+            "strong": "c:H24790",
+            "x-morph": "He,C:Ncfsa",
+            "x-id": "34yjg"
+          },
+          {
+            "text": "בְּ⁠כָל",
+            "lemma": "כֹּל",
+            "strong": "b:H36050",
+            "x-morph": "He,R:Ncmsc",
+            "x-id": "34hxn"
+          },
+          {
+            "text": "מָתְנַ֔יִם",
+            "lemma": "מֹתֶן",
+            "strong": "H49750",
+            "x-morph": "He,Ncmda",
+            "x-id": "34c4v"
+          },
+          {
+            "text": "וּ⁠פְנֵ֥י",
+            "lemma": "פָּנִים",
+            "strong": "c:H64400",
+            "x-morph": "He,C:Ncbpc",
+            "x-id": "34tKT"
+          },
+          {
+            "text": "כֻלָּ֖⁠ם",
+            "lemma": "כֹּל",
+            "strong": "H36050",
+            "x-morph": "He,Ncmsc:Sp3mp",
+            "x-id": "34PLD"
+          },
+          {
+            "text": "קִבְּצ֥וּ",
+            "lemma": "קָבַץ",
+            "strong": "H69080",
+            "x-morph": "He,Vpp3cp",
+            "x-id": "34yMs"
+          },
+          {
+            "text": "פָארֽוּר",
+            "lemma": "פָּארוּר",
+            "strong": "H62890",
+            "x-morph": "He,Ncmsa",
+            "x-id": "34Pqh"
+          }
+        ]
+      },
+      "12": {
+        "words": [
+          {
+            "text": "אַיֵּה֙",
+            "lemma": "אַיֵּה",
+            "strong": "H03460",
+            "x-morph": "He,Ti",
+            "x-id": "34HWv"
+          },
+          {
+            "text": "מְע֣וֹן",
+            "lemma": "מָעוֹן",
+            "strong": "H45830",
+            "x-morph": "He,Ncbsc",
+            "x-id": "34pca"
+          },
+          {
+            "text": "אֲרָי֔וֹת",
+            "lemma": "אֲרִי",
+            "strong": "H07381",
+            "x-morph": "He,Ncmpa",
+            "x-id": "34RiF"
+          },
+          {
+            "text": "וּ⁠מִרְעֶ֥ה",
+            "lemma": "מִרְעֶה",
+            "strong": "c:H48290",
+            "x-morph": "He,C:Ncmsa",
+            "x-id": "34kjD"
+          },
+          {
+            "text": "ה֖וּא",
+            "lemma": "הוּא",
+            "strong": "H19310",
+            "x-morph": "He,Pp3ms",
+            "x-id": "34FjE"
+          },
+          {
+            "text": "לַ⁠כְּפִרִ֑ים",
+            "lemma": "כְּפִיר",
+            "strong": "l:H37151",
+            "x-morph": "He,Rd:Ncmpa",
+            "x-id": "34MvN"
+          },
+          {
+            "text": "אֲשֶׁ֣ר",
+            "lemma": "אֲשֶׁר",
+            "strong": "H08341",
+            "x-morph": "He,Tr",
+            "x-id": "34Mwy"
+          },
+          {
+            "text": "הָלַךְ֩",
+            "lemma": "הָלַךְ",
+            "strong": "H19800",
+            "x-morph": "He,Vqp3ms",
+            "x-id": "34O5B"
+          },
+          {
+            "text": "אַרְיֵ֨ה",
+            "lemma": "אֲרִי",
+            "strong": "H07382",
+            "x-morph": "He,Ncmsa",
+            "x-id": "34CFg"
+          },
+          {
+            "text": "לָבִ֥יא",
+            "lemma": "לָבִיא",
+            "strong": "H38333",
+            "x-morph": "He,Ncbsa",
+            "x-id": "34GH8"
+          },
+          {
+            "text": "שָׁ֛ם",
+            "lemma": "שָׁם",
+            "strong": "H80330",
+            "x-morph": "He,D",
+            "x-id": "34EKp"
+          },
+          {
+            "text": "גּ֥וּר",
+            "lemma": "גּוּר",
+            "strong": "H14820",
+            "x-morph": "He,Ncmsc",
+            "x-id": "34WX0"
+          },
+          {
+            "text": "אַרְיֵ֖ה",
+            "lemma": "אֲרִי",
+            "strong": "H07382",
+            "x-morph": "He,Ncmsa",
+            "x-id": "34Ej6"
+          },
+          {
+            "text": "וְ⁠אֵ֥ין",
+            "lemma": "אַיִן",
+            "strong": "c:H03690",
+            "x-morph": "He,C:Tn",
+            "x-id": "34UMx"
+          },
+          {
+            "text": "מַחֲרִֽיד",
+            "lemma": "חָרַד",
+            "strong": "H27290",
+            "x-morph": "He,Vhrmsa",
+            "x-id": "34iaN"
+          }
+        ]
+      },
+      "13": {
+        "words": [
+          {
+            "text": "אַרְיֵ֤ה",
+            "lemma": "אֲרִי",
+            "strong": "H07382",
+            "x-morph": "He,Ncmsa",
+            "x-id": "3437i"
+          },
+          {
+            "text": "טֹרֵף֙",
+            "lemma": "טָרַף",
+            "strong": "H29630",
+            "x-morph": "He,Vqrmsa",
+            "x-id": "34kdP"
+          },
+          {
+            "text": "בְּ⁠דֵ֣י",
+            "lemma": "דַּי",
+            "strong": "b:H17670",
+            "x-morph": "He,R:Ncmsc",
+            "x-id": "34zKi"
+          },
+          {
+            "text": "גֹֽרוֹתָ֔י⁠ו",
+            "lemma": "גּוֹר",
+            "strong": "H14840",
+            "x-morph": "He,Ncmpc:Sp3ms",
+            "x-id": "34kXf"
+          },
+          {
+            "text": "וּ⁠מְחַנֵּ֖ק",
+            "lemma": "חָנַק",
+            "strong": "c:H26140",
+            "x-morph": "He,C:Vprmsa",
+            "x-id": "34llZ"
+          },
+          {
+            "text": "לְ⁠לִבְאֹתָ֑י⁠ו",
+            "lemma": "לָבִיא",
+            "strong": "l:H38331",
+            "x-morph": "He,R:Ncbpc:Sp3ms",
+            "x-id": "342zn"
+          },
+          {
+            "text": "וַ⁠יְמַלֵּא",
+            "lemma": "מָלֵא",
+            "strong": "c:H43900",
+            "x-morph": "He,C:Vpw3ms",
+            "x-id": "34WYr"
+          },
+          {
+            "text": "טֶ֣רֶף",
+            "lemma": "טֶרֶף",
+            "strong": "H29640",
+            "x-morph": "He,Ncmsa",
+            "x-id": "34Jc0"
+          },
+          {
+            "text": "חֹרָ֔י⁠ו",
+            "lemma": "חוֹר",
+            "strong": "H23560",
+            "x-morph": "He,Ncmpc:Sp3ms",
+            "x-id": "343Ci"
+          },
+          {
+            "text": "וּ⁠מְעֹֽנֹתָ֖י⁠ו",
+            "lemma": "מְעוֹנָה",
+            "strong": "c:H45850",
+            "x-morph": "He,C:Ncbpc:Sp3ms",
+            "x-id": "34PLG"
+          },
+          {
+            "text": "טְרֵפָֽה",
+            "lemma": "טְרֵפָה",
+            "strong": "H29660",
+            "x-morph": "He,Ncfsa",
+            "x-id": "340qg"
+          }
+        ]
+      },
+      "14": {
+        "words": [
+          {
+            "text": "הִנְ⁠נִ֣י",
+            "lemma": "הִנֵּה",
+            "strong": "H20090",
+            "x-morph": "He,Tm:Sp1cs",
+            "x-id": "34vVJ"
+          },
+          {
+            "text": "אֵלַ֗יִ⁠ךְ",
+            "lemma": "אֵל",
+            "strong": "H04130",
+            "x-morph": "He,R:Sp2fs",
+            "x-id": "34yop"
+          },
+          {
+            "text": "נְאֻם֙",
+            "lemma": "נְאֻם",
+            "strong": "H50020",
+            "x-morph": "He,Ncmsc",
+            "x-id": "3409T"
+          },
+          {
+            "text": "יְהוָ֣ה",
+            "lemma": "יְהֹוָה",
+            "strong": "H30680",
+            "x-morph": "He,Np",
+            "x-id": "34Cbw"
+          },
+          {
+            "text": "צְבָא֔וֹת",
+            "lemma": "צָבָא",
+            "strong": "H66352",
+            "x-morph": "He,Ncbpa",
+            "x-id": "34flh"
+          },
+          {
+            "text": "וְ⁠הִבְעַרְתִּ֤י",
+            "lemma": "בָּעַר",
+            "strong": "c:H11971",
+            "x-morph": "He,C:Vhp1cs",
+            "x-id": "34Dzp"
+          },
+          {
+            "text": "בֶֽ⁠עָשָׁן֙",
+            "lemma": "עָשָׁן",
+            "strong": "b:H62270",
+            "x-morph": "He,Rd:Ncmsa",
+            "x-id": "34dG8"
+          },
+          {
+            "text": "רִכְבָּ֔⁠הּ",
+            "lemma": "רֶכֶב",
+            "strong": "H73930",
+            "x-morph": "He,Ncmsc:Sp3fs",
+            "x-id": "34Kdw"
+          },
+          {
+            "text": "וּ⁠כְפִירַ֖יִ⁠ךְ",
+            "lemma": "כְּפִיר",
+            "strong": "c:H37151",
+            "x-morph": "He,C:Ncmpc:Sp2fs",
+            "x-id": "34QzD"
+          },
+          {
+            "text": "תֹּ֣אכַל",
+            "lemma": "אָכַל",
+            "strong": "H03980",
+            "x-morph": "He,Vqi3fs",
+            "x-id": "34AY8"
+          },
+          {
+            "text": "חָ֑רֶב",
+            "lemma": "חֶרֶב",
+            "strong": "H27190",
+            "x-morph": "He,Ncfsa",
+            "x-id": "347cR"
+          },
+          {
+            "text": "וְ⁠הִכְרַתִּ֤י",
+            "lemma": "כָּרַת",
+            "strong": "c:H37720",
+            "x-morph": "He,C:Vhq1cs",
+            "x-id": "34BH6"
+          },
+          {
+            "text": "מֵ⁠אֶ֨רֶץ֙",
+            "lemma": "אֶרֶץ",
+            "strong": "m:H07760",
+            "x-morph": "He,R:Ncbsa",
+            "x-id": "34wiv"
+          },
+          {
+            "text": "טַרְפֵּ֔⁠ךְ",
+            "lemma": "טֶרֶף",
+            "strong": "H29640",
+            "x-morph": "He,Ncmsc:Sp2fs",
+            "x-id": "34fjf"
+          },
+          {
+            "text": "וְ⁠לֹֽא",
+            "lemma": "לֹא",
+            "strong": "c:H38080",
+            "x-morph": "He,C:Tn",
+            "x-id": "340Wl"
+          },
+          {
+            "text": "יִשָּׁמַ֥ע",
+            "lemma": "שָׁמַע",
+            "strong": "H80850",
+            "x-morph": "He,VNi3ms",
+            "x-id": "34u1K"
+          },
+          {
+            "text": "ע֖וֹד",
+            "lemma": "עוֹד",
+            "strong": "H57500",
+            "x-morph": "He,D",
+            "x-id": "34Oyb"
+          },
+          {
+            "text": "ק֥וֹל",
+            "lemma": "קוֹל",
+            "strong": "H69631",
+            "x-morph": "He,Ncmsc",
+            "x-id": "34Yls"
+          },
+          {
+            "text": "מַלְאָכֵֽ⁠כֵה",
+            "lemma": "מַלְאָךְ",
+            "strong": "H43970",
+            "x-morph": "He,Ncmpc:Sp2fs",
+            "x-id": "34g8N"
+          }
+        ]
+      }
+    },
+    "3": {
+      "1": {
+        "words": [
+          {
+            "text": "ה֖וֹי",
+            "lemma": "הוֹי",
+            "strong": "H19450",
+            "x-morph": "He,Tj",
+            "x-id": "342tb"
+          },
+          {
+            "text": "עִ֣יר",
+            "lemma": "עִיר",
+            "strong": "H58922",
+            "x-morph": "He,Ncfsc",
+            "x-id": "34XKj"
+          },
+          {
+            "text": "דָּמִ֑ים",
+            "lemma": "דָּם",
+            "strong": "H18180",
+            "x-morph": "He,Ncmpa",
+            "x-id": "34jgB"
+          },
+          {
+            "text": "כֻּלָּ֗⁠הּ",
+            "lemma": "כֹּל",
+            "strong": "H36050",
+            "x-morph": "He,Ncmsc:Sp3fs",
+            "x-id": "348UF"
+          },
+          {
+            "text": "כַּ֤חַשׁ",
+            "lemma": "כַּחַשׁ",
+            "strong": "H35850",
+            "x-morph": "He,Ncmsa",
+            "x-id": "34szi"
+          },
+          {
+            "text": "פֶּ֨רֶק֙",
+            "lemma": "פֶּרֶק",
+            "strong": "H65630",
+            "x-morph": "He,Ncmsa",
+            "x-id": "34nYX"
+          },
+          {
+            "text": "מְלֵאָ֔ה",
+            "lemma": "מְלֵאָה",
+            "strong": "H43950",
+            "x-morph": "He,Aafsa",
+            "x-id": "34FYO"
+          },
+          {
+            "text": "לֹ֥א",
+            "lemma": "לֹא",
+            "strong": "H38080",
+            "x-morph": "He,Tn",
+            "x-id": "3420K"
+          },
+          {
+            "text": "יָמִ֖ישׁ",
+            "lemma": "מוּשׁ",
+            "strong": "H41850",
+            "x-morph": "He,Vqi3ms",
+            "x-id": "34R0F"
+          },
+          {
+            "text": "טָֽרֶף",
+            "lemma": "טֶרֶף",
+            "strong": "H29640",
+            "x-morph": "He,Ncmsa",
+            "x-id": "34lby"
+          }
+        ]
+      },
+      "2": {
+        "words": [
+          {
+            "text": "ק֣וֹל",
+            "lemma": "קוֹל",
+            "strong": "H69631",
+            "x-morph": "He,Ncmsc",
+            "x-id": "342k5"
+          },
+          {
+            "text": "שׁ֔וֹט",
+            "lemma": "שׁוֹט",
+            "strong": "H77520",
+            "x-morph": "He,Ncmsa",
+            "x-id": "349P4"
+          },
+          {
+            "text": "וְ⁠ק֖וֹל",
+            "lemma": "קוֹל",
+            "strong": "c:H69631",
+            "x-morph": "He,C:Ncmsc",
+            "x-id": "34IU9"
+          },
+          {
+            "text": "רַ֣עַשׁ",
+            "lemma": "רַעַשׁ",
+            "strong": "H74940",
+            "x-morph": "He,Ncmsc",
+            "x-id": "34l1B"
+          },
+          {
+            "text": "אוֹפָ֑ן",
+            "lemma": "אוֹפָן",
+            "strong": "H02120",
+            "x-morph": "He,Ncmsa",
+            "x-id": "34Zaj"
+          },
+          {
+            "text": "וְ⁠ס֣וּס",
+            "lemma": "סוּס",
+            "strong": "c:H54832",
+            "x-morph": "He,C:Ncmsa",
+            "x-id": "343wN"
+          },
+          {
+            "text": "דֹּהֵ֔ר",
+            "lemma": "דָּהַר",
+            "strong": "H17250",
+            "x-morph": "He,Vqrmsa",
+            "x-id": "34Jqc"
+          },
+          {
+            "text": "וּ⁠מֶרְכָּבָ֖ה",
+            "lemma": "מֶרְכָּבָה",
+            "strong": "c:H48180",
+            "x-morph": "He,C:Ncfsa",
+            "x-id": "34nOS"
+          },
+          {
+            "text": "מְרַקֵּדָֽה",
+            "lemma": "רָקַד",
+            "strong": "H75400",
+            "x-morph": "He,Vprfsa",
+            "x-id": "34cp5"
+          }
+        ]
+      },
+      "3": {
+        "words": [
+          {
+            "text": "פָּרָ֣שׁ",
+            "lemma": "פָּרָשׁ",
+            "strong": "H65712",
+            "x-morph": "He,Ncmsa",
+            "x-id": "34gZr"
+          },
+          {
+            "text": "מַעֲלֶ֗ה",
+            "lemma": "עָלָה",
+            "strong": "H59270",
+            "x-morph": "He,Vhrmsa",
+            "x-id": "34tdM"
+          },
+          {
+            "text": "וְ⁠לַ֤הַב",
+            "lemma": "לַהַב",
+            "strong": "c:H38510",
+            "x-morph": "He,C:Ncmsc",
+            "x-id": "34G3G"
+          },
+          {
+            "text": "חֶ֨רֶב֙",
+            "lemma": "חֶרֶב",
+            "strong": "H27190",
+            "x-morph": "He,Ncfsa",
+            "x-id": "34m1J"
+          },
+          {
+            "text": "וּ⁠בְרַ֣ק",
+            "lemma": "בָּרָק",
+            "strong": "c:H13002",
+            "x-morph": "He,C:Ncmsc",
+            "x-id": "34d5y"
+          },
+          {
+            "text": "חֲנִ֔ית",
+            "lemma": "חֲנִית",
+            "strong": "H25950",
+            "x-morph": "He,Ncfsa",
+            "x-id": "34sDl"
+          },
+          {
+            "text": "וְ⁠רֹ֥ב",
+            "lemma": "רֹב",
+            "strong": "c:H72300",
+            "x-morph": "He,C:Ncbsc",
+            "x-id": "34uEt"
+          },
+          {
+            "text": "חָלָ֖ל",
+            "lemma": "חָלָל",
+            "strong": "H24911",
+            "x-morph": "He,Aamsa",
+            "x-id": "34ktn"
+          },
+          {
+            "text": "וְ⁠כֹ֣בֶד",
+            "lemma": "כֹּבֶד",
+            "strong": "c:H35140",
+            "x-morph": "He,C:Ncmsc",
+            "x-id": "3446U"
+          },
+          {
+            "text": "פָּ֑גֶר",
+            "lemma": "פֶּגֶר",
+            "strong": "H62970",
+            "x-morph": "He,Ncmsa",
+            "x-id": "34kxp"
+          },
+          {
+            "text": "וְ⁠אֵ֥ין",
+            "lemma": "אַיִן",
+            "strong": "c:H03690",
+            "x-morph": "He,C:Tn",
+            "x-id": "347Au"
+          },
+          {
+            "text": "קֵ֨צֶה֙",
+            "lemma": "קָצֶה",
+            "strong": "H70972",
+            "x-morph": "He,Ncbsa",
+            "x-id": "34ml0"
+          },
+          {
+            "text": "לַ⁠גְּוִיָּ֔ה",
+            "lemma": "גְּוִיָּה",
+            "strong": "l:H14720",
+            "x-morph": "He,Rd:Ncfsa",
+            "x-id": "34zaZ"
+          },
+          {
+            "text": "וְ⁠כָשְׁל֖וּ",
+            "lemma": "כָּשַׁל",
+            "strong": "c:H37820",
+            "x-morph": "He,C:Vqq3cp",
+            "x-id": "34UkN"
+          },
+          {
+            "text": "בִּ⁠גְוִיָּתָֽ⁠ם",
+            "lemma": "גְּוִיָּה",
+            "strong": "b:H14720",
+            "x-morph": "He,R:Ncfsc:Sp3mp",
+            "x-id": "34c13"
+          }
+        ],
+        "apparatus": {
+          "words": [
+            {
+              "w": "יכשלו",
+              "id": "34Kku",
+              "lemma": "כָּשַׁל",
+              "strong": "H37820",
+              "morph": "He,Vqi3mp"
+            }
+          ],
+          "ancient": [],
+          "critical": [
+            "Q",
+            "K:1-13,+1,15"
+          ]
+        }
+      },
+      "4": {
+        "words": [
+          {
+            "text": "מֵ⁠רֹב֙",
+            "lemma": "רֹב",
+            "strong": "m:H72300",
+            "x-morph": "He,R:Ncbsc",
+            "x-id": "345FG"
+          },
+          {
+            "text": "זְנוּנֵ֣י",
+            "lemma": "זָנוּן",
+            "strong": "H21830",
+            "x-morph": "He,Ncmpc",
+            "x-id": "34kFJ"
+          },
+          {
+            "text": "זוֹנָ֔ה",
+            "lemma": "זָנָה",
+            "strong": "H21810",
+            "x-morph": "He,Vqrfsa",
+            "x-id": "34L9H"
+          },
+          {
+            "text": "ט֥וֹבַת",
+            "lemma": "טוֹב",
+            "strong": "H28961",
+            "x-morph": "He,Aafsc",
+            "x-id": "34fHr"
+          },
+          {
+            "text": "חֵ֖ן",
+            "lemma": "חֵן",
+            "strong": "H25800",
+            "x-morph": "He,Ncmsa",
+            "x-id": "34psw"
+          },
+          {
+            "text": "בַּעֲלַ֣ת",
+            "lemma": "בַּעֲלָה",
+            "strong": "H11720",
+            "x-morph": "He,Ncfsc",
+            "x-id": "34zLZ"
+          },
+          {
+            "text": "כְּשָׁפִ֑ים",
+            "lemma": "כֶּשֶׁף",
+            "strong": "H37850",
+            "x-morph": "He,Ncmpa",
+            "x-id": "34wEg"
+          },
+          {
+            "text": "הַ⁠מֹּכֶ֤רֶת",
+            "lemma": "מָכַר",
+            "strong": "d:H43760",
+            "x-morph": "He,Td:Vqrfsa",
+            "x-id": "34I0g"
+          },
+          {
+            "text": "גּוֹיִם֙",
+            "lemma": "גּוֹי",
+            "strong": "H14711",
+            "x-morph": "He,Ncmpa",
+            "x-id": "34q2s"
+          },
+          {
+            "text": "בִּ⁠זְנוּנֶ֔י⁠הָ",
+            "lemma": "זָנוּן",
+            "strong": "b:H21830",
+            "x-morph": "He,R:Ncmpc:Sp3fs",
+            "x-id": "34jEU"
+          },
+          {
+            "text": "וּ⁠מִשְׁפָּח֖וֹת",
+            "lemma": "מִשְׁפָּחָה",
+            "strong": "c:H49400",
+            "x-morph": "He,C:Ncfpa",
+            "x-id": "34gr4"
+          },
+          {
+            "text": "בִּ⁠כְשָׁפֶֽי⁠הָ",
+            "lemma": "כֶּשֶׁף",
+            "strong": "b:H37850",
+            "x-morph": "He,R:Ncmpc:Sp3fs",
+            "x-id": "3472O"
+          }
+        ]
+      },
+      "5": {
+        "words": [
+          {
+            "text": "הִנְ⁠נִ֣י",
+            "lemma": "הִנֵּה",
+            "strong": "H20090",
+            "x-morph": "He,Tm:Sp1cs",
+            "x-id": "34Iyp"
+          },
+          {
+            "text": "אֵלַ֗יִ⁠ךְ",
+            "lemma": "אֵל",
+            "strong": "H04130",
+            "x-morph": "He,R:Sp2fs",
+            "x-id": "34oGq"
+          },
+          {
+            "text": "נְאֻם֙",
+            "lemma": "נְאֻם",
+            "strong": "H50020",
+            "x-morph": "He,Ncmsc",
+            "x-id": "34cMp"
+          },
+          {
+            "text": "יְהוָ֣ה",
+            "lemma": "יְהֹוָה",
+            "strong": "H30680",
+            "x-morph": "He,Np",
+            "x-id": "34GVk"
+          },
+          {
+            "text": "צְבָא֔וֹת",
+            "lemma": "צָבָא",
+            "strong": "H66352",
+            "x-morph": "He,Ncbpa",
+            "x-id": "34zFP"
+          },
+          {
+            "text": "וְ⁠גִלֵּיתִ֥י",
+            "lemma": "גָּלָה",
+            "strong": "c:H15400",
+            "x-morph": "He,C:Vpp1cs",
+            "x-id": "34a9e"
+          },
+          {
+            "text": "שׁוּלַ֖יִ⁠ךְ",
+            "lemma": "שׁוּל",
+            "strong": "H77570",
+            "x-morph": "He,Ncmpc:Sp2fs",
+            "x-id": "34Ut9"
+          },
+          {
+            "text": "עַל",
+            "lemma": "עַל",
+            "strong": "H59211",
+            "x-morph": "He,R",
+            "x-id": "34kfF"
+          },
+          {
+            "text": "פָּנָ֑יִ⁠ךְ",
+            "lemma": "פָּנִים",
+            "strong": "H64400",
+            "x-morph": "He,Ncbpc:Sp2fs",
+            "x-id": "34uxa"
+          },
+          {
+            "text": "וְ⁠הַרְאֵיתִ֤י",
+            "lemma": "רָאָה",
+            "strong": "c:H72000",
+            "x-morph": "He,C:Vhp1cs",
+            "x-id": "34gMH"
+          },
+          {
+            "text": "גוֹיִם֙",
+            "lemma": "גּוֹי",
+            "strong": "H14711",
+            "x-morph": "He,Ncmpa",
+            "x-id": "34f0E"
+          },
+          {
+            "text": "מַעְרֵ֔⁠ךְ",
+            "lemma": "מַעַר",
+            "strong": "H46260",
+            "x-morph": "He,Ncmsc:Sp2fs",
+            "x-id": "34AWm"
+          },
+          {
+            "text": "וּ⁠מַמְלָכ֖וֹת",
+            "lemma": "מַמְלָכָה",
+            "strong": "c:H44670",
+            "x-morph": "He,C:Ncfpa",
+            "x-id": "34Fr9"
+          },
+          {
+            "text": "קְלוֹנֵֽ⁠ךְ",
+            "lemma": "קָלוֹן",
+            "strong": "H70360",
+            "x-morph": "He,Ncmsc:Sp2fs",
+            "x-id": "34Xjh"
+          }
+        ]
+      },
+      "6": {
+        "words": [
+          {
+            "text": "וְ⁠הִשְׁלַכְתִּ֥י",
+            "lemma": "שָׁלַךְ",
+            "strong": "c:H79930",
+            "x-morph": "He,C:Vhp1cs",
+            "x-id": "344j1"
+          },
+          {
+            "text": "עָלַ֛יִ⁠ךְ",
+            "lemma": "עַל",
+            "strong": "H59211",
+            "x-morph": "He,R:Sp2fs",
+            "x-id": "34EjM"
+          },
+          {
+            "text": "שִׁקֻּצִ֖ים",
+            "lemma": "שִׁקּוּץ",
+            "strong": "H82510",
+            "x-morph": "He,Ncmpa",
+            "x-id": "34tzF"
+          },
+          {
+            "text": "וְ⁠נִבַּלְתִּ֑י⁠ךְ",
+            "lemma": "נָבֵל",
+            "strong": "c:H50341",
+            "x-morph": "He,C:Vpp1cs:Sp2fs",
+            "x-id": "34pSo"
+          },
+          {
+            "text": "וְ⁠שַׂמְתִּ֖י⁠ךְ",
+            "lemma": "שׂוּם",
+            "strong": "c:H77601",
+            "x-morph": "He,C:Vqp1cs:Sp2fs",
+            "x-id": "34ucl"
+          },
+          {
+            "text": "כְּ⁠רֹֽאִי",
+            "lemma": "רֳאִי",
+            "strong": "k:H72100",
+            "x-morph": "He,R:Ncmsa",
+            "x-id": "34vbz"
+          }
+        ]
+      },
+      "7": {
+        "words": [
+          {
+            "text": "וְ⁠הָיָ֤ה",
+            "lemma": "הָיָה",
+            "strong": "c:H19610",
+            "x-morph": "He,C:Vqp3ms",
+            "x-id": "34G11"
+          },
+          {
+            "text": "כָל",
+            "lemma": "כֹּל",
+            "strong": "H36050",
+            "x-morph": "He,Ncmsc",
+            "x-id": "34tvn"
+          },
+          {
+            "text": "רֹאַ֨יִ⁠ךְ֙",
+            "lemma": "רָאָה",
+            "strong": "H72000",
+            "x-morph": "He,Vqrmpc:Sp2fs",
+            "x-id": "34HS1"
+          },
+          {
+            "text": "יִדּ֣וֹד",
+            "lemma": "נָדַד",
+            "strong": "H50740",
+            "x-morph": "He,Vqi3ms",
+            "x-id": "34zhV"
+          },
+          {
+            "text": "מִמֵּ֔⁠ךְ",
+            "lemma": "מִן",
+            "strong": "H44801",
+            "x-morph": "He,R:Sp2fs",
+            "x-id": "348G9"
+          },
+          {
+            "text": "וְ⁠אָמַר֙",
+            "lemma": "אָמַר",
+            "strong": "c:H05590",
+            "x-morph": "He,C:Vqp3ms",
+            "x-id": "34wIf"
+          },
+          {
+            "text": "שָׁדְּדָ֣ה",
+            "lemma": "שָׁדַד",
+            "strong": "H77030",
+            "x-morph": "He,VPp3fs",
+            "x-id": "34mHk"
+          },
+          {
+            "text": "נִֽינְוֵ֔ה",
+            "lemma": "נִינְוֵה",
+            "strong": "H52100",
+            "x-morph": "He,Np",
+            "x-id": "34qul"
+          },
+          {
+            "text": "מִ֖י",
+            "lemma": "מִי",
+            "strong": "H43100",
+            "x-morph": "He,Ti",
+            "x-id": "346bn"
+          },
+          {
+            "text": "יָנ֣וּד",
+            "lemma": "נוּד",
+            "strong": "H51100",
+            "x-morph": "He,Vqi3ms",
+            "x-id": "34SR6"
+          },
+          {
+            "text": "מֵ⁠אַ֛יִן",
+            "lemma": "אַיִן",
+            "strong": "m:H03700",
+            "x-morph": "He,R:Ti",
+            "x-id": "34hTN"
+          },
+          {
+            "text": "אֲבַקֵּ֥שׁ",
+            "lemma": "בָּקַשׁ",
+            "strong": "H12450",
+            "x-morph": "He,Vpi1cs",
+            "x-id": "34urN"
+          },
+          {
+            "text": "מְנַחֲמִ֖ים",
+            "lemma": "נָחַם",
+            "strong": "H51620",
+            "x-morph": "He,Vprmpa",
+            "x-id": "345QY"
+          }
+        ]
+      },
+      "8": {
+        "words": [
+          {
+            "text": "הֲ⁠תֵֽיטְבִי֙",
+            "lemma": "יָטַב",
+            "strong": "i:H31900",
+            "x-morph": "He,Ti:Vhi2fs",
+            "x-id": "342LE"
+          },
+          {
+            "text": "מִ⁠נֹּ֣א",
+            "lemma": "נֹא",
+            "strong": "m:H49960",
+            "x-morph": "He,R:Np",
+            "x-id": "34uNe"
+          },
+          {
+            "text": "אָמ֔וֹן",
+            "lemma": "אָמוֹן",
+            "strong": "H05280",
+            "x-morph": "He,Np",
+            "x-id": "34W6i"
+          },
+          {
+            "text": "הַ⁠יֹּֽשְׁבָה֙",
+            "lemma": "יָשַׁב",
+            "strong": "d:H34270",
+            "x-morph": "He,Td:Vqrfsa",
+            "x-id": "34wTI"
+          },
+          {
+            "text": "בַּ⁠יְאֹרִ֔ים",
+            "lemma": "יְאֹר",
+            "strong": "b:H29750",
+            "x-morph": "He,Rd:Ncmpa",
+            "x-id": "34yCa"
+          },
+          {
+            "text": "מַ֖יִם",
+            "lemma": "מַיִם",
+            "strong": "H43250",
+            "x-morph": "He,Ncmpa",
+            "x-id": "34f4k"
+          },
+          {
+            "text": "סָבִ֣יב",
+            "lemma": "סָבִיב",
+            "strong": "H54390",
+            "x-morph": "He,Ncbsa",
+            "x-id": "34zVG"
+          },
+          {
+            "text": "אֲשֶׁר",
+            "lemma": "אֲשֶׁר",
+            "strong": "H08341",
+            "x-morph": "He,Tr",
+            "x-id": "34k88"
+          },
+          {
+            "text": "חֵ֣יל",
+            "lemma": "חֵיל",
+            "strong": "H24260",
+            "x-morph": "He,Ncmsc",
+            "x-id": "34rZl"
+          },
+          {
+            "text": "יָ֔ם",
+            "lemma": "יָם",
+            "strong": "H32200",
+            "x-morph": "He,Ncmsa",
+            "x-id": "34h4K"
+          },
+          {
+            "text": "מִ⁠יָּ֖ם",
+            "lemma": "יָם",
+            "strong": "m:H32200",
+            "x-morph": "He,R:Ncmsa",
+            "x-id": "34lI2"
+          },
+          {
+            "text": "חוֹמָתָֽ⁠הּ",
+            "lemma": "חוֹמָה",
+            "strong": "H23460",
+            "x-morph": "He,Ncfsc:Sp3fs",
+            "x-id": "34GQL"
+          }
+        ]
+      },
+      "9": {
+        "words": [
+          {
+            "text": "כּ֥וּשׁ",
+            "lemma": "כּוּשׁ",
+            "strong": "H35681",
+            "x-morph": "He,Np",
+            "x-id": "34Yc3"
+          },
+          {
+            "text": "עָצְמָ֛⁠ה",
+            "lemma": "עׇצְמָה",
+            "strong": "H61090",
+            "x-morph": "He,Ncfsc:Sp3fs",
+            "x-id": "349nx"
+          },
+          {
+            "text": "וּ⁠מִצְרַ֖יִם",
+            "lemma": "מִצְרַיִם",
+            "strong": "c:H47140",
+            "x-morph": "He,C:Np",
+            "x-id": "34hN3"
+          },
+          {
+            "text": "וְ⁠אֵ֣ין",
+            "lemma": "אַיִן",
+            "strong": "c:H03690",
+            "x-morph": "He,C:Tn",
+            "x-id": "34NZg"
+          },
+          {
+            "text": "קֵ֑צֶה",
+            "lemma": "קָצֶה",
+            "strong": "H70972",
+            "x-morph": "He,Ncbsa",
+            "x-id": "341xr"
+          },
+          {
+            "text": "פּ֣וּט",
+            "lemma": "פּוּט",
+            "strong": "H63160",
+            "x-morph": "He,Np",
+            "x-id": "34dOf"
+          },
+          {
+            "text": "וְ⁠לוּבִ֔ים",
+            "lemma": "לוּבִי",
+            "strong": "c:H38640",
+            "x-morph": "He,C:Ngmpa",
+            "x-id": "347s6"
+          },
+          {
+            "text": "הָי֖וּ",
+            "lemma": "הָיָה",
+            "strong": "H19610",
+            "x-morph": "He,Vqp3cp",
+            "x-id": "34K8W"
+          },
+          {
+            "text": "בְּ⁠עֶזְרָתֵֽ⁠ךְ",
+            "lemma": "עֶזְרָה",
+            "strong": "b:H58330",
+            "x-morph": "He,R:Ncfsc:Sp2fs",
+            "x-id": "34hKg"
+          }
+        ]
+      },
+      "10": {
+        "words": [
+          {
+            "text": "גַּם",
+            "lemma": "גַּם",
+            "strong": "H15710",
+            "x-morph": "He,Ta",
+            "x-id": "34X9A"
+          },
+          {
+            "text": "הִ֗יא",
+            "lemma": "הוּא",
+            "strong": "H19310",
+            "x-morph": "He,Pp3fs",
+            "x-id": "34Wzq"
+          },
+          {
+            "text": "לַ⁠גֹּלָה֙",
+            "lemma": "גּוֹלָה",
+            "strong": "l:H14730",
+            "x-morph": "He,Rd:Ncfsa",
+            "x-id": "34UIi"
+          },
+          {
+            "text": "הָלְכָ֣ה",
+            "lemma": "הָלַךְ",
+            "strong": "H19800",
+            "x-morph": "He,Vqp3fs",
+            "x-id": "34tCC"
+          },
+          {
+            "text": "בַ⁠שֶּׁ֔בִי",
+            "lemma": "שְׁבִי",
+            "strong": "b:H76281",
+            "x-morph": "He,Rd:Ncbsa",
+            "x-id": "345WL"
+          },
+          {
+            "text": "גַּ֧ם",
+            "lemma": "גַּם",
+            "strong": "H15710",
+            "x-morph": "He,Ta",
+            "x-id": "34KPj"
+          },
+          {
+            "text": "עֹלָלֶ֛י⁠הָ",
+            "lemma": "עוֹלֵל",
+            "strong": "H57680",
+            "x-morph": "He,Ncmpc:Sp3fs",
+            "x-id": "34rSE"
+          },
+          {
+            "text": "יְרֻטְּשׁ֖וּ",
+            "lemma": "רָטַשׁ",
+            "strong": "H73760",
+            "x-morph": "He,VPi3mp",
+            "x-id": "345hw"
+          },
+          {
+            "text": "בְּ⁠רֹ֣אשׁ",
+            "lemma": "רֹאשׁ",
+            "strong": "b:H72181",
+            "x-morph": "He,R:Ncmsc",
+            "x-id": "34MJj"
+          },
+          {
+            "text": "כָּל",
+            "lemma": "כֹּל",
+            "strong": "H36050",
+            "x-morph": "He,Ncmsc",
+            "x-id": "34emF"
+          },
+          {
+            "text": "חוּצ֑וֹת",
+            "lemma": "חוּץ",
+            "strong": "H23510",
+            "x-morph": "He,Ncmpa",
+            "x-id": "34zwr"
+          },
+          {
+            "text": "וְ⁠עַל",
+            "lemma": "עַל",
+            "strong": "c:H59211",
+            "x-morph": "He,C:R",
+            "x-id": "34RVn"
+          },
+          {
+            "text": "נִכְבַּדֶּ֨י⁠הָ֙",
+            "lemma": "כָּבַד",
+            "strong": "H35130",
+            "x-morph": "He,VNsmpc:Sp3fs",
+            "x-id": "34h2K"
+          },
+          {
+            "text": "יַדּ֣וּ",
+            "lemma": "יָדַד",
+            "strong": "H30320",
+            "x-morph": "He,Vqp3cp",
+            "x-id": "34ZGW"
+          },
+          {
+            "text": "גוֹרָ֔ל",
+            "lemma": "גּוֹרָל",
+            "strong": "H14860",
+            "x-morph": "He,Ncmsa",
+            "x-id": "34EPR"
+          },
+          {
+            "text": "וְ⁠כָל",
+            "lemma": "כֹּל",
+            "strong": "c:H36050",
+            "x-morph": "He,C:Ncmsc",
+            "x-id": "34sPX"
+          },
+          {
+            "text": "גְּדוֹלֶ֖י⁠הָ",
+            "lemma": "גָּדוֹל",
+            "strong": "H14191",
+            "x-morph": "He,Aampc:Sp3fs",
+            "x-id": "34ZFx"
+          },
+          {
+            "text": "רֻתְּק֥וּ",
+            "lemma": "רָתַק",
+            "strong": "H75760",
+            "x-morph": "He,VPp3cp",
+            "x-id": "34dnW"
+          },
+          {
+            "text": "בַ⁠זִּקִּֽים",
+            "lemma": "זִיקָה",
+            "strong": "b:H21312",
+            "x-morph": "He,Rd:Ncmpa",
+            "x-id": "34wnD"
+          }
+        ]
+      },
+      "11": {
+        "words": [
+          {
+            "text": "גַּם",
+            "lemma": "גַּם",
+            "strong": "H15710",
+            "x-morph": "He,Ta",
+            "x-id": "34nwJ"
+          },
+          {
+            "text": "אַ֣תְּ",
+            "lemma": "אַתָּה",
+            "strong": "H08593",
+            "x-morph": "He,Pp2fs",
+            "x-id": "347ct"
+          },
+          {
+            "text": "תִּשְׁכְּרִ֔י",
+            "lemma": "שָׁכַר",
+            "strong": "H79370",
+            "x-morph": "He,Vqi2fs",
+            "x-id": "34l2f"
+          },
+          {
+            "text": "תְּהִ֖י",
+            "lemma": "הָיָה",
+            "strong": "H19610",
+            "x-morph": "He,Vqi3fs",
+            "x-id": "34VN1"
+          },
+          {
+            "text": "נַֽעֲלָמָ֑ה",
+            "lemma": "עָלַם",
+            "strong": "H59560",
+            "x-morph": "He,VNsfsa",
+            "x-id": "348pZ"
+          },
+          {
+            "text": "גַּם",
+            "lemma": "גַּם",
+            "strong": "H15710",
+            "x-morph": "He,Ta",
+            "x-id": "34xLE"
+          },
+          {
+            "text": "אַ֛תְּ",
+            "lemma": "אַתָּה",
+            "strong": "H08593",
+            "x-morph": "He,Pp2fs",
+            "x-id": "34JP3"
+          },
+          {
+            "text": "תְּבַקְשִׁ֥י",
+            "lemma": "בָּקַשׁ",
+            "strong": "H12450",
+            "x-morph": "He,Vpi2fs",
+            "x-id": "34TfI"
+          },
+          {
+            "text": "מָע֖וֹז",
+            "lemma": "מָעוֹז",
+            "strong": "H45810",
+            "x-morph": "He,Ncmsa",
+            "x-id": "34jdk"
+          },
+          {
+            "text": "מֵ⁠אוֹיֵֽב",
+            "lemma": "אֹיֵב",
+            "strong": "m:H03410",
+            "x-morph": "He,R:Vqrmsa",
+            "x-id": "34wNf"
+          }
+        ]
+      },
+      "12": {
+        "words": [
+          {
+            "text": "כָּ֨ל",
+            "lemma": "כֹּל",
+            "strong": "H36050",
+            "x-morph": "He,Ncmsc",
+            "x-id": "34IMK"
+          },
+          {
+            "text": "מִבְצָרַ֔יִ⁠ךְ",
+            "lemma": "מִבְצָר",
+            "strong": "H40130",
+            "x-morph": "He,Ncmpc:Sp2fs",
+            "x-id": "34EoS"
+          },
+          {
+            "text": "תְּאֵנִ֖ים",
+            "lemma": "תְּאֵן",
+            "strong": "H83840",
+            "x-morph": "He,Ncfpa",
+            "x-id": "34tB0"
+          },
+          {
+            "text": "עִם",
+            "lemma": "עִם",
+            "strong": "H59731",
+            "x-morph": "He,R",
+            "x-id": "34PtF"
+          },
+          {
+            "text": "בִּכּוּרִ֑ים",
+            "lemma": "בִּכּוּר",
+            "strong": "H10610",
+            "x-morph": "He,Ncbpa",
+            "x-id": "34d7k"
+          },
+          {
+            "text": "אִם",
+            "lemma": "אִם",
+            "strong": "H05181",
+            "x-morph": "He,C",
+            "x-id": "34cSd"
+          },
+          {
+            "text": "יִנּ֕וֹעוּ",
+            "lemma": "נוּעַ",
+            "strong": "H51280",
+            "x-morph": "He,VNi3mp",
+            "x-id": "34uWv"
+          },
+          {
+            "text": "וְ⁠נָפְל֖וּ",
+            "lemma": "נָפַל",
+            "strong": "c:H53070",
+            "x-morph": "He,C:Vqp3cp",
+            "x-id": "340pP"
+          },
+          {
+            "text": "עַל",
+            "lemma": "עַל",
+            "strong": "H59211",
+            "x-morph": "He,R",
+            "x-id": "34OiC"
+          },
+          {
+            "text": "פִּ֥י",
+            "lemma": "פֶּה",
+            "strong": "H63100",
+            "x-morph": "He,Ncmsc",
+            "x-id": "34rhX"
+          },
+          {
+            "text": "אוֹכֵֽל",
+            "lemma": "אָכַל",
+            "strong": "H03980",
+            "x-morph": "He,Vqrmsa",
+            "x-id": "34bO3"
+          }
+        ]
+      },
+      "13": {
+        "words": [
+          {
+            "text": "הִנֵּ֨ה",
+            "lemma": "הִנֵּה",
+            "strong": "H20090",
+            "x-morph": "He,Tm",
+            "x-id": "34TAt"
+          },
+          {
+            "text": "עַמֵּ֤⁠ךְ",
+            "lemma": "עַם",
+            "strong": "H59711",
+            "x-morph": "He,Ncmsc:Sp2fs",
+            "x-id": "34iiE"
+          },
+          {
+            "text": "נָשִׁים֙",
+            "lemma": "אִשָּׁה",
+            "strong": "H08020",
+            "x-morph": "He,Ncfpa",
+            "x-id": "34EzW"
+          },
+          {
+            "text": "בְּ⁠קִרְבֵּ֔⁠ךְ",
+            "lemma": "קֶרֶב",
+            "strong": "b:H71300",
+            "x-morph": "He,R:Ncmsc:Sp2fs",
+            "x-id": "346ge"
+          },
+          {
+            "text": "לְ⁠אֹ֣יְבַ֔יִ⁠ךְ",
+            "lemma": "אֹיֵב",
+            "strong": "l:H03410",
+            "x-morph": "He,R:Vqrmpc:Sp2fs",
+            "x-id": "347Hf"
+          },
+          {
+            "text": "פָּת֥וֹחַ",
+            "lemma": "פָּתַח",
+            "strong": "H66051",
+            "x-morph": "He,Vqa",
+            "x-id": "348Mq"
+          },
+          {
+            "text": "נִפְתְּח֖וּ",
+            "lemma": "פָּתַח",
+            "strong": "H66051",
+            "x-morph": "He,VNp3cp",
+            "x-id": "34rKr"
+          },
+          {
+            "text": "שַׁעֲרֵ֣י",
+            "lemma": "שַׁעַר",
+            "strong": "H81790",
+            "x-morph": "He,Ncmpc",
+            "x-id": "34OB5"
+          },
+          {
+            "text": "אַרְצֵ֑⁠ךְ",
+            "lemma": "אֶרֶץ",
+            "strong": "H07760",
+            "x-morph": "He,Ncbsc:Sp2fs",
+            "x-id": "34oou"
+          },
+          {
+            "text": "אָכְלָ֥ה",
+            "lemma": "אָכַל",
+            "strong": "H03980",
+            "x-morph": "He,Vqp3fs",
+            "x-id": "34dBW"
+          },
+          {
+            "text": "אֵ֖שׁ",
+            "lemma": "אֵשׁ",
+            "strong": "H07840",
+            "x-morph": "He,Ncbsa",
+            "x-id": "34TIx"
+          },
+          {
+            "text": "בְּרִיחָֽיִ⁠ך",
+            "lemma": "בְּרִיחַ",
+            "strong": "H12800",
+            "x-morph": "He,Ncmpc:Sp2fs",
+            "x-id": "34oKL"
+          }
+        ]
+      },
+      "14": {
+        "words": [
+          {
+            "text": "מֵ֤י",
+            "lemma": "מַיִם",
+            "strong": "H43250",
+            "x-morph": "He,Ncmpc",
+            "x-id": "34wC5"
+          },
+          {
+            "text": "מָצוֹר֙",
+            "lemma": "מָצוֹר",
+            "strong": "H46920",
+            "x-morph": "He,Ncmsa",
+            "x-id": "345cf"
+          },
+          {
+            "text": "שַֽׁאֲבִי",
+            "lemma": "שָׁאַב",
+            "strong": "H75790",
+            "x-morph": "He,Vqv2fs",
+            "x-id": "34PyH"
+          },
+          {
+            "text": "חַזְּקִ֖י",
+            "lemma": "חָזַק",
+            "strong": "H23880",
+            "x-morph": "He,Vpv2fs",
+            "x-id": "34tL9"
+          },
+          {
+            "text": "מִבְצָרָ֑יִ⁠ךְ",
+            "lemma": "מִבְצָר",
+            "strong": "H40130",
+            "x-morph": "He,Ncmpc:Sp2fs",
+            "x-id": "34Zbr"
+          },
+          {
+            "text": "בֹּ֧אִי",
+            "lemma": "בּוֹא",
+            "strong": "H09350",
+            "x-morph": "He,Vqv2fs",
+            "x-id": "34jWb"
+          },
+          {
+            "text": "בַ⁠טִּ֛יט",
+            "lemma": "טִיט",
+            "strong": "b:H29160",
+            "x-morph": "He,Rd:Ncmsa",
+            "x-id": "34KP8"
+          },
+          {
+            "text": "וְ⁠רִמְסִ֥י",
+            "lemma": "רָמַס",
+            "strong": "c:H74290",
+            "x-morph": "He,C:Vqv2fs",
+            "x-id": "34TgR"
+          },
+          {
+            "text": "בַ⁠חֹ֖מֶר",
+            "lemma": "חֹמֶר",
+            "strong": "b:H25631",
+            "x-morph": "He,Rd:Ncmsa",
+            "x-id": "349U3"
+          },
+          {
+            "text": "הַחֲזִ֥יקִי",
+            "lemma": "חָזַק",
+            "strong": "H23880",
+            "x-morph": "He,Vhv2fs",
+            "x-id": "34pVs"
+          },
+          {
+            "text": "מַלְבֵּֽן",
+            "lemma": "מַלְבֵּן",
+            "strong": "H44040",
+            "x-morph": "He,Ncmsa",
+            "x-id": "34IeW"
+          }
+        ]
+      },
+      "15": {
+        "words": [
+          {
+            "text": "שָׁ֚ם",
+            "lemma": "שָׁם",
+            "strong": "H80330",
+            "x-morph": "He,D",
+            "x-id": "34pu6"
+          },
+          {
+            "text": "תֹּאכְלֵ֣⁠ךְ",
+            "lemma": "אָכַל",
+            "strong": "H03980",
+            "x-morph": "He,Vqi3fs:Sp2fs",
+            "x-id": "34qEC"
+          },
+          {
+            "text": "אֵ֔שׁ",
+            "lemma": "אֵשׁ",
+            "strong": "H07840",
+            "x-morph": "He,Ncbsa",
+            "x-id": "34yB4"
+          },
+          {
+            "text": "תַּכְרִיתֵ֣⁠ךְ",
+            "lemma": "כָּרַת",
+            "strong": "H37720",
+            "x-morph": "He,Vhi3fs:Sp2fs",
+            "x-id": "34u40"
+          },
+          {
+            "text": "חֶ֔רֶב",
+            "lemma": "חֶרֶב",
+            "strong": "H27190",
+            "x-morph": "He,Ncfsa",
+            "x-id": "34juP"
+          },
+          {
+            "text": "תֹּאכְלֵ֖⁠ךְ",
+            "lemma": "אָכַל",
+            "strong": "H03980",
+            "x-morph": "He,Vqi3fs:Sp2fs",
+            "x-id": "34t9X"
+          },
+          {
+            "text": "כַּ⁠יָּ֑לֶק",
+            "lemma": "יֶלֶק",
+            "strong": "k:H32180",
+            "x-morph": "He,Rd:Ncmsa",
+            "x-id": "34xIk"
+          },
+          {
+            "text": "הִתְכַּבֵּ֣ד",
+            "lemma": "כָּבַד",
+            "strong": "H35130",
+            "x-morph": "He,Vtv2ms",
+            "x-id": "347g4"
+          },
+          {
+            "text": "כַּ⁠יֶּ֔לֶק",
+            "lemma": "יֶלֶק",
+            "strong": "k:H32180",
+            "x-morph": "He,Rd:Ncmsa",
+            "x-id": "34QA4"
+          },
+          {
+            "text": "הִֽתְכַּבְּדִ֖י",
+            "lemma": "כָּבַד",
+            "strong": "H35130",
+            "x-morph": "He,Vtv2fs",
+            "x-id": "34h3T"
+          },
+          {
+            "text": "כָּ⁠אַרְבֶּֽה",
+            "lemma": "אַרְבֶּה",
+            "strong": "k:H06970",
+            "x-morph": "He,Rd:Ncmsa",
+            "x-id": "34T4p"
+          }
+        ]
+      },
+      "16": {
+        "words": [
+          {
+            "text": "הִרְבֵּית֙",
+            "lemma": "רָבָה",
+            "strong": "H72351",
+            "x-morph": "He,Vhp2fs",
+            "x-id": "34LaD"
+          },
+          {
+            "text": "רֹֽכְלַ֔יִ⁠ךְ",
+            "lemma": "רָכַל",
+            "strong": "H74020",
+            "x-morph": "He,Vqrmpc:Sp2fs",
+            "x-id": "34J9l"
+          },
+          {
+            "text": "מִ⁠כּוֹכְבֵ֖י",
+            "lemma": "כּוֹכָב",
+            "strong": "m:H35560",
+            "x-morph": "He,R:Ncmpc",
+            "x-id": "34eGb"
+          },
+          {
+            "text": "הַ⁠שָּׁמָ֑יִם",
+            "lemma": "שָׁמַיִם",
+            "strong": "d:H80640",
+            "x-morph": "He,Td:Ncmpa",
+            "x-id": "344FP"
+          },
+          {
+            "text": "יֶ֥לֶק",
+            "lemma": "יֶלֶק",
+            "strong": "H32180",
+            "x-morph": "He,Ncmsa",
+            "x-id": "34afq"
+          },
+          {
+            "text": "פָּשַׁ֖ט",
+            "lemma": "פָּשַׁט",
+            "strong": "H65840",
+            "x-morph": "He,Vqp3ms",
+            "x-id": "34RNP"
+          },
+          {
+            "text": "וַ⁠יָּעֹֽף",
+            "lemma": "עוּף",
+            "strong": "c:H57741",
+            "x-morph": "He,C:Vqw3ms",
+            "x-id": "34mUu"
+          }
+        ]
+      },
+      "17": {
+        "words": [
+          {
+            "text": "מִנְּזָרַ֨יִ⁠ךְ֙",
+            "lemma": "מִנְּזָר",
+            "strong": "H45020",
+            "x-morph": "He,Ncmpc:Sp2fs",
+            "x-id": "34KPa"
+          },
+          {
+            "text": "כָּֽ⁠אַרְבֶּ֔ה",
+            "lemma": "אַרְבֶּה",
+            "strong": "k:H06970",
+            "x-morph": "He,Rd:Ncmsa",
+            "x-id": "347OV"
+          },
+          {
+            "text": "וְ⁠טַפְסְרַ֖יִ⁠ךְ",
+            "lemma": "טִפְסַר",
+            "strong": "c:H29510",
+            "x-morph": "He,C:Ncmpc:Sp2fs",
+            "x-id": "342bQ"
+          },
+          {
+            "text": "כְּ⁠ג֣וֹב",
+            "lemma": "גּוֹב",
+            "strong": "k:H14621",
+            "x-morph": "He,R:Ncmsc",
+            "x-id": "34VJm"
+          },
+          {
+            "text": "גֹּבָ֑י",
+            "lemma": "גּוֹב",
+            "strong": "H14622",
+            "x-morph": "He,Ncmpa",
+            "x-id": "34mri"
+          },
+          {
+            "text": "הַֽ⁠חוֹנִ֤ים",
+            "lemma": "חָנָה",
+            "strong": "d:H25830",
+            "x-morph": "He,Td:Vqrmpa",
+            "x-id": "34VEQ"
+          },
+          {
+            "text": "בַּ⁠גְּדֵרוֹת֙",
+            "lemma": "גְּדֵרָה",
+            "strong": "b:H14480",
+            "x-morph": "He,Rd:Ncfpa",
+            "x-id": "34fyJ"
+          },
+          {
+            "text": "בְּ⁠י֣וֹם",
+            "lemma": "יוֹם",
+            "strong": "b:H31170",
+            "x-morph": "He,R:Ncmsc",
+            "x-id": "34ijA"
+          },
+          {
+            "text": "קָרָ֔ה",
+            "lemma": "קָרָה",
+            "strong": "H71350",
+            "x-morph": "He,Ncfsa",
+            "x-id": "34YH0"
+          },
+          {
+            "text": "שֶׁ֤מֶשׁ",
+            "lemma": "שֶׁמֶשׁ",
+            "strong": "H81210",
+            "x-morph": "He,Ncbsa",
+            "x-id": "34aXB"
+          },
+          {
+            "text": "זָֽרְחָה֙",
+            "lemma": "זָרַח",
+            "strong": "H22240",
+            "x-morph": "He,Vqp3fs",
+            "x-id": "34sJw"
+          },
+          {
+            "text": "וְ⁠נוֹדַ֔ד",
+            "lemma": "נָדַד",
+            "strong": "c:H50740",
+            "x-morph": "He,C:VMp3ms",
+            "x-id": "34zs4"
+          },
+          {
+            "text": "וְ⁠לֹֽא",
+            "lemma": "לֹא",
+            "strong": "c:H38080",
+            "x-morph": "He,C:Tn",
+            "x-id": "34Mu8"
+          },
+          {
+            "text": "נוֹדַ֥ע",
+            "lemma": "יָדַע",
+            "strong": "H30450",
+            "x-morph": "He,VNp3ms",
+            "x-id": "34Tag"
+          },
+          {
+            "text": "מְקוֹמ֖⁠וֹ",
+            "lemma": "מָקוֹם",
+            "strong": "H47250",
+            "x-morph": "He,Ncmsc:Sp3ms",
+            "x-id": "34SAc"
+          },
+          {
+            "text": "אַיָּֽ⁠ם",
+            "lemma": "אַי",
+            "strong": "H03350",
+            "x-morph": "He,Ti:Sp3mp",
+            "x-id": "34bpX"
+          }
+        ]
+      },
+      "18": {
+        "words": [
+          {
+            "text": "נָמ֤וּ",
+            "lemma": "נוּם",
+            "strong": "H51230",
+            "x-morph": "He,Vqp3cp",
+            "x-id": "34cFo"
+          },
+          {
+            "text": "רֹעֶ֨י⁠ךָ֙",
+            "lemma": "רָעָה",
+            "strong": "H74622",
+            "x-morph": "He,Vqrmpc:Sp2ms",
+            "x-id": "34ud2"
+          },
+          {
+            "text": "מֶ֣לֶךְ",
+            "lemma": "מֶלֶךְ",
+            "strong": "H44280",
+            "x-morph": "He,Ncmsc",
+            "x-id": "34aJk"
+          },
+          {
+            "text": "אַשּׁ֔וּר",
+            "lemma": "אַשּׁוּר",
+            "strong": "H08040",
+            "x-morph": "He,Np",
+            "x-id": "34rEC"
+          },
+          {
+            "text": "יִשְׁכְּנ֖וּ",
+            "lemma": "שָׁכַן",
+            "strong": "H79310",
+            "x-morph": "He,Vqi3mp",
+            "x-id": "34RGm"
+          },
+          {
+            "text": "אַדִּירֶ֑י⁠ךָ",
+            "lemma": "אַדִּיר",
+            "strong": "H01170",
+            "x-morph": "He,Aampc:Sp2ms",
+            "x-id": "34ARs"
+          },
+          {
+            "text": "נָפֹ֧שׁוּ",
+            "lemma": "פּוּשׁ",
+            "strong": "H63352",
+            "x-morph": "He,VNp3cp",
+            "x-id": "34TAm"
+          },
+          {
+            "text": "עַמְּ⁠ךָ֛",
+            "lemma": "עַם",
+            "strong": "H59711",
+            "x-morph": "He,Ncmsc:Sp2ms",
+            "x-id": "34aE4"
+          },
+          {
+            "text": "עַל",
+            "lemma": "עַל",
+            "strong": "H59211",
+            "x-morph": "He,R",
+            "x-id": "34XVD"
+          },
+          {
+            "text": "הֶ⁠הָרִ֖ים",
+            "lemma": "הַר",
+            "strong": "d:H20220",
+            "x-morph": "He,Td:Ncmpa",
+            "x-id": "34xwj"
+          },
+          {
+            "text": "וְ⁠אֵ֥ין",
+            "lemma": "אַיִן",
+            "strong": "c:H03690",
+            "x-morph": "He,C:Tn",
+            "x-id": "34LFb"
+          },
+          {
+            "text": "מְקַבֵּֽץ",
+            "lemma": "קָבַץ",
+            "strong": "H69080",
+            "x-morph": "He,Vprmsa",
+            "x-id": "34KcH"
+          }
+        ]
+      },
+      "19": {
+        "words": [
+          {
+            "text": "אֵין",
+            "lemma": "אַיִן",
+            "strong": "H03690",
+            "x-morph": "He,Tn",
+            "x-id": "34q1F"
+          },
+          {
+            "text": "כֵּהָ֣ה",
+            "lemma": "כֵּהָה",
+            "strong": "H35450",
+            "x-morph": "He,Ncfsa",
+            "x-id": "34oRl"
+          },
+          {
+            "text": "לְ⁠שִׁבְרֶ֔⁠ךָ",
+            "lemma": "שֶׁבֶר",
+            "strong": "l:H76670",
+            "x-morph": "He,R:Ncmsc:Sp2ms",
+            "x-id": "34IWa"
+          },
+          {
+            "text": "נַחְלָ֖ה",
+            "lemma": "חָלָה",
+            "strong": "H24701",
+            "x-morph": "He,VNsfsa",
+            "x-id": "34Dvs"
+          },
+          {
+            "text": "מַכָּתֶ֑⁠ךָ",
+            "lemma": "מַכָּה",
+            "strong": "H43470",
+            "x-morph": "He,Ncfsc:Sp2ms",
+            "x-id": "34FEw"
+          },
+          {
+            "text": "כֹּ֣ל",
+            "lemma": "כֹּל",
+            "strong": "H36050",
+            "x-morph": "He,Ncmsc",
+            "x-id": "34BAE"
+          },
+          {
+            "text": "שֹׁמְעֵ֣י",
+            "lemma": "שָׁמַע",
+            "strong": "H80850",
+            "x-morph": "He,Vqrmpc",
+            "x-id": "34Cte"
+          },
+          {
+            "text": "שִׁמְעֲ⁠ךָ֗",
+            "lemma": "שֵׁמַע",
+            "strong": "H80882",
+            "x-morph": "He,Ncmsc:Sp2ms",
+            "x-id": "34pnU"
+          },
+          {
+            "text": "תָּ֤קְעוּ",
+            "lemma": "תָּקַע",
+            "strong": "H86280",
+            "x-morph": "He,Vqp3cp",
+            "x-id": "34wVI"
+          },
+          {
+            "text": "כַף֙",
+            "lemma": "כַּף",
+            "strong": "H37090",
+            "x-morph": "He,Ncfsa",
+            "x-id": "34bPI"
+          },
+          {
+            "text": "עָלֶ֔י⁠ךָ",
+            "lemma": "עַל",
+            "strong": "H59211",
+            "x-morph": "He,R:Sp2ms",
+            "x-id": "34Nw8"
+          },
+          {
+            "text": "כִּ֗י",
+            "lemma": "כִּי",
+            "strong": "H35881",
+            "x-morph": "He,C",
+            "x-id": "34wAD"
+          },
+          {
+            "text": "עַל",
+            "lemma": "עַל",
+            "strong": "H59211",
+            "x-morph": "He,R",
+            "x-id": "344pb"
+          },
+          {
+            "text": "מִ֛י",
+            "lemma": "מִי",
+            "strong": "H43100",
+            "x-morph": "He,Ti",
+            "x-id": "34jym"
+          },
+          {
+            "text": "לֹֽא",
+            "lemma": "לֹא",
+            "strong": "H38080",
+            "x-morph": "He,Tn",
+            "x-id": "34e5N"
+          },
+          {
+            "text": "עָבְרָ֥ה",
+            "lemma": "עָבַר",
+            "strong": "H56741",
+            "x-morph": "He,Vqp3fs",
+            "x-id": "34WBk"
+          },
+          {
+            "text": "רָעָתְ⁠ךָ֖",
+            "lemma": "רַע",
+            "strong": "H74513",
+            "x-morph": "He,Ncfsc:Sp2ms",
+            "x-id": "34gYG"
+          },
+          {
+            "text": "תָּמִֽיד",
+            "lemma": "תָּמִיד",
+            "strong": "H85480",
+            "x-morph": "He,Ncmsa",
+            "x-id": "34HmL"
+          }
+        ]
+      }
+    }
+  }
+}

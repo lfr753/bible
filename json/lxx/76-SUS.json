@@ -1,0 +1,4908 @@
+{
+  "book_id": "SUS",
+  "title": "Susanna",
+  "chapters": {
+    "1": {
+      "6": {
+        "words": [
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ἤρχοντο",
+            "lemma": "ἄρχω",
+            "strong": "G07570",
+            "x-morph": "Gr,V,IIM3,,P,"
+          },
+          {
+            "text": "κρίσεις",
+            "lemma": "κρίσις",
+            "strong": "G29200",
+            "x-morph": "Gr,N,,,,,NFP,"
+          },
+          {
+            "text": "ἐξ",
+            "lemma": "ἐκ",
+            "strong": "G15370",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "ἄλλων",
+            "lemma": "ἄλλος",
+            "strong": "G02430",
+            "x-morph": "Gr,RI,,,,GFP,"
+          },
+          {
+            "text": "πόλεων",
+            "lemma": "πόλις",
+            "strong": "G41720",
+            "x-morph": "Gr,N,,,,,GFP,"
+          },
+          {
+            "text": "πρὸς",
+            "lemma": "πρός",
+            "strong": "G43140",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "αὐτούς",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,AMP,"
+          }
+        ]
+      },
+      "7": {
+        "words": [
+          {
+            "text": "οὗτοι",
+            "lemma": "οὗτος",
+            "strong": "G37780",
+            "x-morph": "Gr,RD,,,,NMP,"
+          },
+          {
+            "text": "ἰδόντες",
+            "lemma": "ὁράω",
+            "strong": "G37080",
+            "x-morph": "Gr,V,PAA,NMP,"
+          },
+          {
+            "text": "γυναῖκα",
+            "lemma": "γυνή",
+            "strong": "G11350",
+            "x-morph": "Gr,N,,,,,AFS,"
+          },
+          {
+            "text": "ἀστείαν",
+            "lemma": "ἀστεῖος",
+            "strong": "G07910",
+            "x-morph": "Gr,A,,,,,AFS,"
+          },
+          {
+            "text": "τῷ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,DNS,"
+          },
+          {
+            "text": "εἴδει",
+            "lemma": "εἶδος",
+            "strong": "G14910",
+            "x-morph": "Gr,N,,,,,DNS,"
+          },
+          {
+            "text": "γυναῖκα",
+            "lemma": "γυνή",
+            "strong": "G11350",
+            "x-morph": "Gr,N,,,,,AFS,"
+          },
+          {
+            "text": "ἀδελφοῦ",
+            "lemma": "ἀδελφός",
+            "strong": "G00800",
+            "x-morph": "Gr,N,,,,,GMS,"
+          },
+          {
+            "text": "αὐτῶν",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,GMP,"
+          },
+          {
+            "text": "ἐκ",
+            "lemma": "ἐκ",
+            "strong": "G15370",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "τῶν",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,GMP,"
+          },
+          {
+            "text": "υἱῶν",
+            "lemma": "υἱός",
+            "strong": "G52070",
+            "x-morph": "Gr,N,,,,,GMP,"
+          },
+          {
+            "text": "Ισραηλ",
+            "lemma": "Ἰσραήλ",
+            "strong": "G24740",
+            "x-morph": "Gr,N,,,,,GMS,"
+          },
+          {
+            "text": "ὄνομα",
+            "lemma": "ὄνομα",
+            "strong": "G36860",
+            "x-morph": "Gr,N,,,,,ANS,"
+          },
+          {
+            "text": "Σουσανναν",
+            "lemma": "Σουσάννα",
+            "strong": "G46770",
+            "x-morph": "Gr,N,,,,,AFS,"
+          },
+          {
+            "text": "θυγατέρα",
+            "lemma": "θυγάτηρ",
+            "strong": "G23640",
+            "x-morph": "Gr,N,,,,,AFS,"
+          },
+          {
+            "text": "Χελκιου",
+            "lemma": "Χελκιος",
+            "strong": "G69380",
+            "x-morph": "Gr,N,,,,,GMS,"
+          },
+          {
+            "text": "γυναῖκα",
+            "lemma": "γυνή",
+            "strong": "G11350",
+            "x-morph": "Gr,N,,,,,AFS,"
+          },
+          {
+            "text": "Ιωακιμ",
+            "lemma": "Ιωακιμ",
+            "strong": "G63590",
+            "x-morph": "Gr,N,,,,,GMS,"
+          },
+          {
+            "text": "περιπατοῦσαν",
+            "lemma": "περιπατέω",
+            "strong": "G40430",
+            "x-morph": "Gr,V,PPA,AFS,"
+          },
+          {
+            "text": "ἐν",
+            "lemma": "ἐν",
+            "strong": "G17220",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "τῷ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,DMS,"
+          },
+          {
+            "text": "παραδείσῳ",
+            "lemma": "παράδεισος",
+            "strong": "G38570",
+            "x-morph": "Gr,N,,,,,DMS,"
+          },
+          {
+            "text": "τοῦ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,GMS,"
+          },
+          {
+            "text": "ἀνδρὸς",
+            "lemma": "ἀνήρ",
+            "strong": "G04350",
+            "x-morph": "Gr,N,,,,,GMS,"
+          },
+          {
+            "text": "αὐτῆς",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,GFS,"
+          },
+          {
+            "text": "τὸ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,ANS,"
+          },
+          {
+            "text": "δειλινὸν",
+            "lemma": "δειλινός",
+            "strong": "G60021",
+            "x-morph": "Gr,A,,,,,ANS,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ἐπιθυμήσαντες",
+            "lemma": "ἐπιθυμέω",
+            "strong": "G19370",
+            "x-morph": "Gr,V,PAA,NMP,"
+          },
+          {
+            "text": "αὐτῆς",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,GFS,"
+          }
+        ]
+      },
+      "9": {
+        "words": [
+          {
+            "text": "διέστρεψαν",
+            "lemma": "διαστρέφω",
+            "strong": "G12940",
+            "x-morph": "Gr,V,IAA3,,P,"
+          },
+          {
+            "text": "τὸν",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,AMS,"
+          },
+          {
+            "text": "νοῦν",
+            "lemma": "νοῦς",
+            "strong": "G35630",
+            "x-morph": "Gr,N,,,,,AMS,"
+          },
+          {
+            "text": "αὐτῶν",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,GMP,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ἐξέκλιναν",
+            "lemma": "ἐκκλίνω",
+            "strong": "G15780",
+            "x-morph": "Gr,V,IAA3,,P,"
+          },
+          {
+            "text": "τοὺς",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,AMP,"
+          },
+          {
+            "text": "ὀφθαλμοὺς",
+            "lemma": "ὀφθαλμός",
+            "strong": "G37880",
+            "x-morph": "Gr,N,,,,,AMP,"
+          },
+          {
+            "text": "αὐτῶν",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,GMP,"
+          },
+          {
+            "text": "τοῦ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,GNS,"
+          },
+          {
+            "text": "μὴ",
+            "lemma": "μή",
+            "strong": "G33610",
+            "x-morph": "Gr,D,,,,,,,,,"
+          },
+          {
+            "text": "βλέπειν",
+            "lemma": "βλέπω",
+            "strong": "G09910",
+            "x-morph": "Gr,V,NPA,,,,,"
+          },
+          {
+            "text": "εἰς",
+            "lemma": "εἰς",
+            "strong": "G15190",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "τὸν",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,AMS,"
+          },
+          {
+            "text": "οὐρανὸν",
+            "lemma": "οὐρανός",
+            "strong": "G37720",
+            "x-morph": "Gr,N,,,,,AMS,"
+          },
+          {
+            "text": "μηδὲ",
+            "lemma": "μηδέ",
+            "strong": "G33660",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "μνημονεύειν",
+            "lemma": "μνημονεύω",
+            "strong": "G34210",
+            "x-morph": "Gr,V,NPA,,,,,"
+          },
+          {
+            "text": "κριμάτων",
+            "lemma": "κρίμα",
+            "strong": "G29170",
+            "x-morph": "Gr,N,,,,,GNP,"
+          },
+          {
+            "text": "δικαίων",
+            "lemma": "δίκαιος",
+            "strong": "G13420",
+            "x-morph": "Gr,A,,,,,GNP,"
+          }
+        ]
+      },
+      "10": {
+        "words": [
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ἀμφότεροι",
+            "lemma": "ἀμφότεροι",
+            "strong": "G02970",
+            "x-morph": "Gr,A,,,,,NMP,"
+          },
+          {
+            "text": "ἦσαν",
+            "lemma": "εἰμί",
+            "strong": "G15100",
+            "x-morph": "Gr,V,IIA3,,P,"
+          },
+          {
+            "text": "κατανενυγμένοι",
+            "lemma": "κατανύσσω",
+            "strong": "G26600",
+            "x-morph": "Gr,V,PEM,NMP,"
+          },
+          {
+            "text": "περὶ",
+            "lemma": "περί",
+            "strong": "G40120",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "αὐτῆς",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,GFS,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ἕτερος",
+            "lemma": "ἕτερος",
+            "strong": "G20870",
+            "x-morph": "Gr,A,,,,,NMS,"
+          },
+          {
+            "text": "τῷ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,DMS,"
+          },
+          {
+            "text": "ἑτέρῳ",
+            "lemma": "ἕτερος",
+            "strong": "G20870",
+            "x-morph": "Gr,A,,,,,DMS,"
+          },
+          {
+            "text": "οὐ",
+            "lemma": "οὐ",
+            "strong": "G37560",
+            "x-morph": "Gr,D,,,,,,,,,"
+          },
+          {
+            "text": "προσεποιεῖτο",
+            "lemma": "προσποιέω",
+            "strong": "G43640",
+            "x-morph": "Gr,V,IIM3,,S,"
+          },
+          {
+            "text": "τὸ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,ANS,"
+          },
+          {
+            "text": "κακὸν",
+            "lemma": "κακός",
+            "strong": "G25560",
+            "x-morph": "Gr,A,,,,,ANS,"
+          },
+          {
+            "text": "τὸ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,ANS,"
+          },
+          {
+            "text": "ἔχον",
+            "lemma": "ἔχω",
+            "strong": "G21920",
+            "x-morph": "Gr,V,PPA,ANS,"
+          },
+          {
+            "text": "αὐτοὺς",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,AMP,"
+          },
+          {
+            "text": "περὶ",
+            "lemma": "περί",
+            "strong": "G40120",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "αὐτῆς",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,GFS,"
+          },
+          {
+            "text": "οὐδὲ",
+            "lemma": "οὐδέ",
+            "strong": "G37610",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ἡ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NFS,"
+          },
+          {
+            "text": "γυνὴ",
+            "lemma": "γυνή",
+            "strong": "G11350",
+            "x-morph": "Gr,N,,,,,NFS,"
+          },
+          {
+            "text": "ἔγνω",
+            "lemma": "γινώσκω",
+            "strong": "G10970",
+            "x-morph": "Gr,V,IAA3,,S,"
+          },
+          {
+            "text": "τὸ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,ANS,"
+          },
+          {
+            "text": "πρᾶγμα",
+            "lemma": "πρᾶγμα",
+            "strong": "G42290",
+            "x-morph": "Gr,N,,,,,ANS,"
+          },
+          {
+            "text": "τοῦτο",
+            "lemma": "οὗτος",
+            "strong": "G37780",
+            "x-morph": "Gr,RD,,,,ANS,"
+          }
+        ]
+      },
+      "12": {
+        "words": [
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ὡς",
+            "lemma": "ὡς",
+            "strong": "G56130",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ἐγίνετο",
+            "lemma": "γίνομαι",
+            "strong": "G10960",
+            "x-morph": "Gr,V,IIM3,,S,"
+          },
+          {
+            "text": "ὄρθρος",
+            "lemma": "ὄρθρος",
+            "strong": "G37220",
+            "x-morph": "Gr,N,,,,,NMS,"
+          },
+          {
+            "text": "ἐρχόμενοι",
+            "lemma": "ἔρχομαι",
+            "strong": "G20640",
+            "x-morph": "Gr,V,PPM,NMP,"
+          },
+          {
+            "text": "ἔκλεπτον",
+            "lemma": "κλέπτω",
+            "strong": "G28130",
+            "x-morph": "Gr,V,IIA3,,P,"
+          },
+          {
+            "text": "ἀλλήλους",
+            "lemma": "ἀλλήλω",
+            "strong": "G60206",
+            "x-morph": "Gr,RI,,,,AMP,"
+          },
+          {
+            "text": "σπεύδοντες",
+            "lemma": "σπεύδω",
+            "strong": "G46920",
+            "x-morph": "Gr,V,PPA,NMP,"
+          },
+          {
+            "text": "τίς",
+            "lemma": "τίς",
+            "strong": "G51010",
+            "x-morph": "Gr,RT,,,,NMS,"
+          },
+          {
+            "text": "φανήσεται",
+            "lemma": "φαίνω",
+            "strong": "G53160",
+            "x-morph": "Gr,V,IFP3,,S,"
+          },
+          {
+            "text": "αὐτῇ",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,DFS,"
+          },
+          {
+            "text": "πρότερος",
+            "lemma": "πρότερος",
+            "strong": "G43870",
+            "x-morph": "Gr,A,,,,,NMS,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "λαλήσει",
+            "lemma": "λαλέω",
+            "strong": "G29800",
+            "x-morph": "Gr,V,IFA3,,S,"
+          },
+          {
+            "text": "πρὸς",
+            "lemma": "πρός",
+            "strong": "G43140",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "αὐτήν",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,AFS,"
+          }
+        ]
+      },
+      "13": {
+        "words": [
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ἰδοὺ",
+            "lemma": "ὁράω",
+            "strong": "G37080",
+            "x-morph": "Gr,V,MAM2,,S,"
+          },
+          {
+            "text": "αὕτη",
+            "lemma": "οὗτος",
+            "strong": "G37780",
+            "x-morph": "Gr,RD,,,,NFS,"
+          },
+          {
+            "text": "κατὰ",
+            "lemma": "κατά",
+            "strong": "G25960",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "τὸ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,ANS,"
+          },
+          {
+            "text": "εἰωθὸς",
+            "lemma": "ἔθω",
+            "strong": "G14860",
+            "x-morph": "Gr,V,PEA,ANS,"
+          },
+          {
+            "text": "περιεπάτει",
+            "lemma": "περιπατέω",
+            "strong": "G40430",
+            "x-morph": "Gr,V,IIA3,,S,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ὁ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NMS,"
+          },
+          {
+            "text": "εἷς",
+            "lemma": "εἷς",
+            "strong": "G15200",
+            "x-morph": "Gr,EN,,,,NMS,"
+          },
+          {
+            "text": "τῶν",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,GMP,"
+          },
+          {
+            "text": "πρεσβυτέρων",
+            "lemma": "πρεσβύτερος",
+            "strong": "G42450",
+            "x-morph": "Gr,N,,,,,GMP,"
+          },
+          {
+            "text": "ἐληλύθει",
+            "lemma": "ἔρχομαι",
+            "strong": "G20640",
+            "x-morph": "Gr,V,ILA3,,S,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ἰδοὺ",
+            "lemma": "ὁράω",
+            "strong": "G37080",
+            "x-morph": "Gr,V,MAM2,,S,"
+          },
+          {
+            "text": "ὁ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NMS,"
+          },
+          {
+            "text": "ἕτερος",
+            "lemma": "ἕτερος",
+            "strong": "G20870",
+            "x-morph": "Gr,A,,,,,NMS,"
+          },
+          {
+            "text": "παρεγένετο",
+            "lemma": "παραγίνομαι",
+            "strong": "G38540",
+            "x-morph": "Gr,V,IAM3,,S,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "εἷς",
+            "lemma": "εἷς",
+            "strong": "G15200",
+            "x-morph": "Gr,EN,,,,NMS,"
+          },
+          {
+            "text": "τὸν",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,ANS,"
+          },
+          {
+            "text": "ἕτερον",
+            "lemma": "ἕτερος",
+            "strong": "G20870",
+            "x-morph": "Gr,A,,,,,ANS,"
+          },
+          {
+            "text": "ἀνέκρινε",
+            "lemma": "ἀνακρίνω",
+            "strong": "G03500",
+            "x-morph": "Gr,V,IAA3,,S,"
+          },
+          {
+            "text": "λέγων",
+            "lemma": "λέγω",
+            "strong": "G30040",
+            "x-morph": "Gr,V,PPA,NMS,"
+          },
+          {
+            "text": "τί",
+            "lemma": "τίς",
+            "strong": "G51010",
+            "x-morph": "Gr,RT,,,,ANS,"
+          },
+          {
+            "text": "σὺ",
+            "lemma": "σύ",
+            "strong": "G47710",
+            "x-morph": "Gr,RP,,,,N,S,"
+          },
+          {
+            "text": "οὕτως",
+            "lemma": "οὕτω",
+            "strong": "G37790",
+            "x-morph": "Gr,D,,,,,,,,,"
+          },
+          {
+            "text": "ὄρθρου",
+            "lemma": "ὄρθρος",
+            "strong": "G37220",
+            "x-morph": "Gr,N,,,,,GMS,"
+          },
+          {
+            "text": "ἐξῆλθες",
+            "lemma": "ἀνέρχομαι",
+            "strong": "G04240",
+            "x-morph": "Gr,V,IAA2,,S,"
+          },
+          {
+            "text": "οὐ",
+            "lemma": "οὐ",
+            "strong": "G37560",
+            "x-morph": "Gr,D,,,,,,,,,"
+          },
+          {
+            "text": "παραλαβών",
+            "lemma": "παραλαμβάνω",
+            "strong": "G38800",
+            "x-morph": "Gr,V,PAA,NMS,"
+          },
+          {
+            "text": "με",
+            "lemma": "ἐγώ",
+            "strong": "G14730",
+            "x-morph": "Gr,RP,,,,A,S,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ἐξωμολογήσαντο",
+            "lemma": "ἐξομολογέω",
+            "strong": "G18430",
+            "x-morph": "Gr,V,IAM3,,P,"
+          },
+          {
+            "text": "πρὸς",
+            "lemma": "πρός",
+            "strong": "G43140",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "ἀλλήλους",
+            "lemma": "ἀλλήλω",
+            "strong": "G60206",
+            "x-morph": "Gr,RI,,,,AMP,"
+          },
+          {
+            "text": "ἑκάτερος",
+            "lemma": "ἑκάτερος",
+            "strong": "G60522",
+            "x-morph": "Gr,A,,,,,NMS,"
+          },
+          {
+            "text": "τὴν",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,AFS,"
+          },
+          {
+            "text": "ὀδύνην",
+            "lemma": "ὀδύνη",
+            "strong": "G36010",
+            "x-morph": "Gr,N,,,,,AFS,"
+          },
+          {
+            "text": "αὐτοῦ",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,GMS,"
+          }
+        ]
+      },
+      "19": {
+        "words": [
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "εἶπεν",
+            "lemma": "λέγω",
+            "strong": "G30040",
+            "x-morph": "Gr,V,IAA3,,S,"
+          },
+          {
+            "text": "εἷς",
+            "lemma": "εἷς",
+            "strong": "G15200",
+            "x-morph": "Gr,EN,,,,NMS,"
+          },
+          {
+            "text": "τῷ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,DMS,"
+          },
+          {
+            "text": "ἑτέρῳ",
+            "lemma": "ἕτερος",
+            "strong": "G20870",
+            "x-morph": "Gr,A,,,,,DMS,"
+          },
+          {
+            "text": "πορευθῶμεν",
+            "lemma": "πορεύομαι",
+            "strong": "G41980",
+            "x-morph": "Gr,V,SAP1,,P,"
+          },
+          {
+            "text": "πρὸς",
+            "lemma": "πρός",
+            "strong": "G43140",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "αὐτήν",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,AFS,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "συνθέμενοι",
+            "lemma": "συντίθημι",
+            "strong": "G49340",
+            "x-morph": "Gr,V,PEM,NMP,"
+          },
+          {
+            "text": "προσήλθοσαν",
+            "lemma": "προσέρχομαι",
+            "strong": "G43340",
+            "x-morph": "Gr,V,IAA3,,P,"
+          },
+          {
+            "text": "αὐτῇ",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,DFS,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ἐξεβιάζοντο",
+            "lemma": "βιάζω",
+            "strong": "G09710",
+            "x-morph": "Gr,V,IIM3,,P,"
+          },
+          {
+            "text": "αὐτήν",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,AFS,"
+          }
+        ]
+      },
+      "22": {
+        "words": [
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "εἶπεν",
+            "lemma": "λέγω",
+            "strong": "G30040",
+            "x-morph": "Gr,V,IAA3,,S,"
+          },
+          {
+            "text": "αὐτοῖς",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,DMP,"
+          },
+          {
+            "text": "ἡ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NFS,"
+          },
+          {
+            "text": "Ιουδαία",
+            "lemma": "Ἰουδαία",
+            "strong": "G24490",
+            "x-morph": "Gr,N,,,,,NFS,"
+          },
+          {
+            "text": "οἶδα",
+            "lemma": "οἴδα",
+            "strong": "G14925",
+            "x-morph": "Gr,V,IEA1,,S,"
+          },
+          {
+            "text": "ὅτι",
+            "lemma": "ὅτι",
+            "strong": "G37540",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ἐὰν",
+            "lemma": "ἐάν",
+            "strong": "G14370",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "πράξω",
+            "lemma": "πράσσω",
+            "strong": "G42380",
+            "x-morph": "Gr,V,SAA1,,S,"
+          },
+          {
+            "text": "τοῦτο",
+            "lemma": "οὗτος",
+            "strong": "G37780",
+            "x-morph": "Gr,RD,,,,ANS,"
+          },
+          {
+            "text": "θάνατός",
+            "lemma": "θάνατος",
+            "strong": "G22880",
+            "x-morph": "Gr,N,,,,,NMS,"
+          },
+          {
+            "text": "μοί",
+            "lemma": "ἐγώ",
+            "strong": "G14730",
+            "x-morph": "Gr,RP,,,,D,S,"
+          },
+          {
+            "text": "ἐστι",
+            "lemma": "εἰμί",
+            "strong": "G15100",
+            "x-morph": "Gr,V,IPA3,,S,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ἐὰν",
+            "lemma": "ἐάν",
+            "strong": "G14370",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "μὴ",
+            "lemma": "μή",
+            "strong": "G33610",
+            "x-morph": "Gr,D,,,,,,,,,"
+          },
+          {
+            "text": "πράξω",
+            "lemma": "πράσσω",
+            "strong": "G42380",
+            "x-morph": "Gr,V,SAA1,,S,"
+          },
+          {
+            "text": "οὐκ",
+            "lemma": "οὐ",
+            "strong": "G37560",
+            "x-morph": "Gr,D,,,,,,,,,"
+          },
+          {
+            "text": "ἐκφεύξομαι",
+            "lemma": "ἐκφεύγω",
+            "strong": "G16280",
+            "x-morph": "Gr,V,IFM1,,S,"
+          },
+          {
+            "text": "τὰς",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,AFP,"
+          },
+          {
+            "text": "χεῖρας",
+            "lemma": "χείρ",
+            "strong": "G54950",
+            "x-morph": "Gr,N,,,,,AFP,"
+          },
+          {
+            "text": "ὑμῶν",
+            "lemma": "σύ",
+            "strong": "G47710",
+            "x-morph": "Gr,RP,,,,G,P,"
+          }
+        ]
+      },
+      "23": {
+        "words": [
+          {
+            "text": "κάλλιον",
+            "lemma": "καλός",
+            "strong": "G25700",
+            "x-morph": "Gr,A,,,,,ANS,"
+          },
+          {
+            "text": "δέ",
+            "lemma": "δέ",
+            "strong": "G11610",
+            "x-morph": "Gr,CC,,,,,,,,"
+          },
+          {
+            "text": "με",
+            "lemma": "ἐγώ",
+            "strong": "G14730",
+            "x-morph": "Gr,RP,,,,A,S,"
+          },
+          {
+            "text": "μὴ",
+            "lemma": "μή",
+            "strong": "G33610",
+            "x-morph": "Gr,D,,,,,,,,,"
+          },
+          {
+            "text": "πράξασαν",
+            "lemma": "πράσσω",
+            "strong": "G42380",
+            "x-morph": "Gr,V,PAA,AFS,"
+          },
+          {
+            "text": "ἐμπεσεῖν",
+            "lemma": "πίπτω",
+            "strong": "G40980",
+            "x-morph": "Gr,V,NAA,,,,,"
+          },
+          {
+            "text": "εἰς",
+            "lemma": "εἰς",
+            "strong": "G15190",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "τὰς",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,AFP,"
+          },
+          {
+            "text": "χεῖρας",
+            "lemma": "χείρ",
+            "strong": "G54950",
+            "x-morph": "Gr,N,,,,,AFP,"
+          },
+          {
+            "text": "ὑμῶν",
+            "lemma": "σύ",
+            "strong": "G47710",
+            "x-morph": "Gr,RP,,,,G,P,"
+          },
+          {
+            "text": "ἢ",
+            "lemma": "ἤ",
+            "strong": "G22280",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ἁμαρτεῖν",
+            "lemma": "ἁμαρτάνω",
+            "strong": "G02640",
+            "x-morph": "Gr,V,NAA,,,,,"
+          },
+          {
+            "text": "ἐνώπιον",
+            "lemma": "ἐνώπιονπ",
+            "strong": "G69381",
+            "x-morph": "Gr,D,,,,,,,,,"
+          },
+          {
+            "text": "κυρίου",
+            "lemma": "κύριος",
+            "strong": "G29620",
+            "x-morph": "Gr,N,,,,,GMS,"
+          }
+        ]
+      },
+      "28": {
+        "words": [
+          {
+            "text": "οἱ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NMP,"
+          },
+          {
+            "text": "δὲ",
+            "lemma": "δέ",
+            "strong": "G11610",
+            "x-morph": "Gr,CC,,,,,,,,"
+          },
+          {
+            "text": "παράνομοι",
+            "lemma": "παράνομος",
+            "strong": "G61744",
+            "x-morph": "Gr,A,,,,,NMP,"
+          },
+          {
+            "text": "ἄνδρες",
+            "lemma": "ἀνήρ",
+            "strong": "G04350",
+            "x-morph": "Gr,N,,,,,NMP,"
+          },
+          {
+            "text": "ἀπέστρεψαν",
+            "lemma": "ἀποστρέφω",
+            "strong": "G06540",
+            "x-morph": "Gr,V,IAA3,,P,"
+          },
+          {
+            "text": "ἀπειλοῦντες",
+            "lemma": "ἀπειλέω",
+            "strong": "G05460",
+            "x-morph": "Gr,V,PPA,NMP,"
+          },
+          {
+            "text": "ἐν",
+            "lemma": "ἐν",
+            "strong": "G17220",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "ἑαυτοῖς",
+            "lemma": "ἑαυτοῦ",
+            "strong": "G14380",
+            "x-morph": "Gr,RE,,,,DMP,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ἐνεδρεύοντες",
+            "lemma": "ἐνεδρεύω",
+            "strong": "G17480",
+            "x-morph": "Gr,V,PPA,NMP,"
+          },
+          {
+            "text": "ἵνα",
+            "lemma": "ἵνα",
+            "strong": "G24430",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "θανατώσουσιν",
+            "lemma": "θανατόω",
+            "strong": "G22890",
+            "x-morph": "Gr,V,SAA3,,P,"
+          },
+          {
+            "text": "αὐτήν",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,AFS,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ἐλθόντες",
+            "lemma": "ἔρχομαι",
+            "strong": "G20640",
+            "x-morph": "Gr,V,PAA,NMP,"
+          },
+          {
+            "text": "ἐπὶ",
+            "lemma": "ἐπί",
+            "strong": "G19090",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "τὴν",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,AFS,"
+          },
+          {
+            "text": "συναγωγὴν",
+            "lemma": "συναγωγή",
+            "strong": "G48640",
+            "x-morph": "Gr,N,,,,,AFS,"
+          },
+          {
+            "text": "τῆς",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,GFS,"
+          },
+          {
+            "text": "πόλεως",
+            "lemma": "πόλις",
+            "strong": "G41720",
+            "x-morph": "Gr,N,,,,,GFS,"
+          },
+          {
+            "text": "οὗ",
+            "lemma": "οὗ",
+            "strong": "G37570",
+            "x-morph": "Gr,D,,,,,,,,,"
+          },
+          {
+            "text": "παρῳκοῦσαν",
+            "lemma": "παροικέω",
+            "strong": "G39390",
+            "x-morph": "Gr,V,IIA3,,P,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "συνήδρευσαν",
+            "lemma": "συνεδρεύω",
+            "strong": "G69382",
+            "x-morph": "Gr,V,IAA3,,P,"
+          },
+          {
+            "text": "οἱ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NMP,"
+          },
+          {
+            "text": "ὄντες",
+            "lemma": "εἰμί",
+            "strong": "G15100",
+            "x-morph": "Gr,V,PPA,NMP,"
+          },
+          {
+            "text": "ἐκεῖ",
+            "lemma": "ἐκεῖ",
+            "strong": "G15630",
+            "x-morph": "Gr,D,,,,,,,,,"
+          },
+          {
+            "text": "πάντες",
+            "lemma": "πᾶς",
+            "strong": "G39560",
+            "x-morph": "Gr,A,,,,,NMP,"
+          },
+          {
+            "text": "οἱ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NMP,"
+          },
+          {
+            "text": "υἱοὶ",
+            "lemma": "υἱός",
+            "strong": "G52070",
+            "x-morph": "Gr,N,,,,,NMP,"
+          },
+          {
+            "text": "Ισραηλ",
+            "lemma": "Ἰσραήλ",
+            "strong": "G24740",
+            "x-morph": "Gr,N,,,,,GMS,"
+          }
+        ]
+      },
+      "29": {
+        "words": [
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ἀναστάντες",
+            "lemma": "ἀνθίστημι",
+            "strong": "G04360",
+            "x-morph": "Gr,V,PAA,NMP,"
+          },
+          {
+            "text": "οἱ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NMP,"
+          },
+          {
+            "text": "δύο",
+            "lemma": "δύο",
+            "strong": "G14170",
+            "x-morph": "Gr,EN,,,,NMP,"
+          },
+          {
+            "text": "πρεσβύτεροι",
+            "lemma": "πρεσβύτερος",
+            "strong": "G42450",
+            "x-morph": "Gr,N,,,,,NMP,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "κριταὶ",
+            "lemma": "κριτής",
+            "strong": "G29230",
+            "x-morph": "Gr,N,,,,,NMP,"
+          },
+          {
+            "text": "εἶπαν",
+            "lemma": "λέγω",
+            "strong": "G30040",
+            "x-morph": "Gr,V,IAA3,,P,"
+          },
+          {
+            "text": "ἀποστείλατε",
+            "lemma": "ἀποστέλλω",
+            "strong": "G06490",
+            "x-morph": "Gr,V,MAA2,,P,"
+          },
+          {
+            "text": "ἐπὶ",
+            "lemma": "ἐπί",
+            "strong": "G19090",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "Σουσανναν",
+            "lemma": "Σουσάννα",
+            "strong": "G46770",
+            "x-morph": "Gr,N,,,,,AFS,"
+          },
+          {
+            "text": "θυγατέρα",
+            "lemma": "θυγάτηρ",
+            "strong": "G23640",
+            "x-morph": "Gr,N,,,,,AFS,"
+          },
+          {
+            "text": "Χελκιου",
+            "lemma": "Χελκιος",
+            "strong": "G69380",
+            "x-morph": "Gr,N,,,,,GMS,"
+          },
+          {
+            "text": "ἥτις",
+            "lemma": "ὅστις",
+            "strong": "G37480",
+            "x-morph": "Gr,RR,,,,NFS,"
+          },
+          {
+            "text": "ἐστὶ",
+            "lemma": "εἰμί",
+            "strong": "G15100",
+            "x-morph": "Gr,V,IPA3,,S,"
+          },
+          {
+            "text": "γυνὴ",
+            "lemma": "γυνή",
+            "strong": "G11350",
+            "x-morph": "Gr,N,,,,,NFS,"
+          },
+          {
+            "text": "Ιωακιμ",
+            "lemma": "Ιωακιμ",
+            "strong": "G63590",
+            "x-morph": "Gr,N,,,,,GMS,"
+          },
+          {
+            "text": "οἱ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NMP,"
+          },
+          {
+            "text": "δὲ",
+            "lemma": "δέ",
+            "strong": "G11610",
+            "x-morph": "Gr,CC,,,,,,,,"
+          },
+          {
+            "text": "εὐθέως",
+            "lemma": "εὐθέως",
+            "strong": "G21120",
+            "x-morph": "Gr,D,,,,,,,,,"
+          },
+          {
+            "text": "ἐκάλεσαν",
+            "lemma": "καλέω",
+            "strong": "G25640",
+            "x-morph": "Gr,V,IAA3,,P,"
+          },
+          {
+            "text": "αὐτήν",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,AFS,"
+          }
+        ]
+      },
+      "30": {
+        "words": [
+          {
+            "text": "ὡς",
+            "lemma": "ὡς",
+            "strong": "G56130",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "δὲ",
+            "lemma": "δέ",
+            "strong": "G11610",
+            "x-morph": "Gr,CC,,,,,,,,"
+          },
+          {
+            "text": "παρεγενήθη",
+            "lemma": "παραγίνομαι",
+            "strong": "G38540",
+            "x-morph": "Gr,V,IAP3,,S,"
+          },
+          {
+            "text": "ἡ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NFS,"
+          },
+          {
+            "text": "γυνὴ",
+            "lemma": "γυνή",
+            "strong": "G11350",
+            "x-morph": "Gr,N,,,,,NFS,"
+          },
+          {
+            "text": "σὺν",
+            "lemma": "σύν",
+            "strong": "G48620",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "τῷ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,DMS,"
+          },
+          {
+            "text": "πατρὶ",
+            "lemma": "πατήρ",
+            "strong": "G39620",
+            "x-morph": "Gr,N,,,,,DMS,"
+          },
+          {
+            "text": "ἑαυτῆς",
+            "lemma": "ἑαυτοῦ",
+            "strong": "G14380",
+            "x-morph": "Gr,RE,,,,GFS,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "τῇ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,DFS,"
+          },
+          {
+            "text": "μητρί",
+            "lemma": "μήτηρ",
+            "strong": "G33840",
+            "x-morph": "Gr,N,,,,,DFS,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "οἱ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NMP,"
+          },
+          {
+            "text": "παῖδες",
+            "lemma": "παῖς",
+            "strong": "G38160",
+            "x-morph": "Gr,N,,,,,NMP,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "αἱ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NFP,"
+          },
+          {
+            "text": "παιδίσκαι",
+            "lemma": "παιδίσκη",
+            "strong": "G38140",
+            "x-morph": "Gr,N,,,,,NFP,"
+          },
+          {
+            "text": "αὐτῆς",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,GFS,"
+          },
+          {
+            "text": "ὄντες",
+            "lemma": "εἰμί",
+            "strong": "G15100",
+            "x-morph": "Gr,V,PPA,NMP,"
+          },
+          {
+            "text": "τὸν",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,AMS,"
+          },
+          {
+            "text": "ἀριθμὸν",
+            "lemma": "ἀριθμός",
+            "strong": "G07060",
+            "x-morph": "Gr,N,,,,,AMS,"
+          },
+          {
+            "text": "πεντακόσιοι",
+            "lemma": "πεντακόσιοι",
+            "strong": "G40010",
+            "x-morph": "Gr,EN,,,,NMP,"
+          },
+          {
+            "text": "παρεγένοντο",
+            "lemma": "παραγίνομαι",
+            "strong": "G38540",
+            "x-morph": "Gr,V,IAM3,,P,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "τὰ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,ANP,"
+          },
+          {
+            "text": "παιδία",
+            "lemma": "παιδίον",
+            "strong": "G38130",
+            "x-morph": "Gr,N,,,,,ANP,"
+          },
+          {
+            "text": "Σουσαννας",
+            "lemma": "Σουσάννα",
+            "strong": "G46770",
+            "x-morph": "Gr,N,,,,,GFS,"
+          },
+          {
+            "text": "τέσσαρα",
+            "lemma": "τέσσαρες",
+            "strong": "G50640",
+            "x-morph": "Gr,EN,,,,ANP,"
+          }
+        ]
+      },
+      "31": {
+        "words": [
+          {
+            "text": "ἦν",
+            "lemma": "εἰμί",
+            "strong": "G15100",
+            "x-morph": "Gr,V,IIA3,,S,"
+          },
+          {
+            "text": "δὲ",
+            "lemma": "δέ",
+            "strong": "G11610",
+            "x-morph": "Gr,CC,,,,,,,,"
+          },
+          {
+            "text": "ἡ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NFS,"
+          },
+          {
+            "text": "γυνὴ",
+            "lemma": "γυνή",
+            "strong": "G11350",
+            "x-morph": "Gr,N,,,,,NFS,"
+          },
+          {
+            "text": "τρυφερὰ",
+            "lemma": "τρυφερός",
+            "strong": "G61839",
+            "x-morph": "Gr,A,,,,,NFS,"
+          },
+          {
+            "text": "σφόδρα",
+            "lemma": "σφόδρα",
+            "strong": "G49700",
+            "x-morph": "Gr,D,,,,,,,,,"
+          }
+        ]
+      },
+      "32": {
+        "words": [
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "προσέταξαν",
+            "lemma": "προστάσσω",
+            "strong": "G43670",
+            "x-morph": "Gr,V,IAA3,,P,"
+          },
+          {
+            "text": "οἱ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NMP,"
+          },
+          {
+            "text": "παράνομοι",
+            "lemma": "παράνομος",
+            "strong": "G61744",
+            "x-morph": "Gr,A,,,,,NMP,"
+          },
+          {
+            "text": "ἀποκαλύψαι",
+            "lemma": "ἀποκαλύπτω",
+            "strong": "G06010",
+            "x-morph": "Gr,V,NAA,,,,,"
+          },
+          {
+            "text": "αὐτήν",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,AFS,"
+          },
+          {
+            "text": "ἵνα",
+            "lemma": "ἵνα",
+            "strong": "G24430",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ἐμπλησθῶσι",
+            "lemma": "πίμπλημι",
+            "strong": "G40915",
+            "x-morph": "Gr,V,SAP3,,P,"
+          },
+          {
+            "text": "κάλλους",
+            "lemma": "καλός",
+            "strong": "G25700",
+            "x-morph": "Gr,N,,,,,GNS,"
+          },
+          {
+            "text": "ἐπιθυμίας",
+            "lemma": "ἐπιθυμία",
+            "strong": "G19390",
+            "x-morph": "Gr,N,,,,,AFP,"
+          },
+          {
+            "text": "αὐτῆς",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,GFS,"
+          }
+        ]
+      },
+      "33": {
+        "words": [
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ἐκλαίοσαν",
+            "lemma": "κλαίω",
+            "strong": "G27990",
+            "x-morph": "Gr,V,IIA3,,S,"
+          },
+          {
+            "text": "οἱ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NMP,"
+          },
+          {
+            "text": "παρ’",
+            "lemma": "παρά",
+            "strong": "G38440",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "αὐτῆς",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,GFS,"
+          },
+          {
+            "text": "πάντες",
+            "lemma": "πᾶς",
+            "strong": "G39560",
+            "x-morph": "Gr,A,,,,,NMP,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ὅσοι",
+            "lemma": "ὅσος",
+            "strong": "G37450",
+            "x-morph": "Gr,A,,,,,NMP,"
+          },
+          {
+            "text": "αὐτὴν",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,AFS,"
+          },
+          {
+            "text": "ᾔδεισαν",
+            "lemma": "οἴδα",
+            "strong": "G14925",
+            "x-morph": "Gr,V,ILA3,,P,"
+          },
+          {
+            "text": "πάντες",
+            "lemma": "πᾶς",
+            "strong": "G39560",
+            "x-morph": "Gr,A,,,,,NMP,"
+          }
+        ]
+      },
+      "34": {
+        "words": [
+          {
+            "text": "ἀναστάντες",
+            "lemma": "ἀνθίστημι",
+            "strong": "G04360",
+            "x-morph": "Gr,V,PAA,NMP,"
+          },
+          {
+            "text": "δὲ",
+            "lemma": "δέ",
+            "strong": "G11610",
+            "x-morph": "Gr,CC,,,,,,,,"
+          },
+          {
+            "text": "οἱ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NMP,"
+          },
+          {
+            "text": "πρεσβύτεροι",
+            "lemma": "πρεσβύτερος",
+            "strong": "G42450",
+            "x-morph": "Gr,A,,,,,NMPC"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "κριταὶ",
+            "lemma": "κριτής",
+            "strong": "G29230",
+            "x-morph": "Gr,N,,,,,NMP,"
+          },
+          {
+            "text": "ἐπέθηκαν",
+            "lemma": "ἐπιτίθημι",
+            "strong": "G20070",
+            "x-morph": "Gr,V,IAA3,,P,"
+          },
+          {
+            "text": "τὰς",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,AFP,"
+          },
+          {
+            "text": "χεῖρας",
+            "lemma": "χείρ",
+            "strong": "G54950",
+            "x-morph": "Gr,N,,,,,AFP,"
+          },
+          {
+            "text": "αὐτῶν",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,GMP,"
+          },
+          {
+            "text": "ἐπὶ",
+            "lemma": "ἐπί",
+            "strong": "G19090",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "τῆς",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,GFS,"
+          },
+          {
+            "text": "κεφαλῆς",
+            "lemma": "κεφαλή",
+            "strong": "G27760",
+            "x-morph": "Gr,N,,,,,GFS,"
+          },
+          {
+            "text": "αὐτῆς",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,GFS,"
+          }
+        ]
+      },
+      "35": {
+        "words": [
+          {
+            "text": "ἡ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NFS,"
+          },
+          {
+            "text": "δὲ",
+            "lemma": "δέ",
+            "strong": "G11610",
+            "x-morph": "Gr,CC,,,,,,,,"
+          },
+          {
+            "text": "καρδία",
+            "lemma": "καρδία",
+            "strong": "G25880",
+            "x-morph": "Gr,N,,,,,NFS,"
+          },
+          {
+            "text": "αὐτῆς",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,GFS,"
+          },
+          {
+            "text": "ἐπεποίθει",
+            "lemma": "πείθω",
+            "strong": "G39820",
+            "x-morph": "Gr,V,ILA3,,S,"
+          },
+          {
+            "text": "ἐπὶ",
+            "lemma": "ἐπί",
+            "strong": "G19090",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "κυρίῳ",
+            "lemma": "κύριος",
+            "strong": "G29620",
+            "x-morph": "Gr,N,,,,,DMS,"
+          },
+          {
+            "text": "τῷ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,DMS,"
+          },
+          {
+            "text": "θεῷ",
+            "lemma": "θεός",
+            "strong": "G23160",
+            "x-morph": "Gr,N,,,,,DMS,"
+          },
+          {
+            "text": "αὐτῆς",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,GFS,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ἀνακύψασα",
+            "lemma": "ἀνακύπτω",
+            "strong": "G03520",
+            "x-morph": "Gr,V,PAA,NFS,"
+          },
+          {
+            "text": "ἔκλαυσεν",
+            "lemma": "κλαίω",
+            "strong": "G27990",
+            "x-morph": "Gr,V,IAA3,,S,"
+          },
+          {
+            "text": "ἐν",
+            "lemma": "ἐν",
+            "strong": "G17220",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "ἑαυτῇ",
+            "lemma": "ἑαυτοῦ",
+            "strong": "G14380",
+            "x-morph": "Gr,RE,,,,DFS,"
+          },
+          {
+            "text": "λέγουσα",
+            "lemma": "λέγω",
+            "strong": "G30040",
+            "x-morph": "Gr,V,PPA,NFS,"
+          }
+        ]
+      },
+      "36": {
+        "words": [
+          {
+            "text": "κύριε",
+            "lemma": "κύριος",
+            "strong": "G29620",
+            "x-morph": "Gr,N,,,,,VMS,"
+          },
+          {
+            "text": "ὁ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NMS,"
+          },
+          {
+            "text": "θεὸς",
+            "lemma": "θεός",
+            "strong": "G23160",
+            "x-morph": "Gr,N,,,,,NMS,"
+          },
+          {
+            "text": "ὁ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NMS,"
+          },
+          {
+            "text": "αἰώνιος",
+            "lemma": "αἰώνιος",
+            "strong": "G01660",
+            "x-morph": "Gr,A,,,,,NMS,"
+          },
+          {
+            "text": "ὁ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NMS,"
+          },
+          {
+            "text": "εἰδὼς",
+            "lemma": "οἴδα",
+            "strong": "G14925",
+            "x-morph": "Gr,V,PEA,NMS,"
+          },
+          {
+            "text": "τὰ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,ANP,"
+          },
+          {
+            "text": "πάντα",
+            "lemma": "πᾶς",
+            "strong": "G39560",
+            "x-morph": "Gr,A,,,,,ANP,"
+          },
+          {
+            "text": "πρὶν",
+            "lemma": "πρίν",
+            "strong": "G42500",
+            "x-morph": "Gr,D,,,,,,,,,"
+          },
+          {
+            "text": "γενέσεως",
+            "lemma": "γένεσις",
+            "strong": "G10780",
+            "x-morph": "Gr,N,,,,,GFS,"
+          },
+          {
+            "text": "αὐτῶν",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,GMP,"
+          },
+          {
+            "text": "σὺ",
+            "lemma": "σύ",
+            "strong": "G47710",
+            "x-morph": "Gr,RP,,,,N,S,"
+          },
+          {
+            "text": "οἶδας",
+            "lemma": "οἴδα",
+            "strong": "G14925",
+            "x-morph": "Gr,V,IEA2,,S,"
+          },
+          {
+            "text": "ὅτι",
+            "lemma": "ὅτι",
+            "strong": "G37540",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "οὐκ",
+            "lemma": "οὐ",
+            "strong": "G37560",
+            "x-morph": "Gr,D,,,,,,,,,"
+          },
+          {
+            "text": "ἐποίησα",
+            "lemma": "ποιέω",
+            "strong": "G41600",
+            "x-morph": "Gr,V,IAA1,,S,"
+          },
+          {
+            "text": "ἃ",
+            "lemma": "ὅς",
+            "strong": "G37390",
+            "x-morph": "Gr,RR,,,,ANP,"
+          },
+          {
+            "text": "πονηρεύονται",
+            "lemma": "πονηρεύω",
+            "strong": "G66027",
+            "x-morph": "Gr,V,IPM3,,P,"
+          },
+          {
+            "text": "οἱ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NMP,"
+          },
+          {
+            "text": "ἄνομοι",
+            "lemma": "ἄνομος",
+            "strong": "G04590",
+            "x-morph": "Gr,A,,,,,NMP,"
+          },
+          {
+            "text": "οὗτοι",
+            "lemma": "οὗτος",
+            "strong": "G37780",
+            "x-morph": "Gr,RD,,,,NMP,"
+          },
+          {
+            "text": "ἐπ’",
+            "lemma": "ἐπί",
+            "strong": "G19090",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "ἐμοί",
+            "lemma": "ἐγώ",
+            "strong": "G14730",
+            "x-morph": "Gr,RP,,,,D,S,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "εἰσήκουσε",
+            "lemma": "εἰσακούω",
+            "strong": "G15220",
+            "x-morph": "Gr,V,IAA3,,S,"
+          },
+          {
+            "text": "κύριος",
+            "lemma": "κύριος",
+            "strong": "G29620",
+            "x-morph": "Gr,N,,,,,NMS,"
+          },
+          {
+            "text": "τῆς",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,GFS,"
+          },
+          {
+            "text": "δεήσεως",
+            "lemma": "δέησις",
+            "strong": "G11620",
+            "x-morph": "Gr,N,,,,,GFS,"
+          },
+          {
+            "text": "αὐτῆς",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,GFS,"
+          }
+        ]
+      },
+      "37": {
+        "words": [
+          {
+            "text": "οἱ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NMP,"
+          },
+          {
+            "text": "δὲ",
+            "lemma": "δέ",
+            "strong": "G11610",
+            "x-morph": "Gr,CC,,,,,,,,"
+          },
+          {
+            "text": "δύο",
+            "lemma": "δύο",
+            "strong": "G14170",
+            "x-morph": "Gr,EN,,,,NMP,"
+          },
+          {
+            "text": "πρεσβύτεροι",
+            "lemma": "πρεσβύτερος",
+            "strong": "G42450",
+            "x-morph": "Gr,N,,,,,NMP,"
+          },
+          {
+            "text": "εἶπαν",
+            "lemma": "λέγω",
+            "strong": "G30040",
+            "x-morph": "Gr,V,IAA3,,P,"
+          },
+          {
+            "text": "ἡμεῖς",
+            "lemma": "ἐγώ",
+            "strong": "G14730",
+            "x-morph": "Gr,RP,,,,N,P,"
+          },
+          {
+            "text": "περιεπατοῦμεν",
+            "lemma": "περιπατέω",
+            "strong": "G40430",
+            "x-morph": "Gr,V,IIA1,,P,"
+          },
+          {
+            "text": "ἐν",
+            "lemma": "ἐν",
+            "strong": "G17220",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "τῷ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,DMS,"
+          },
+          {
+            "text": "παραδείσῳ",
+            "lemma": "παράδεισος",
+            "strong": "G38570",
+            "x-morph": "Gr,N,,,,,DMS,"
+          },
+          {
+            "text": "τοῦ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,GMS,"
+          },
+          {
+            "text": "ἀνδρὸς",
+            "lemma": "ἀνήρ",
+            "strong": "G04350",
+            "x-morph": "Gr,N,,,,,GMS,"
+          },
+          {
+            "text": "αὐτῆς",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,GFS,"
+          }
+        ]
+      },
+      "38": {
+        "words": [
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "κυκλοῦντες",
+            "lemma": "κυκλόω",
+            "strong": "G29440",
+            "x-morph": "Gr,V,PPA,NMP,"
+          },
+          {
+            "text": "τὸ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,ANS,"
+          },
+          {
+            "text": "στάδιον",
+            "lemma": "στάδιον",
+            "strong": "G47120",
+            "x-morph": "Gr,N,,,,,ANS,"
+          },
+          {
+            "text": "εἴδομεν",
+            "lemma": "ὁράω",
+            "strong": "G37080",
+            "x-morph": "Gr,V,IAA1,,P,"
+          },
+          {
+            "text": "ταύτην",
+            "lemma": "οὗτος",
+            "strong": "G37780",
+            "x-morph": "Gr,RD,,,,AFS,"
+          },
+          {
+            "text": "ἀναπαυομένην",
+            "lemma": "ἀναπαύω",
+            "strong": "G03730",
+            "x-morph": "Gr,V,PPM,AFS,"
+          },
+          {
+            "text": "μετὰ",
+            "lemma": "μετά",
+            "strong": "G33260",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "ἀνδρὸς",
+            "lemma": "ἀνήρ",
+            "strong": "G04350",
+            "x-morph": "Gr,N,,,,,GMS,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "στάντες",
+            "lemma": "ἵστημι",
+            "strong": "G24760",
+            "x-morph": "Gr,V,PAA,NMP,"
+          },
+          {
+            "text": "ἐθεωροῦμεν",
+            "lemma": "θεωρέω",
+            "strong": "G23340",
+            "x-morph": "Gr,V,IIA1,,P,"
+          },
+          {
+            "text": "αὐτοὺς",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,AMP,"
+          },
+          {
+            "text": "ὁμιλοῦντας",
+            "lemma": "ὁμιλέω",
+            "strong": "G36560",
+            "x-morph": "Gr,V,PPA,AMP,"
+          },
+          {
+            "text": "ἀλλήλοις",
+            "lemma": "ἀλλήλω",
+            "strong": "G60206",
+            "x-morph": "Gr,RI,,,,DMP,"
+          }
+        ]
+      },
+      "39": {
+        "words": [
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "αὐτοὶ",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,NMP,"
+          },
+          {
+            "text": "οὐκ",
+            "lemma": "οὐ",
+            "strong": "G37560",
+            "x-morph": "Gr,D,,,,,,,,,"
+          },
+          {
+            "text": "ᾔδεισαν",
+            "lemma": "οἴδα",
+            "strong": "G14925",
+            "x-morph": "Gr,V,ILA3,,P,"
+          },
+          {
+            "text": "ὅτι",
+            "lemma": "ὅτι",
+            "strong": "G37540",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "εἱστήκειμεν",
+            "lemma": "ἵστημι",
+            "strong": "G24760",
+            "x-morph": "Gr,V,ILA1,,P,"
+          },
+          {
+            "text": "τότε",
+            "lemma": "τότε",
+            "strong": "G51190",
+            "x-morph": "Gr,D,,,,,,,,,"
+          },
+          {
+            "text": "συνειπάμεθα",
+            "lemma": "ἀντεῖπον",
+            "strong": "G04710",
+            "x-morph": "Gr,V,IAM1,,P,"
+          },
+          {
+            "text": "ἀλλήλοις",
+            "lemma": "ἀλλήλω",
+            "strong": "G60206",
+            "x-morph": "Gr,RI,,,,DMP,"
+          },
+          {
+            "text": "λέγοντες",
+            "lemma": "λέγω",
+            "strong": "G30040",
+            "x-morph": "Gr,V,PPA,NMP,"
+          },
+          {
+            "text": "μάθωμεν",
+            "lemma": "μανθάνω",
+            "strong": "G31290",
+            "x-morph": "Gr,V,SAA1,,P,"
+          },
+          {
+            "text": "τίνες",
+            "lemma": "τίς",
+            "strong": "G51010",
+            "x-morph": "Gr,RT,,,,NMP,"
+          },
+          {
+            "text": "εἰσὶν",
+            "lemma": "εἰμί",
+            "strong": "G15100",
+            "x-morph": "Gr,V,IPA3,,P,"
+          },
+          {
+            "text": "οὗτοι",
+            "lemma": "οὗτος",
+            "strong": "G37780",
+            "x-morph": "Gr,RD,,,,NMP,"
+          }
+        ]
+      },
+      "40": {
+        "words": [
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "προσελθόντες",
+            "lemma": "προσέρχομαι",
+            "strong": "G43340",
+            "x-morph": "Gr,V,PAA,NMP,"
+          },
+          {
+            "text": "ἐπέγνωμεν",
+            "lemma": "ἐπιγινώσκω",
+            "strong": "G19210",
+            "x-morph": "Gr,V,IAA1,,P,"
+          },
+          {
+            "text": "αὐτήν",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,AFS,"
+          },
+          {
+            "text": "ὁ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NMS,"
+          },
+          {
+            "text": "δὲ",
+            "lemma": "δέ",
+            "strong": "G11610",
+            "x-morph": "Gr,CC,,,,,,,,"
+          },
+          {
+            "text": "νεανίσκος",
+            "lemma": "νεανίσκος",
+            "strong": "G34950",
+            "x-morph": "Gr,N,,,,,NMS,"
+          },
+          {
+            "text": "ἔφυγε",
+            "lemma": "φεύγω",
+            "strong": "G53430",
+            "x-morph": "Gr,V,IAA3,,S,"
+          },
+          {
+            "text": "συγκεκαλυμμένος",
+            "lemma": "καλύπτω",
+            "strong": "G25720",
+            "x-morph": "Gr,V,PEM,NMS,"
+          }
+        ]
+      },
+      "41": {
+        "words": [
+          {
+            "text": "ταύτης",
+            "lemma": "οὗτος",
+            "strong": "G37780",
+            "x-morph": "Gr,RD,,,,GFS,"
+          },
+          {
+            "text": "δὲ",
+            "lemma": "δέ",
+            "strong": "G11610",
+            "x-morph": "Gr,CC,,,,,,,,"
+          },
+          {
+            "text": "ἐπιλαβόμενοι",
+            "lemma": "λαμβάνω",
+            "strong": "G29830",
+            "x-morph": "Gr,V,PAM,NMP,"
+          },
+          {
+            "text": "ἐπηρωτῶμεν",
+            "lemma": "ἐπερωτάω",
+            "strong": "G19050",
+            "x-morph": "Gr,V,IIA1,,P,"
+          },
+          {
+            "text": "αὐτήν",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,AFS,"
+          },
+          {
+            "text": "τίς",
+            "lemma": "τίς",
+            "strong": "G51010",
+            "x-morph": "Gr,RT,,,,NMS,"
+          },
+          {
+            "text": "ὁ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NMS,"
+          },
+          {
+            "text": "ἄνθρωπος",
+            "lemma": "ἄνθρωπος",
+            "strong": "G04440",
+            "x-morph": "Gr,N,,,,,NMS,"
+          }
+        ]
+      },
+      "42": {
+        "words": [
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "οὐκ",
+            "lemma": "οὐ",
+            "strong": "G37560",
+            "x-morph": "Gr,D,,,,,,,,,"
+          },
+          {
+            "text": "ἀπήγγειλεν",
+            "lemma": "ἀπαγγέλλω",
+            "strong": "G05180",
+            "x-morph": "Gr,V,IAA3,,S,"
+          },
+          {
+            "text": "ἡμῖν",
+            "lemma": "ἐγώ",
+            "strong": "G14730",
+            "x-morph": "Gr,RP,,,,D,P,"
+          },
+          {
+            "text": "τίς",
+            "lemma": "τίς",
+            "strong": "G51010",
+            "x-morph": "Gr,RT,,,,NMS,"
+          },
+          {
+            "text": "ἦν",
+            "lemma": "εἰμί",
+            "strong": "G15100",
+            "x-morph": "Gr,V,IIA3,,S,"
+          },
+          {
+            "text": "ταῦτα",
+            "lemma": "οὗτος",
+            "strong": "G37780",
+            "x-morph": "Gr,RD,,,,ANP,"
+          },
+          {
+            "text": "μαρτυροῦμεν",
+            "lemma": "μαρτυρέω",
+            "strong": "G31400",
+            "x-morph": "Gr,V,IPA1,,P,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ἐπίστευσεν",
+            "lemma": "πιστεύω",
+            "strong": "G41000",
+            "x-morph": "Gr,V,IAA3,,S,"
+          },
+          {
+            "text": "αὐτοῖς",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,DMP,"
+          },
+          {
+            "text": "ἡ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NFS,"
+          },
+          {
+            "text": "συναγωγὴ",
+            "lemma": "συναγωγή",
+            "strong": "G48640",
+            "x-morph": "Gr,N,,,,,NFS,"
+          },
+          {
+            "text": "πᾶσα",
+            "lemma": "πᾶς",
+            "strong": "G39560",
+            "x-morph": "Gr,A,,,,,NFS,"
+          },
+          {
+            "text": "ὡς",
+            "lemma": "ὡς",
+            "strong": "G56130",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "πρεσβυτέρων",
+            "lemma": "πρεσβύτερος",
+            "strong": "G42450",
+            "x-morph": "Gr,N,,,,,GMP,"
+          },
+          {
+            "text": "ὄντων",
+            "lemma": "εἰμί",
+            "strong": "G15100",
+            "x-morph": "Gr,V,PPA,GMP,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "κριτῶν",
+            "lemma": "κριτής",
+            "strong": "G29230",
+            "x-morph": "Gr,N,,,,,GMP,"
+          },
+          {
+            "text": "τοῦ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,GMS,"
+          },
+          {
+            "text": "λαοῦ",
+            "lemma": "λαός",
+            "strong": "G29920",
+            "x-morph": "Gr,N,,,,,GMS,"
+          }
+        ]
+      },
+      "44": {
+        "words": [
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ἰδοὺ",
+            "lemma": "ὁράω",
+            "strong": "G37080",
+            "x-morph": "Gr,V,MAM2,,S,"
+          },
+          {
+            "text": "ἄγγελος",
+            "lemma": "ἄγγελος",
+            "strong": "G00320",
+            "x-morph": "Gr,N,,,,,NMS,"
+          },
+          {
+            "text": "κυρίου",
+            "lemma": "κύριος",
+            "strong": "G29620",
+            "x-morph": "Gr,N,,,,,GMS,"
+          },
+          {
+            "text": "ἐκείνης",
+            "lemma": "ἐκεῖνος",
+            "strong": "G15650",
+            "x-morph": "Gr,RD,,,,GFS,"
+          },
+          {
+            "text": "ἐξαγομένης",
+            "lemma": "ἐκφεύγω",
+            "strong": "G16280",
+            "x-morph": "Gr,V,PPM,GFS,"
+          },
+          {
+            "text": "ἀπολέσθαι",
+            "lemma": "ἀπολύω",
+            "strong": "G06300",
+            "x-morph": "Gr,V,NAM,,,,,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ἔδωκεν",
+            "lemma": "δίδωμι",
+            "strong": "G13250",
+            "x-morph": "Gr,V,IAA3,,S,"
+          },
+          {
+            "text": "ὁ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NMS,"
+          },
+          {
+            "text": "ἄγγελος",
+            "lemma": "ἄγγελος",
+            "strong": "G00320",
+            "x-morph": "Gr,N,,,,,NMS,"
+          },
+          {
+            "text": "καθὼς",
+            "lemma": "κατάβασις",
+            "strong": "G26000",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "προσετάγη",
+            "lemma": "προστάσσω",
+            "strong": "G43670",
+            "x-morph": "Gr,V,IAP3,,S,"
+          },
+          {
+            "text": "πνεῦμα",
+            "lemma": "πνεῦμα",
+            "strong": "G41510",
+            "x-morph": "Gr,N,,,,,NNS,"
+          },
+          {
+            "text": "συνέσεως",
+            "lemma": "σύνεσις",
+            "strong": "G49070",
+            "x-morph": "Gr,N,,,,,GFS,"
+          },
+          {
+            "text": "νεωτέρῳ",
+            "lemma": "νέος",
+            "strong": "G35010",
+            "x-morph": "Gr,A,,,,,DMS,"
+          },
+          {
+            "text": "ὄντι",
+            "lemma": "εἰμί",
+            "strong": "G15100",
+            "x-morph": "Gr,V,PPA,DMS,"
+          },
+          {
+            "text": "Δανιηλ",
+            "lemma": "Δανιήλ",
+            "strong": "G11580",
+            "x-morph": "Gr,N,,,,,DMS,"
+          }
+        ]
+      },
+      "48": {
+        "words": [
+          {
+            "text": "διαστείλας",
+            "lemma": "διαστέλλω",
+            "strong": "G12910",
+            "x-morph": "Gr,V,PAA,NMS,"
+          },
+          {
+            "text": "δὲ",
+            "lemma": "δέ",
+            "strong": "G11610",
+            "x-morph": "Gr,CC,,,,,,,,"
+          },
+          {
+            "text": "Δανιηλ",
+            "lemma": "Δανιήλ",
+            "strong": "G11580",
+            "x-morph": "Gr,N,,,,,NMS,"
+          },
+          {
+            "text": "τὸν",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,AMS,"
+          },
+          {
+            "text": "ὄχλον",
+            "lemma": "ὄχλος",
+            "strong": "G37930",
+            "x-morph": "Gr,N,,,,,AMS,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "στὰς",
+            "lemma": "ἵστημι",
+            "strong": "G24760",
+            "x-morph": "Gr,V,PAA,NMS,"
+          },
+          {
+            "text": "ἐν",
+            "lemma": "ἐν",
+            "strong": "G17220",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "μέσῳ",
+            "lemma": "μέσος",
+            "strong": "G33190",
+            "x-morph": "Gr,A,,,,,DMS,"
+          },
+          {
+            "text": "αὐτῶν",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,GMP,"
+          },
+          {
+            "text": "εἶπεν",
+            "lemma": "λέγω",
+            "strong": "G30040",
+            "x-morph": "Gr,V,IAA3,,S,"
+          },
+          {
+            "text": "οὕτως",
+            "lemma": "οὕτω",
+            "strong": "G37790",
+            "x-morph": "Gr,D,,,,,,,,,"
+          },
+          {
+            "text": "μωροί",
+            "lemma": "μωρός",
+            "strong": "G34740",
+            "x-morph": "Gr,A,,,,,NMP,"
+          },
+          {
+            "text": "υἱοὶ",
+            "lemma": "υἱός",
+            "strong": "G52070",
+            "x-morph": "Gr,N,,,,,NMP,"
+          },
+          {
+            "text": "Ισραηλ",
+            "lemma": "Ἰσραήλ",
+            "strong": "G24740",
+            "x-morph": "Gr,N,,,,,GMS,"
+          },
+          {
+            "text": "οὐκ",
+            "lemma": "οὐ",
+            "strong": "G37560",
+            "x-morph": "Gr,D,,,,,,,,,"
+          },
+          {
+            "text": "ἀνακρίναντες",
+            "lemma": "ἀνακρίνω",
+            "strong": "G03500",
+            "x-morph": "Gr,V,PAA,NMP,"
+          },
+          {
+            "text": "οὐδὲ",
+            "lemma": "οὐδέ",
+            "strong": "G37610",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "τὸ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,ANS,"
+          },
+          {
+            "text": "σαφὲς",
+            "lemma": "σαφής",
+            "strong": "G68215",
+            "x-morph": "Gr,A,,,,,ANS,"
+          },
+          {
+            "text": "ἐπιγνόντες",
+            "lemma": "ἐπιγινώσκω",
+            "strong": "G19210",
+            "x-morph": "Gr,V,PAA,NMP,"
+          },
+          {
+            "text": "ἀπεκρίνατε",
+            "lemma": "κρίνω",
+            "strong": "G29190",
+            "x-morph": "Gr,V,IAA2,,P,"
+          },
+          {
+            "text": "θυγατέρα",
+            "lemma": "θυγάτηρ",
+            "strong": "G23640",
+            "x-morph": "Gr,N,,,,,AFS,"
+          },
+          {
+            "text": "Ισραηλ",
+            "lemma": "Ἰσραήλ",
+            "strong": "G24740",
+            "x-morph": "Gr,N,,,,,GMS,"
+          }
+        ]
+      },
+      "51": {
+        "words": [
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "νῦν",
+            "lemma": "νῦν",
+            "strong": "G35680",
+            "x-morph": "Gr,D,,,,,,,,,"
+          },
+          {
+            "text": "διαχωρίσατέ",
+            "lemma": "διαχωρίζω",
+            "strong": "G13160",
+            "x-morph": "Gr,V,MAA2,,P,"
+          },
+          {
+            "text": "μοι",
+            "lemma": "ἐγώ",
+            "strong": "G14730",
+            "x-morph": "Gr,RP,,,,D,S,"
+          },
+          {
+            "text": "αὐτοὺς",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,AMP,"
+          },
+          {
+            "text": "ἀπ’",
+            "lemma": "ἀπό",
+            "strong": "G05750",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "ἀλλήλων",
+            "lemma": "ἀλλήλω",
+            "strong": "G60206",
+            "x-morph": "Gr,RI,,,,GMP,"
+          },
+          {
+            "text": "μακράν",
+            "lemma": "μακρός",
+            "strong": "G31170",
+            "x-morph": "Gr,A,,,,,AFS,"
+          },
+          {
+            "text": "ἵνα",
+            "lemma": "ἵνα",
+            "strong": "G24430",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ἐτάσω",
+            "lemma": "ἐτάζω",
+            "strong": "G60158",
+            "x-morph": "Gr,V,SAA1,,S,"
+          },
+          {
+            "text": "αὐτούς",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,AMP,"
+          }
+        ]
+      },
+      "52": {
+        "words": [
+          {
+            "text": "ὡς",
+            "lemma": "ὡς",
+            "strong": "G56130",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "δὲ",
+            "lemma": "δέ",
+            "strong": "G11610",
+            "x-morph": "Gr,CC,,,,,,,,"
+          },
+          {
+            "text": "διεχωρίσθησαν",
+            "lemma": "διαχωρίζω",
+            "strong": "G13160",
+            "x-morph": "Gr,V,IAP3,,P,"
+          },
+          {
+            "text": "εἶπεν",
+            "lemma": "λέγω",
+            "strong": "G30040",
+            "x-morph": "Gr,V,IAA3,,S,"
+          },
+          {
+            "text": "Δανιηλ",
+            "lemma": "Δανιήλ",
+            "strong": "G11580",
+            "x-morph": "Gr,N,,,,,NMS,"
+          },
+          {
+            "text": "τῇ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,DFS,"
+          },
+          {
+            "text": "συναγωγῇ",
+            "lemma": "συναγωγή",
+            "strong": "G48640",
+            "x-morph": "Gr,N,,,,,DFS,"
+          },
+          {
+            "text": "νῦν",
+            "lemma": "νῦν",
+            "strong": "G35680",
+            "x-morph": "Gr,D,,,,,,,,,"
+          },
+          {
+            "text": "μὴ",
+            "lemma": "μή",
+            "strong": "G33610",
+            "x-morph": "Gr,D,,,,,,,,,"
+          },
+          {
+            "text": "βλέψητε",
+            "lemma": "βλέπω",
+            "strong": "G09910",
+            "x-morph": "Gr,V,SAA2,,P,"
+          },
+          {
+            "text": "ὅτι",
+            "lemma": "ὅτι",
+            "strong": "G37540",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "οὗτοί",
+            "lemma": "οὗτος",
+            "strong": "G37780",
+            "x-morph": "Gr,RD,,,,NMP,"
+          },
+          {
+            "text": "εἰσι",
+            "lemma": "εἰμί",
+            "strong": "G15100",
+            "x-morph": "Gr,V,IPA3,,P,"
+          },
+          {
+            "text": "πρεσβύτεροι",
+            "lemma": "πρεσβύτερος",
+            "strong": "G42450",
+            "x-morph": "Gr,N,,,,,NMP,"
+          },
+          {
+            "text": "λέγοντες",
+            "lemma": "λέγω",
+            "strong": "G30040",
+            "x-morph": "Gr,V,PPA,NMP,"
+          },
+          {
+            "text": "οὐ",
+            "lemma": "οὐ",
+            "strong": "G37560",
+            "x-morph": "Gr,D,,,,,,,,,"
+          },
+          {
+            "text": "μὴ",
+            "lemma": "μή",
+            "strong": "G33610",
+            "x-morph": "Gr,D,,,,,,,,,"
+          },
+          {
+            "text": "ψεύσωνται",
+            "lemma": "ψεύδω",
+            "strong": "G61097",
+            "x-morph": "Gr,V,SAM3,,P,"
+          },
+          {
+            "text": "ἀλλὰ",
+            "lemma": "ἀλλά",
+            "strong": "G02350",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ἀνακρινῶ",
+            "lemma": "ἀνακρίνω",
+            "strong": "G03500",
+            "x-morph": "Gr,V,IFA1,,S,"
+          },
+          {
+            "text": "αὐτοὺς",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,AMP,"
+          },
+          {
+            "text": "κατὰ",
+            "lemma": "κατά",
+            "strong": "G25960",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "τὰ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,ANP,"
+          },
+          {
+            "text": "ὑποπίπτοντά",
+            "lemma": "πίπτω",
+            "strong": "G40980",
+            "x-morph": "Gr,V,PPA,ANP,"
+          },
+          {
+            "text": "μοι",
+            "lemma": "ἐγώ",
+            "strong": "G14730",
+            "x-morph": "Gr,RP,,,,D,S,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ἐκάλεσε",
+            "lemma": "καλέω",
+            "strong": "G25640",
+            "x-morph": "Gr,V,IAA3,,S,"
+          },
+          {
+            "text": "τὸν",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,AMS,"
+          },
+          {
+            "text": "ἕνα",
+            "lemma": "εἷς",
+            "strong": "G15200",
+            "x-morph": "Gr,EN,,,,AMS,"
+          },
+          {
+            "text": "αὐτῶν",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,GMP,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "προσήγαγον",
+            "lemma": "προσάγω",
+            "strong": "G43170",
+            "x-morph": "Gr,V,IAA3,,P,"
+          },
+          {
+            "text": "τὸν",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,AMS,"
+          },
+          {
+            "text": "πρεσβύτερον",
+            "lemma": "πρεσβύτερος",
+            "strong": "G42450",
+            "x-morph": "Gr,N,,,,,AMS,"
+          },
+          {
+            "text": "τῷ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,DMS,"
+          },
+          {
+            "text": "νεωτέρῳ",
+            "lemma": "νέος",
+            "strong": "G35010",
+            "x-morph": "Gr,A,,,,,DMS,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "εἶπεν",
+            "lemma": "λέγω",
+            "strong": "G30040",
+            "x-morph": "Gr,V,IAA3,,S,"
+          },
+          {
+            "text": "αὐτῷ",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,DMS,"
+          },
+          {
+            "text": "Δανιηλ",
+            "lemma": "Δανιήλ",
+            "strong": "G11580",
+            "x-morph": "Gr,N,,,,,NMS,"
+          },
+          {
+            "text": "ἄκουε",
+            "lemma": "ἀκούω",
+            "strong": "G01910",
+            "x-morph": "Gr,V,MPA2,,S,"
+          },
+          {
+            "text": "ἄκουε",
+            "lemma": "ἀκούω",
+            "strong": "G01910",
+            "x-morph": "Gr,V,MPA2,,S,"
+          },
+          {
+            "text": "πεπαλαιωμένε",
+            "lemma": "παλαιόω",
+            "strong": "G38220",
+            "x-morph": "Gr,V,PEM,VMS,"
+          },
+          {
+            "text": "ἡμερῶν",
+            "lemma": "ἡμέρα",
+            "strong": "G22500",
+            "x-morph": "Gr,N,,,,,GFP,"
+          },
+          {
+            "text": "κακῶν",
+            "lemma": "κακός",
+            "strong": "G25560",
+            "x-morph": "Gr,A,,,,,GFP,"
+          },
+          {
+            "text": "νῦν",
+            "lemma": "νῦν",
+            "strong": "G35680",
+            "x-morph": "Gr,D,,,,,,,,,"
+          },
+          {
+            "text": "ἥκασί",
+            "lemma": "ἥκω",
+            "strong": "G22400",
+            "x-morph": "Gr,V,IPA3,,P,"
+          },
+          {
+            "text": "σου",
+            "lemma": "σύ",
+            "strong": "G47710",
+            "x-morph": "Gr,RP,,,,G,S,"
+          },
+          {
+            "text": "αἱ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NFP,"
+          },
+          {
+            "text": "ἁμαρτίαι",
+            "lemma": "ἁμαρτία",
+            "strong": "G02660",
+            "x-morph": "Gr,N,,,,,NFP,"
+          },
+          {
+            "text": "ἃς",
+            "lemma": "ὅς",
+            "strong": "G37390",
+            "x-morph": "Gr,RR,,,,AFP,"
+          },
+          {
+            "text": "ἐποίεις",
+            "lemma": "ποιέω",
+            "strong": "G41600",
+            "x-morph": "Gr,V,IIA2,,S,"
+          },
+          {
+            "text": "τὸ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,ANS,"
+          },
+          {
+            "text": "πρότερον",
+            "lemma": "πρότερος",
+            "strong": "G43870",
+            "x-morph": "Gr,A,,,,,ANS,"
+          }
+        ]
+      },
+      "53": {
+        "words": [
+          {
+            "text": "πιστευθεὶς",
+            "lemma": "πιστεύω",
+            "strong": "G41000",
+            "x-morph": "Gr,V,PAP,NMS,"
+          },
+          {
+            "text": "ἀκούειν",
+            "lemma": "ἀκούω",
+            "strong": "G01910",
+            "x-morph": "Gr,V,NPA,,,,,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "κρίνειν",
+            "lemma": "κρίνω",
+            "strong": "G29190",
+            "x-morph": "Gr,V,NPA,,,,,"
+          },
+          {
+            "text": "κρίσεις",
+            "lemma": "κρίσις",
+            "strong": "G29200",
+            "x-morph": "Gr,N,,,,,NFP,"
+          },
+          {
+            "text": "θάνατον",
+            "lemma": "θάνατος",
+            "strong": "G22880",
+            "x-morph": "Gr,N,,,,,AMS,"
+          },
+          {
+            "text": "ἐπιφερούσας",
+            "lemma": "ἐπιφέρω",
+            "strong": "G20180",
+            "x-morph": "Gr,V,PPA,AFP,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "τὸν",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,AMS,"
+          },
+          {
+            "text": "μὲν",
+            "lemma": "μέν",
+            "strong": "G33030",
+            "x-morph": "Gr,T,,,,,,,,,"
+          },
+          {
+            "text": "ἀθῷον",
+            "lemma": "ἀθῷος",
+            "strong": "G01210",
+            "x-morph": "Gr,A,,,,,AMS,"
+          },
+          {
+            "text": "κατέκρινας",
+            "lemma": "κατακρίνω",
+            "strong": "G26320",
+            "x-morph": "Gr,V,IAA2,,S,"
+          },
+          {
+            "text": "τοὺς",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,AMP,"
+          },
+          {
+            "text": "δὲ",
+            "lemma": "δέ",
+            "strong": "G11610",
+            "x-morph": "Gr,CC,,,,,,,,"
+          },
+          {
+            "text": "ἐνόχους",
+            "lemma": "ἔνοχος",
+            "strong": "G17770",
+            "x-morph": "Gr,A,,,,,AMP,"
+          },
+          {
+            "text": "ἠφίεις",
+            "lemma": "ἀφίημι",
+            "strong": "G08630",
+            "x-morph": "Gr,V,IIA2,,S,"
+          },
+          {
+            "text": "τοῦ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,GMS,"
+          },
+          {
+            "text": "κυρίου",
+            "lemma": "κύριος",
+            "strong": "G29620",
+            "x-morph": "Gr,N,,,,,GMS,"
+          },
+          {
+            "text": "λέγοντος",
+            "lemma": "λέγω",
+            "strong": "G30040",
+            "x-morph": "Gr,V,PPA,GMS,"
+          },
+          {
+            "text": "ἀθῷον",
+            "lemma": "ἀθῷος",
+            "strong": "G01210",
+            "x-morph": "Gr,A,,,,,AMS,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "δίκαιον",
+            "lemma": "δίκαιος",
+            "strong": "G13420",
+            "x-morph": "Gr,A,,,,,AMS,"
+          },
+          {
+            "text": "οὐκ",
+            "lemma": "οὐ",
+            "strong": "G37560",
+            "x-morph": "Gr,D,,,,,,,,,"
+          },
+          {
+            "text": "ἀποκτενεῖς",
+            "lemma": "ἀποκτείνω",
+            "strong": "G06150",
+            "x-morph": "Gr,V,IFA2,,S,"
+          }
+        ]
+      },
+      "54": {
+        "words": [
+          {
+            "text": "νῦν",
+            "lemma": "νῦν",
+            "strong": "G35680",
+            "x-morph": "Gr,D,,,,,,,,,"
+          },
+          {
+            "text": "οὖν",
+            "lemma": "οὖν",
+            "strong": "G37670",
+            "x-morph": "Gr,CC,,,,,,,,"
+          },
+          {
+            "text": "ὑπὸ",
+            "lemma": "ὑπό",
+            "strong": "G52590",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "τί",
+            "lemma": "τίς",
+            "strong": "G51010",
+            "x-morph": "Gr,RT,,,,ANS,"
+          },
+          {
+            "text": "δένδρον",
+            "lemma": "δένδρον",
+            "strong": "G11860",
+            "x-morph": "Gr,N,,,,,ANS,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ποταπῷ",
+            "lemma": "ποταπός",
+            "strong": "G42170",
+            "x-morph": "Gr,A,,,,,DMS,"
+          },
+          {
+            "text": "τοῦ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,GMS,"
+          },
+          {
+            "text": "παραδείσου",
+            "lemma": "παράδεισος",
+            "strong": "G38570",
+            "x-morph": "Gr,N,,,,,GMS,"
+          },
+          {
+            "text": "τόπῳ",
+            "lemma": "τόπος",
+            "strong": "G51170",
+            "x-morph": "Gr,N,,,,,DMS,"
+          },
+          {
+            "text": "ἑώρακας",
+            "lemma": "ὁράω",
+            "strong": "G37080",
+            "x-morph": "Gr,V,IEA2,,S,"
+          },
+          {
+            "text": "αὐτοὺς",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,AMP,"
+          },
+          {
+            "text": "ὄντας",
+            "lemma": "εἰμί",
+            "strong": "G15100",
+            "x-morph": "Gr,V,PPA,AMP,"
+          },
+          {
+            "text": "σὺν",
+            "lemma": "σύν",
+            "strong": "G48620",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "ἑαυτοῖς",
+            "lemma": "ἑαυτοῦ",
+            "strong": "G14380",
+            "x-morph": "Gr,RE,,,,DMP,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "εἶπεν",
+            "lemma": "λέγω",
+            "strong": "G30040",
+            "x-morph": "Gr,V,IAA3,,S,"
+          },
+          {
+            "text": "ὁ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NMS,"
+          },
+          {
+            "text": "ἀσεβής",
+            "lemma": "ἀσεβής",
+            "strong": "G07650",
+            "x-morph": "Gr,A,,,,,NMS,"
+          },
+          {
+            "text": "ὑπὸ",
+            "lemma": "ὑπό",
+            "strong": "G52590",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "σχῖνον",
+            "lemma": "σχῖνος",
+            "strong": "G69383",
+            "x-morph": "Gr,N,,,,,AFS,"
+          }
+        ]
+      },
+      "55": {
+        "words": [
+          {
+            "text": "εἶπεν",
+            "lemma": "λέγω",
+            "strong": "G30040",
+            "x-morph": "Gr,V,IAA3,,S,"
+          },
+          {
+            "text": "δὲ",
+            "lemma": "δέ",
+            "strong": "G11610",
+            "x-morph": "Gr,CC,,,,,,,,"
+          },
+          {
+            "text": "ὁ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NMS,"
+          },
+          {
+            "text": "νεώτερος",
+            "lemma": "νέος",
+            "strong": "G35010",
+            "x-morph": "Gr,A,,,,,NMSC"
+          },
+          {
+            "text": "ὀρθῶς",
+            "lemma": "ὀρθῶς",
+            "strong": "G37230",
+            "x-morph": "Gr,D,,,,,,,,,"
+          },
+          {
+            "text": "ἔψευσαι",
+            "lemma": "ψεύδομαι",
+            "strong": "G55740",
+            "x-morph": "Gr,V,IEM2,,S,"
+          },
+          {
+            "text": "εἰς",
+            "lemma": "εἰς",
+            "strong": "G15190",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "τὴν",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,AFS,"
+          },
+          {
+            "text": "σεαυτοῦ",
+            "lemma": "σεαυτοῦ",
+            "strong": "G45720",
+            "x-morph": "Gr,RE,,,,GMS,"
+          },
+          {
+            "text": "ψυχήν",
+            "lemma": "ψυχή",
+            "strong": "G55900",
+            "x-morph": "Gr,N,,,,,AFS,"
+          },
+          {
+            "text": "ὁ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NMS,"
+          },
+          {
+            "text": "γὰρ",
+            "lemma": "γάρ",
+            "strong": "G10630",
+            "x-morph": "Gr,CC,,,,,,,,"
+          },
+          {
+            "text": "ἄγγελος",
+            "lemma": "ἄγγελος",
+            "strong": "G00320",
+            "x-morph": "Gr,N,,,,,NMS,"
+          },
+          {
+            "text": "κυρίου",
+            "lemma": "κύριος",
+            "strong": "G29620",
+            "x-morph": "Gr,N,,,,,GMS,"
+          },
+          {
+            "text": "σχίσει",
+            "lemma": "σχίζω",
+            "strong": "G49770",
+            "x-morph": "Gr,V,IFA3,,S,"
+          },
+          {
+            "text": "σου",
+            "lemma": "σύ",
+            "strong": "G47710",
+            "x-morph": "Gr,RP,,,,G,S,"
+          },
+          {
+            "text": "τὴν",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,AFS,"
+          },
+          {
+            "text": "ψυχὴν",
+            "lemma": "ψυχή",
+            "strong": "G55900",
+            "x-morph": "Gr,N,,,,,AFS,"
+          },
+          {
+            "text": "σήμερον",
+            "lemma": "σήμερον",
+            "strong": "G45940",
+            "x-morph": "Gr,D,,,,,,,,,"
+          }
+        ]
+      },
+      "56": {
+        "words": [
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "τοῦτον",
+            "lemma": "οὗτος",
+            "strong": "G37780",
+            "x-morph": "Gr,RD,,,,AMS,"
+          },
+          {
+            "text": "μεταστήσας",
+            "lemma": "ἀνθίστημι",
+            "strong": "G04360",
+            "x-morph": "Gr,V,PAA,NMS,"
+          },
+          {
+            "text": "εἶπε",
+            "lemma": "λέγω",
+            "strong": "G30040",
+            "x-morph": "Gr,V,MAA2,,S,"
+          },
+          {
+            "text": "προσαγαγεῖν",
+            "lemma": "προσάγω",
+            "strong": "G43170",
+            "x-morph": "Gr,V,NAA,,,,,"
+          },
+          {
+            "text": "αὐτῷ",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,DMS,"
+          },
+          {
+            "text": "τὸν",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,AMS,"
+          },
+          {
+            "text": "ἕτερον",
+            "lemma": "ἕτερος",
+            "strong": "G20870",
+            "x-morph": "Gr,A,,,,,AMS,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "τούτῳ",
+            "lemma": "οὗτος",
+            "strong": "G37780",
+            "x-morph": "Gr,RD,,,,DMS,"
+          },
+          {
+            "text": "δὲ",
+            "lemma": "δέ",
+            "strong": "G11610",
+            "x-morph": "Gr,CC,,,,,,,,"
+          },
+          {
+            "text": "εἶπεν",
+            "lemma": "λέγω",
+            "strong": "G30040",
+            "x-morph": "Gr,V,IAA3,,S,"
+          },
+          {
+            "text": "διὰ",
+            "lemma": "διά",
+            "strong": "G12230",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "τί",
+            "lemma": "τίς",
+            "strong": "G51010",
+            "x-morph": "Gr,RT,,,,ANS,"
+          },
+          {
+            "text": "διεστραμμένον",
+            "lemma": "διαστρέφω",
+            "strong": "G12940",
+            "x-morph": "Gr,V,PEM,ANS,"
+          },
+          {
+            "text": "τὸ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,ANS,"
+          },
+          {
+            "text": "σπέρμα",
+            "lemma": "σπέρμα",
+            "strong": "G46900",
+            "x-morph": "Gr,N,,,,,ANS,"
+          },
+          {
+            "text": "σου",
+            "lemma": "σύ",
+            "strong": "G47710",
+            "x-morph": "Gr,RP,,,,G,S,"
+          },
+          {
+            "text": "ὡς",
+            "lemma": "ὡς",
+            "strong": "G56130",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "Σιδῶνος",
+            "lemma": "Σιδών",
+            "strong": "G46050",
+            "x-morph": "Gr,N,,,,,G,S,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "οὐχ",
+            "lemma": "οὐ",
+            "strong": "G37560",
+            "x-morph": "Gr,D,,,,,,,,,"
+          },
+          {
+            "text": "ὡς",
+            "lemma": "ὡς",
+            "strong": "G56130",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "Ιουδα",
+            "lemma": "Ἰουδα",
+            "strong": "G24480",
+            "x-morph": "Gr,N,,,,,G,S,"
+          },
+          {
+            "text": "τὸ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,ANS,"
+          },
+          {
+            "text": "κάλλος",
+            "lemma": "καλός",
+            "strong": "G25700",
+            "x-morph": "Gr,N,,,,,ANS,"
+          },
+          {
+            "text": "σε",
+            "lemma": "σύ",
+            "strong": "G47710",
+            "x-morph": "Gr,RP,,,,A,S,"
+          },
+          {
+            "text": "ἠπάτησεν",
+            "lemma": "ἀπατάω",
+            "strong": "G05380",
+            "x-morph": "Gr,V,IAA3,,S,"
+          },
+          {
+            "text": "ἡ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NFS,"
+          },
+          {
+            "text": "μιαρὰ",
+            "lemma": "μιαρός",
+            "strong": "G67947",
+            "x-morph": "Gr,A,,,,,NFS,"
+          },
+          {
+            "text": "ἐπιθυμία",
+            "lemma": "ἐπιθυμία",
+            "strong": "G19390",
+            "x-morph": "Gr,N,,,,,NFS,"
+          }
+        ]
+      },
+      "57": {
+        "words": [
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "οὕτως",
+            "lemma": "οὕτω",
+            "strong": "G37790",
+            "x-morph": "Gr,D,,,,,,,,,"
+          },
+          {
+            "text": "ἐποιεῖτε",
+            "lemma": "ποιέω",
+            "strong": "G41600",
+            "x-morph": "Gr,V,IIA2,,P,"
+          },
+          {
+            "text": "θυγατράσιν",
+            "lemma": "θυγατράσιν",
+            "strong": "G69384",
+            "x-morph": "Gr,N,,,,,DFP,"
+          },
+          {
+            "text": "Ισραηλ",
+            "lemma": "Ἰσραήλ",
+            "strong": "G24740",
+            "x-morph": "Gr,N,,,,,GMS,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ἐκεῖναι",
+            "lemma": "ἐκεῖνος",
+            "strong": "G15650",
+            "x-morph": "Gr,RD,,,,NFP,"
+          },
+          {
+            "text": "φοβούμεναι",
+            "lemma": "φοβέω",
+            "strong": "G53990",
+            "x-morph": "Gr,V,PPM,NFP,"
+          },
+          {
+            "text": "ὡμιλοῦσαν",
+            "lemma": "ὁμιλέω",
+            "strong": "G36560",
+            "x-morph": "Gr,V,IIA3,,P,"
+          },
+          {
+            "text": "ὑμῖν",
+            "lemma": "σύ",
+            "strong": "G47710",
+            "x-morph": "Gr,RP,,,,D,P,"
+          },
+          {
+            "text": "ἀλλ’",
+            "lemma": "ἀλλά",
+            "strong": "G02350",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "οὐ",
+            "lemma": "οὐ",
+            "strong": "G37560",
+            "x-morph": "Gr,D,,,,,,,,,"
+          },
+          {
+            "text": "θυγάτηρ",
+            "lemma": "θυγάτηρ",
+            "strong": "G23640",
+            "x-morph": "Gr,N,,,,,NFS,"
+          },
+          {
+            "text": "Ιουδα",
+            "lemma": "Ἰουδα",
+            "strong": "G24480",
+            "x-morph": "Gr,N,,,,,GMS,"
+          },
+          {
+            "text": "ὑπέμεινε",
+            "lemma": "ὑπομένω",
+            "strong": "G52780",
+            "x-morph": "Gr,V,IAA3,,S,"
+          },
+          {
+            "text": "τὴν",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,AFS,"
+          },
+          {
+            "text": "νόσον",
+            "lemma": "νόσος",
+            "strong": "G35540",
+            "x-morph": "Gr,N,,,,,AFS,"
+          },
+          {
+            "text": "ὑμῶν",
+            "lemma": "σύ",
+            "strong": "G47710",
+            "x-morph": "Gr,RP,,,,G,P,"
+          },
+          {
+            "text": "ἐν",
+            "lemma": "ἐν",
+            "strong": "G17220",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "ἀνομίᾳ",
+            "lemma": "ἀνομία",
+            "strong": "G04580",
+            "x-morph": "Gr,N,,,,,DFS,"
+          },
+          {
+            "text": "ὑπενεγκεῖν",
+            "lemma": "ὑποφέρω",
+            "strong": "G52970",
+            "x-morph": "Gr,V,NAA,,,,,"
+          }
+        ]
+      },
+      "58": {
+        "words": [
+          {
+            "text": "νῦν",
+            "lemma": "νῦν",
+            "strong": "G35680",
+            "x-morph": "Gr,D,,,,,,,,,"
+          },
+          {
+            "text": "οὖν",
+            "lemma": "οὖν",
+            "strong": "G37670",
+            "x-morph": "Gr,CC,,,,,,,,"
+          },
+          {
+            "text": "λέγε",
+            "lemma": "λέγω",
+            "strong": "G30040",
+            "x-morph": "Gr,V,MPA2,,S,"
+          },
+          {
+            "text": "μοι",
+            "lemma": "ἐγώ",
+            "strong": "G14730",
+            "x-morph": "Gr,RP,,,,D,S,"
+          },
+          {
+            "text": "ὑπὸ",
+            "lemma": "ὑπό",
+            "strong": "G52590",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "τί",
+            "lemma": "τίς",
+            "strong": "G51010",
+            "x-morph": "Gr,RT,,,,ANS,"
+          },
+          {
+            "text": "δένδρον",
+            "lemma": "δένδρον",
+            "strong": "G11860",
+            "x-morph": "Gr,N,,,,,ANS,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ἐν",
+            "lemma": "ἐν",
+            "strong": "G17220",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "ποίῳ",
+            "lemma": "ποῖος",
+            "strong": "G41690",
+            "x-morph": "Gr,A,,,,,DMS,"
+          },
+          {
+            "text": "τοῦ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,GMS,"
+          },
+          {
+            "text": "κήπου",
+            "lemma": "κῆπος",
+            "strong": "G27790",
+            "x-morph": "Gr,N,,,,,GMS,"
+          },
+          {
+            "text": "τόπῳ",
+            "lemma": "τόπος",
+            "strong": "G51170",
+            "x-morph": "Gr,N,,,,,DMS,"
+          },
+          {
+            "text": "κατέλαβες",
+            "lemma": "καταλαμβάνω",
+            "strong": "G26380",
+            "x-morph": "Gr,V,IAA2,,S,"
+          },
+          {
+            "text": "αὐτοὺς",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,AMP,"
+          },
+          {
+            "text": "ὁμιλοῦντας",
+            "lemma": "ὁμιλέω",
+            "strong": "G36560",
+            "x-morph": "Gr,V,PPA,AMP,"
+          },
+          {
+            "text": "ἀλλήλοις",
+            "lemma": "ἀλλήλω",
+            "strong": "G60206",
+            "x-morph": "Gr,RI,,,,DMP,"
+          },
+          {
+            "text": "ὁ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NMS,"
+          },
+          {
+            "text": "δὲ",
+            "lemma": "δέ",
+            "strong": "G11610",
+            "x-morph": "Gr,CC,,,,,,,,"
+          },
+          {
+            "text": "εἶπεν",
+            "lemma": "λέγω",
+            "strong": "G30040",
+            "x-morph": "Gr,V,IAA3,,S,"
+          },
+          {
+            "text": "ὑπὸ",
+            "lemma": "ὑπό",
+            "strong": "G52590",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "πρῖνον",
+            "lemma": "πρῖνος",
+            "strong": "G69385",
+            "x-morph": "Gr,N,,,,,AFS,"
+          }
+        ]
+      },
+      "59": {
+        "words": [
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "εἶπεν",
+            "lemma": "λέγω",
+            "strong": "G30040",
+            "x-morph": "Gr,V,IAA3,,S,"
+          },
+          {
+            "text": "Δανιηλ",
+            "lemma": "Δανιήλ",
+            "strong": "G11580",
+            "x-morph": "Gr,N,,,,,NMS,"
+          },
+          {
+            "text": "ἁμαρτωλέ",
+            "lemma": "ἁμαρτωλός",
+            "strong": "G02680",
+            "x-morph": "Gr,N,,,,,VMS,"
+          },
+          {
+            "text": "νῦν",
+            "lemma": "νῦν",
+            "strong": "G35680",
+            "x-morph": "Gr,D,,,,,,,,,"
+          },
+          {
+            "text": "ὁ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NMS,"
+          },
+          {
+            "text": "ἄγγελος",
+            "lemma": "ἄγγελος",
+            "strong": "G00320",
+            "x-morph": "Gr,N,,,,,NMS,"
+          },
+          {
+            "text": "κυρίου",
+            "lemma": "κύριος",
+            "strong": "G29620",
+            "x-morph": "Gr,N,,,,,GMS,"
+          },
+          {
+            "text": "τὴν",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,AFS,"
+          },
+          {
+            "text": "ῥομφαίαν",
+            "lemma": "ῥομφαία",
+            "strong": "G45010",
+            "x-morph": "Gr,N,,,,,AFS,"
+          },
+          {
+            "text": "ἕστηκεν",
+            "lemma": "ἵστημι",
+            "strong": "G24760",
+            "x-morph": "Gr,V,IEA3,,S,"
+          },
+          {
+            "text": "ἔχων",
+            "lemma": "ἔχω",
+            "strong": "G21920",
+            "x-morph": "Gr,V,PPA,NMS,"
+          },
+          {
+            "text": "ἕως",
+            "lemma": "ἕως",
+            "strong": "G21930",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ὁ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NMS,"
+          },
+          {
+            "text": "λαὸς",
+            "lemma": "λαός",
+            "strong": "G29920",
+            "x-morph": "Gr,N,,,,,NMS,"
+          },
+          {
+            "text": "ἐξολεθρεύσει",
+            "lemma": "ἐξολεθρεύω",
+            "strong": "G18420",
+            "x-morph": "Gr,V,IFA3,,S,"
+          },
+          {
+            "text": "ὑμᾶς",
+            "lemma": "σύ",
+            "strong": "G47710",
+            "x-morph": "Gr,RP,,,,A,P,"
+          },
+          {
+            "text": "ἵνα",
+            "lemma": "ἵνα",
+            "strong": "G24430",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "καταπρίσῃ",
+            "lemma": "πριω",
+            "strong": "G42525",
+            "x-morph": "Gr,V,SAA3,,S,"
+          },
+          {
+            "text": "σε",
+            "lemma": "σύ",
+            "strong": "G47710",
+            "x-morph": "Gr,RP,,,,A,S,"
+          }
+        ]
+      },
+      "60": {
+        "words": [
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "πᾶσα",
+            "lemma": "πᾶς",
+            "strong": "G39560",
+            "x-morph": "Gr,A,,,,,NFS,"
+          },
+          {
+            "text": "ἡ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NFS,"
+          },
+          {
+            "text": "συναγωγὴ",
+            "lemma": "συναγωγή",
+            "strong": "G48640",
+            "x-morph": "Gr,N,,,,,NFS,"
+          },
+          {
+            "text": "ἀνεβόησεν",
+            "lemma": "ἀναβοάω",
+            "strong": "G03100",
+            "x-morph": "Gr,V,IAA3,,S,"
+          },
+          {
+            "text": "ἐπὶ",
+            "lemma": "ἐπί",
+            "strong": "G19090",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "τῷ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,DMS,"
+          },
+          {
+            "text": "νεωτέρῳ",
+            "lemma": "νέος",
+            "strong": "G35010",
+            "x-morph": "Gr,A,,,,,DMS,"
+          },
+          {
+            "text": "ὡς",
+            "lemma": "ὡς",
+            "strong": "G56130",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ἐκ",
+            "lemma": "ἐκ",
+            "strong": "G15370",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "τοῦ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,GNS,"
+          },
+          {
+            "text": "ἰδίου",
+            "lemma": "ἴδιος",
+            "strong": "G23980",
+            "x-morph": "Gr,A,,,,,GNS,"
+          },
+          {
+            "text": "στόματος",
+            "lemma": "στόμα",
+            "strong": "G47500",
+            "x-morph": "Gr,N,,,,,GNS,"
+          },
+          {
+            "text": "ὁμολόγους",
+            "lemma": "ὁμόλογος",
+            "strong": "G69386",
+            "x-morph": "Gr,A,,,,,AMP,"
+          },
+          {
+            "text": "αὐτοὺς",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,AMP,"
+          },
+          {
+            "text": "κατέστησεν",
+            "lemma": "ἀνθίστημι",
+            "strong": "G04360",
+            "x-morph": "Gr,V,IAA3,,S,"
+          },
+          {
+            "text": "ἀμφοτέρους",
+            "lemma": "ἀμφότεροι",
+            "strong": "G02970",
+            "x-morph": "Gr,A,,,,,AMP,"
+          },
+          {
+            "text": "ψευδομάρτυρας",
+            "lemma": "ψευδόμαρτυς",
+            "strong": "G55755",
+            "x-morph": "Gr,N,,,,,AMP,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ὡς",
+            "lemma": "ὡς",
+            "strong": "G56130",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ὁ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NMS,"
+          },
+          {
+            "text": "νόμος",
+            "lemma": "νόμος",
+            "strong": "G35510",
+            "x-morph": "Gr,N,,,,,NMS,"
+          },
+          {
+            "text": "διαγορεύει",
+            "lemma": "προσαγορεύω",
+            "strong": "G43160",
+            "x-morph": "Gr,V,IPA3,,S,"
+          },
+          {
+            "text": "ἐποίησαν",
+            "lemma": "ποιέω",
+            "strong": "G41600",
+            "x-morph": "Gr,V,IAA3,,P,"
+          },
+          {
+            "text": "αὐτοῖς",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,DMP,"
+          },
+          {
+            "text": "καθὼς",
+            "lemma": "κατάβασις",
+            "strong": "G26000",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ἐπονηρεύσαντο",
+            "lemma": "πονηρεύω",
+            "strong": "G66027",
+            "x-morph": "Gr,V,IAM3,,P,"
+          },
+          {
+            "text": "κατὰ",
+            "lemma": "κατά",
+            "strong": "G25960",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "τῆς",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,GFS,"
+          },
+          {
+            "text": "ἀδελφῆς",
+            "lemma": "ἀδελφή",
+            "strong": "G00790",
+            "x-morph": "Gr,N,,,,,GFS,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ἐφίμωσαν",
+            "lemma": "φιμόω",
+            "strong": "G53920",
+            "x-morph": "Gr,V,IAA3,,P,"
+          },
+          {
+            "text": "αὐτοὺς",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,AMP,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ἐξαγαγόντες",
+            "lemma": "ἐκφεύγω",
+            "strong": "G16280",
+            "x-morph": "Gr,V,PAA,NMP,"
+          },
+          {
+            "text": "ἔρριψαν",
+            "lemma": "ῥίπτω",
+            "strong": "G44960",
+            "x-morph": "Gr,V,IAA3,,P,"
+          },
+          {
+            "text": "εἰς",
+            "lemma": "εἰς",
+            "strong": "G15190",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "φάραγγα",
+            "lemma": "φάραγξ",
+            "strong": "G53270",
+            "x-morph": "Gr,N,,,,,AFS,"
+          },
+          {
+            "text": "τότε",
+            "lemma": "τότε",
+            "strong": "G51190",
+            "x-morph": "Gr,D,,,,,,,,,"
+          },
+          {
+            "text": "ὁ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NMS,"
+          },
+          {
+            "text": "ἄγγελος",
+            "lemma": "ἄγγελος",
+            "strong": "G00320",
+            "x-morph": "Gr,N,,,,,NMS,"
+          },
+          {
+            "text": "κυρίου",
+            "lemma": "κύριος",
+            "strong": "G29620",
+            "x-morph": "Gr,N,,,,,GMS,"
+          },
+          {
+            "text": "ἔρριψε",
+            "lemma": "ῥίπτω",
+            "strong": "G44960",
+            "x-morph": "Gr,V,IAA3,,S,"
+          },
+          {
+            "text": "πῦρ",
+            "lemma": "πῦρ",
+            "strong": "G44420",
+            "x-morph": "Gr,N,,,,,ANS,"
+          },
+          {
+            "text": "διὰ",
+            "lemma": "διά",
+            "strong": "G12230",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "μέσου",
+            "lemma": "μέσος",
+            "strong": "G33190",
+            "x-morph": "Gr,A,,,,,GMS,"
+          },
+          {
+            "text": "αὐτῶν",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,GMP,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ἐσώθη",
+            "lemma": "σώζω",
+            "strong": "G49820",
+            "x-morph": "Gr,V,IAP3,,S,"
+          },
+          {
+            "text": "αἷμα",
+            "lemma": "αἷμα",
+            "strong": "G01290",
+            "x-morph": "Gr,N,,,,,NNS,"
+          },
+          {
+            "text": "ἀναίτιον",
+            "lemma": "ἀναίτιος",
+            "strong": "G03380",
+            "x-morph": "Gr,A,,,,,NNS,"
+          },
+          {
+            "text": "ἐν",
+            "lemma": "ἐν",
+            "strong": "G17220",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "τῇ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,DFS,"
+          },
+          {
+            "text": "ἡμέρᾳ",
+            "lemma": "ἡμέρα",
+            "strong": "G22500",
+            "x-morph": "Gr,N,,,,,DFS,"
+          },
+          {
+            "text": "ἐκείνῃ",
+            "lemma": "ἐκεῖνος",
+            "strong": "G15650",
+            "x-morph": "Gr,RD,,,,DFS,"
+          }
+        ]
+      },
+      "63": {
+        "words": [
+          {
+            "text": "διὰ",
+            "lemma": "διά",
+            "strong": "G12230",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "τοῦτο",
+            "lemma": "οὗτος",
+            "strong": "G37780",
+            "x-morph": "Gr,RD,,,,ANS,"
+          },
+          {
+            "text": "οἱ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,NMP,"
+          },
+          {
+            "text": "νεώτεροι",
+            "lemma": "νέος",
+            "strong": "G35010",
+            "x-morph": "Gr,A,,,,,NMPC"
+          },
+          {
+            "text": "ἀγαπητοὶ",
+            "lemma": "ἀγαπητός",
+            "strong": "G00270",
+            "x-morph": "Gr,A,,,,,NMP,"
+          },
+          {
+            "text": "Ιακωβ",
+            "lemma": "Ἰακώβ",
+            "strong": "G23840",
+            "x-morph": "Gr,N,,,,,GMS,"
+          },
+          {
+            "text": "ἐν",
+            "lemma": "ἐν",
+            "strong": "G17220",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "τῇ",
+            "lemma": "ὁ",
+            "strong": "G35880",
+            "x-morph": "Gr,EA,,,,DFS,"
+          },
+          {
+            "text": "ἁπλότητι",
+            "lemma": "ἁπλότης",
+            "strong": "G05720",
+            "x-morph": "Gr,N,,,,,DFS,"
+          },
+          {
+            "text": "αὐτῶν",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,GMP,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ἡμεῖς",
+            "lemma": "ἐγώ",
+            "strong": "G14730",
+            "x-morph": "Gr,RP,,,,N,P,"
+          },
+          {
+            "text": "φυλασσώμεθα",
+            "lemma": "φυλάσσω",
+            "strong": "G54420",
+            "x-morph": "Gr,V,SPM1,,P,"
+          },
+          {
+            "text": "εἰς",
+            "lemma": "εἰς",
+            "strong": "G15190",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "υἱοὺς",
+            "lemma": "υἱός",
+            "strong": "G52070",
+            "x-morph": "Gr,N,,,,,AMP,"
+          },
+          {
+            "text": "δυνατοὺς",
+            "lemma": "δυνατός",
+            "strong": "G14150",
+            "x-morph": "Gr,A,,,,,AMP,"
+          },
+          {
+            "text": "νεωτέρους",
+            "lemma": "νέος",
+            "strong": "G35010",
+            "x-morph": "Gr,A,,,,,AMPC"
+          },
+          {
+            "text": "εὐσεβήσουσι",
+            "lemma": "εὐσεβέω",
+            "strong": "G21510",
+            "x-morph": "Gr,V,IFA3,,P,"
+          },
+          {
+            "text": "γὰρ",
+            "lemma": "γάρ",
+            "strong": "G10630",
+            "x-morph": "Gr,CC,,,,,,,,"
+          },
+          {
+            "text": "νεώτεροι",
+            "lemma": "νέος",
+            "strong": "G35010",
+            "x-morph": "Gr,A,,,,,NMPC"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "ἔσται",
+            "lemma": "εἰμί",
+            "strong": "G15100",
+            "x-morph": "Gr,V,IFM3,,S,"
+          },
+          {
+            "text": "ἐν",
+            "lemma": "ἐν",
+            "strong": "G17220",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "αὐτοῖς",
+            "lemma": "αὐτός",
+            "strong": "G08460",
+            "x-morph": "Gr,RP,,,,DMP,"
+          },
+          {
+            "text": "πνεῦμα",
+            "lemma": "πνεῦμα",
+            "strong": "G41510",
+            "x-morph": "Gr,N,,,,,NNS,"
+          },
+          {
+            "text": "ἐπιστήμης",
+            "lemma": "ἐπιστήμη",
+            "strong": "G61004",
+            "x-morph": "Gr,N,,,,,GFS,"
+          },
+          {
+            "text": "καὶ",
+            "lemma": "καί",
+            "strong": "G25320",
+            "x-morph": "Gr,C,,,,,,,,,"
+          },
+          {
+            "text": "συνέσεως",
+            "lemma": "σύνεσις",
+            "strong": "G49070",
+            "x-morph": "Gr,N,,,,,GFS,"
+          },
+          {
+            "text": "εἰς",
+            "lemma": "εἰς",
+            "strong": "G15190",
+            "x-morph": "Gr,P,,,,,,,,,"
+          },
+          {
+            "text": "αἰῶνα",
+            "lemma": "αἰών",
+            "strong": "G01650",
+            "x-morph": "Gr,N,,,,,AMS,"
+          },
+          {
+            "text": "αἰῶνος",
+            "lemma": "αἰών",
+            "strong": "G01650",
+            "x-morph": "Gr,N,,,,,GMS,"
+          }
+        ]
+      }
+    }
+  }
+}
